@@ -1,0 +1,13 @@
+brand
+laptop type
+ram
+weight
+os
+gpu
+touchscreen
+ips
+hard drive
+ssd
+screen resolution
+screen size
+processor

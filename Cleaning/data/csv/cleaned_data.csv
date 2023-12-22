@@ -1,0 +1,985 @@
+Price,Company,Operating System,RAM,Type,Warranty,Inches,TouchScreen,HDD,SSD,Generation,Processor Type
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+34490,Lenovo,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 5
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+54990,Acer,Windows11,8,Swift,1,14.0,NO,,512.0,12,i5
+79990,APPLE,Mac,8,MacBook Air,1,,NO,,256.0,,M1
+36490,DELL,Windows11,8,Inspiron,1,,NO,,512.0,11,i3
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+38990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,11,i3
+30990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Athlon Dual Core
+78990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,12,i5
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+20999,HP,DOS,4,N\A,1,15.6,NO,,256.0,,Athlon Dual Core
+52790,DELL,Windows11,16,Inspiron,1,15.6,NO,,512.0,11,i5
+54990,HP,Windows11,16,N\A,1,15.6,NO,,512.0,11,i5
+35990,Lenovo,Windows11,8,N\A,1,15.6,NO,,512.0,12,i3
+43990,MSI,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 5
+60990,Lenovo,Windows11,16,IdeaPad,1,14.0,NO,,512.0,,Ryzen 5
+36990,HP,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 3
+40850,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i3
+69990,Lenovo,Windows11,16,N\A,1,14.0,NO,,512.0,11,i5
+86990,Lenovo,Windows11,16,IdeaPad,1,16.0,NO,,512.0,13,i7
+36499,Lenovo,Windows11,8,IdeaPad,1,15.6,NO,,512.0,11,i3
+62890,ASUS,Windows11,16,VivoBook,1,16.0,NO,,512.0,,Ryzen 7
+34490,DELL,DOS,8,N\A,1,14.0,NO,,512.0,11,i3
+46990,Lenovo,Windows11,8,IdeaPad,1,,NO,,512.0,11,i5
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+32990,Acer,Windows11,8,N\A,1,15.6,NO,,512.0,12,i3
+78990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,12,i5
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+43990,ASUS,Windows11,8,VivoBook,1,15.6,NO,,512.0,11,i5
+29990,ASUS,Windows11,8,VivoBook,1,15.6,NO,,256.0,11,i3
+57990,HP,Windows11,16,N\A,1,,NO,,512.0,12,i5
+50990,realme,Windows11,16,Realme Book,1,,NO,,512.0,11,i5
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+43990,MSI,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 5
+35990,HP,Windows11,8,N\A,1,,NO,,256.0,11,i3
+36990,DELL,Windows11,8,Inspiron,1,15.6,NO,,512.0,11,i3
+69990,Lenovo,Windows11,16,N\A,1,14.0,NO,,512.0,11,i5
+60990,Lenovo,Windows11,16,IdeaPad,1,14.0,NO,,512.0,,Ryzen 5
+79990,APPLE,Mac,8,MacBook Air,1,,NO,,256.0,,M1
+30749,Lenovo,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+79990,APPLE,Mac,8,MacBook Air,1,,NO,,256.0,,M1
+23990,Acer,Windows11,8,N\A,1,14.0,NO,,256.0,11,i3
+86990,Lenovo,Windows11,16,IdeaPad,1,16.0,NO,,512.0,13,i7
+59990,MSI,Windows11,16,N\A,1,,NO,,512.0,,Ryzen 7
+59990,MSI,Windows11,16,N\A,1,,NO,,512.0,,Ryzen 7
+46990,ASUS,Windows11,16,VivoBook,1,15.6,NO,,512.0,11,i5
+56990,Lenovo,Windows11,8,IdeaPad,1,,NO,,512.0,11,i5
+69990,Lenovo,Windows11,16,IdeaPad,1,,NO,,512.0,12,i5
+26990,Infinix,Windows11,8,N\A,1,,NO,,512.0,11,i3
+25990,Acer,Windows11,8,N\A,1,,NO,,256.0,,Ryzen 3
+43990,HP,Windows11,16,N\A,1,15.6,NO,,512.0,12,i3
+63990,SAMSUNG,Windows11,16,N\A,1,15.6,NO,,512.0,12,i5
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+42490,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 5
+40990,Lenovo,Windows11,8,IdeaPad,1,15.6,NO,,512.0,,Ryzen 5
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+26990,Infinix,Windows11,8,N\A,1,,NO,,256.0,10,i3
+37890,HP,Windows11,8,N\A,1,,NO,,512.0,11,i3
+43990,MSI,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 5
+37990,Infinix,Windows11,16,N\A,1,14.0,NO,,512.0,12,i5
+55490,Lenovo,Windows11,8,IdeaPad,1,15.6,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 7
+38490,HP,Windows11,8,N\A,1,14.0,NO,,512.0,,i3
+34990,Acer,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 5
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+114990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,13,i7
+47990,Acer,Windows11,16,Aspire,1,15.6,NO,,512.0,12,i5
+38990,MSI,Windows11,16,N\A,1,14.0,NO,,512.0,11,i5
+29990,SAMSUNG,Windows11,4,Galaxy Book,1,14.0,NO,,,,Other
+72990,HP,Windows11,16,Pavilion,1,14.0,YES,,512.0,12,i5
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+34990,Infinix,Windows11,16,N\A,1,,NO,,512.0,11,i5
+31990,Acer,Windows11,8,N\A,1,,NO,,512.0,11,i3
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+26990,ASUS,Windows11,8,VivoBook,1,15.6,NO,,256.0,,Other
+65990,ASUS,Windows11,16,Creator,1,15.6,NO,,512.0,,Ryzen 5
+50990,HP,Windows11,8,Pavilion,1,15.6,NO,,512.0,12,i3
+43990,ASUS,Windows11,8,VivoBook,1,15.6,NO,,512.0,,Ryzen 5
+55490,Lenovo,Windows11,8,IdeaPad,1,15.6,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 7
+54990,DELL,Windows11,8,N\A,1,15.6,NO,,512.0,,i5
+26990,Infinix,Windows11,8,N\A,1,,NO,,512.0,10,i3
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+59990,MSI,Windows11,16,N\A,1,,NO,,512.0,,Ryzen 7
+72990,MSI,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+66500,Lenovo,Windows11,16,IdeaPad,1,,NO,,512.0,12,i5
+54990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+36490,DELL,Windows11,8,N\A,1,15.6,NO,,512.0,11,i3
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+29990,HP,Windows11,8,N\A,1,,NO,,512.0,,Ryzen 3
+55350,Lenovo,Windows11,16,IdeaPad,1,15.6,NO,,512.0,12,i5
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+38990,ASUS,Windows11,8,VivoBook,1,15.6,NO,,512.0,,Ryzen 3
+40990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i3
+64200,HP,Windows11,8,N\A,1,15.6,NO,,512.0,13,i5
+65249,HP,Windows11,16,Pavilion,1,,NO,,512.0,12,i5
+55490,Lenovo,Windows11,8,IdeaPad,1,15.6,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 7
+36990,Acer,Windows11,8,Aspire,1,,NO,,512.0,12,i3
+63990,MSI,Windows11,16,N\A,1,15.6,NO,1024.0,256.0,11,i7
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+59990,MSI,Windows11,16,N\A,1,,NO,,512.0,,Ryzen 7
+30480,ASUS,Windows11,8,VivoBook,1,,NO,,512.0,,Other
+56990,SAMSUNG,Windows11,8,N\A,1,15.6,NO,,256.0,12,i5
+36390,DELL,Windows11,8,Inspiron,1,15.6,NO,,512.0,11,i3
+39990,HP,Windows11,8,N\A,1,14.0,NO,,512.0,11,i3
+37990,HP,Windows11,8,N\A,1,,NO,,512.0,,Ryzen 3
+114990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,13,i7
+79990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,,Ryzen 7
+59990,ASUS,Windows11,16,VivoBook,1,,NO,,512.0,12,i5
+59990,MSI,Windows11,16,N\A,1,,NO,,512.0,,Ryzen 7
+60990,Lenovo,Windows11,16,IdeaPad,1,14.0,NO,,512.0,,Ryzen 5
+74990,ASUS,Windows11,16,VivoBook,1,14.0,NO,,512.0,12,i5
+44990,Acer,Windows11,8,Aspire,1,,NO,,512.0,12,i5
+53800,HP,Windows11,8,Pavilion,1,,YES,,512.0,11,i3
+50990,Acer,Windows11,16,Aspire,1,15.6,NO,,512.0,12,i5
+93590,Lenovo,Windows11,16,IdeaPad,1,14.0,NO,,512.0,,Ryzen 7
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+35990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,11,i5
+76990,HP,Windows11,16,N\A,1,15.6,NO,,512.0,,Ryzen 7
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+23990,Infinix,Windows11,8,N\A,1,,NO,,512.0,11,Other
+35990,ASUS,Windows11,8,VivoBook,1,14.0,NO,,512.0,,Ryzen 3
+57990,Acer,Windows11,8,Aspire,1,15.6,NO,,512.0,12,i5
+46599,HP,Windows11,16,N\A,1,15.6,NO,,512.0,,Ryzen 5
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+55490,Lenovo,Windows11,8,IdeaPad,1,15.6,NO,,512.0,11,i5
+107990,APPLE,Mac,8,MacBook Air,1,13.6,NO,,256.0,,Other
+65990,HP,Windows11,16,N\A,1,15.6,NO,,512.0,,Ryzen 5
+57990,HP,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 7
+114990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,13,i7
+32990,HP,Windows10,8,N\A,1,,NO,1024.0,,11,i3
+62990,Lenovo,Windows11,8,IdeaPad,1,15.6,NO,,512.0,,Ryzen 5
+40990,ASUS,Windows11,8,VivoBook,1,15.6,NO,,512.0,12,i3
+229990,APPLE,Mac,16,MacBook Pro,1,14.0,NO,,1024.0,,Other
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+285490,APPLE,Mac,32,MacBook Pro,1,14.0,NO,,1024.0,,Other
+99990,ASUS,Windows11,16,ZenBook,1,13.3,YES,,512.0,,Ryzen 5
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+78990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,12,i5
+51990,Lenovo,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+107990,APPLE,Mac,8,MacBook Air,1,13.6,NO,,256.0,,Other
+56390,HP,Windows11,8,Pavilion,1,14.0,NO,,512.0,12,i3
+88990,ASUS,Windows11,16,Gaming,1,15.6,NO,,1024.0,,Ryzen 7
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+67990,MSI,Windows11,16,N\A,1,15.6,NO,,512.0,13,i7
+89990,Acer,Windows11,16,N\A,1,15.6,NO,,512.0,12,i7
+43990,MSI,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 5
+69990,Lenovo,Windows11,16,N\A,1,14.0,NO,,512.0,11,i5
+107990,APPLE,Mac,8,MacBook Air,1,13.6,NO,,256.0,,Other
+51098,HP,Windows11,8,Pavilion,1,14.0,NO,,512.0,,Ryzen 5
+38490,DELL,Windows10,8,N\A,1,15.6,NO,1024.0,256.0,10,i3
+71990,HP,Windows11,16,N\A,1,,NO,,512.0,12,i5
+60990,Lenovo,Windows11,16,IdeaPad,1,14.0,NO,,512.0,,Ryzen 5
+86990,Lenovo,Windows11,16,IdeaPad,1,16.0,NO,,512.0,13,i7
+106990,MSI,Windows11,16,N\A,1,15.6,NO,,1024.0,12,i7
+50990,Lenovo,Windows11,16,IdeaPad,1,,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+42990,ASUS,Windows11,16,VivoBook,1,15.6,NO,,512.0,11,i3
+37990,Infinix,Windows11,8,N\A,1,15.6,NO,,256.0,11,i3
+60790,Lenovo,Windows11,16,IdeaPad,1,,NO,,512.0,11,i7
+106990,APPLE,Mac,8,MacBook Air,1,13.6,NO,,256.0,,Other
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+12990,Primebook,Prime,4,Primebook,1,11.6,NO,,,,Other
+37990,Infinix,Windows11,16,N\A,1,14.0,NO,,512.0,12,i5
+55490,Lenovo,Windows11,8,IdeaPad,1,15.6,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 7
+38990,HP,Windows10,8,N\A,1,,NO,,512.0,10,i3
+16990,ASUS,Chrome,4,N\A,1,,YES,,,,Other
+99990,Acer,Windows11,16,Gaming,1,16.0,NO,,512.0,13,i5
+35990,Lenovo,Windows11,8,N\A,1,,NO,,512.0,,Ryzen 5
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+59990,MSI,Windows11,16,N\A,1,,NO,,512.0,,Ryzen 7
+126990,APPLE,Mac,8,MacBook Air,1,15.3,NO,,256.0,,Other
+64990,Lenovo,Windows11,16,IdeaPad,1,14.0,YES,,512.0,,Ryzen 5
+37990,HP,Windows11,8,N\A,1,,NO,,512.0,,Ryzen 3
+114990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,13,i7
+62990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,13,i5
+84990,ASUS,Windows11,16,VivoBook,1,,NO,,512.0,12,i7
+55990,MSI,Windows11,16,N\A,1,15.6,NO,1024.0,256.0,11,i5
+19990,Infinix,Windows11,4,N\A,1,15.6,NO,,128.0,11,Other
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+35990,Infinix,Windows11,8,N\A,1,,NO,,256.0,10,i3
+38990,Lenovo,Windows11,8,IdeaPad,1,,NO,,512.0,12,i3
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+78990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,12,i5
+44990,ASUS,Windows11,8,VivoBook,1,14.0,NO,,512.0,,Ryzen 5
+56990,ASUS,Windows11,8,VivoBook,1,14.0,NO,,512.0,12,i5
+84990,Lenovo,Windows11,16,Gaming,1,15.6,NO,,512.0,,Ryzen 7
+47490,HP,Windows11,8,N\A,1,15.6,NO,,512.0,13,i3
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+22990,CHUWI,Windows11,8,N\A,1,,NO,,512.0,10,i3
+40990,realme,Windows11,8,Realme Book,1,14.0,NO,,512.0,11,i5
+43990,MSI,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 5
+69990,Lenovo,Windows11,16,N\A,1,14.0,NO,,512.0,11,i5
+46990,DELL,Windows11,8,Inspiron,1,15.6,NO,,1024.0,13,i3
+9990,ASUS,Chrome,4,N\A,1,11.6,NO,,,,Other
+61990,ASUS,Windows11,16,N\A,1,15.6,NO,,512.0,11,i5
+58990,ASUS,Windows11,16,VivoBook,1,15.6,NO,,512.0,,Ryzen 5
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+57990,ASUS,Windows11,8,N\A,1,15.6,NO,,512.0,11,i5
+61990,ASUS,Windows11,16,N\A,1,15.6,NO,,512.0,11,i5
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+29990,ASUS,Windows11,8,VivoBook,1,15.6,NO,,256.0,11,i3
+65990,SAMSUNG,Windows11,8,Galaxy Book,1,15.6,NO,,512.0,12,i5
+10990,ASUS,Chrome,4,N\A,1,11.6,NO,,,,Other
+137990,APPLE,Mac,8,MacBook Air,1,13.6,NO,,512.0,,Other
+55490,Lenovo,Windows11,8,IdeaPad,1,15.6,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 7
+66490,Lenovo,Windows10,8,IdeaPad,1,,NO,,512.0,,Ryzen 5
+37990,DELL,Windows11,8,N\A,1,15.6,NO,,512.0,,i3
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+59990,MSI,Windows11,16,N\A,1,,NO,,512.0,,Ryzen 7
+34490,HP,DOS,8,N\A,1,,NO,,512.0,11,i3
+27990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,11,i3
+41990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,12,i5
+54990,ASUS,Windows11,8,VivoBook,1,15.6,NO,,512.0,12,i5
+37990,HP,Windows11,8,N\A,1,,NO,,512.0,,Ryzen 3
+114990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,13,i7
+40990,Acer,Windows11,8,N\A,1,,NO,,512.0,11,i5
+34790,DELL,Windows11,8,Inspiron,1,,NO,,256.0,,Ryzen 3
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+33990,Lenovo,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+56990,HP,Windows11,16,Pavilion,1,,NO,,512.0,,Ryzen 5
+44990,Acer,Windows11,8,Aspire,1,,NO,,512.0,11,i5
+61990,MSI,Windows10,8,N\A,1,15.6,NO,,512.0,11,i7
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+78990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,12,i5
+37990,Infinix,Windows11,16,N\A,1,14.0,NO,,512.0,12,i5
+37990,Infinix,Windows11,16,N\A,1,,NO,,1024.0,11,i5
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+54490,Lenovo,Windows11,8,IdeaPad,1,,NO,,512.0,11,i5
+115990,MSI,Windows11,16,N\A,1,,NO,,512.0,12,i7
+35990,DELL,Windows11,8,N\A,1,,NO,,512.0,,Ryzen 3
+74990,ASUS,Windows11,16,VivoBook,1,14.0,NO,,512.0,12,i5
+43990,MSI,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 5
+69990,Lenovo,Windows11,16,N\A,1,14.0,NO,,512.0,11,i5
+79990,ASUS,Windows11,16,Creator,1,16.0,NO,,512.0,12,i5
+33940,HP,Windows11,8,N\A,1,,NO,,512.0,11,i3
+60990,Lenovo,Windows11,16,IdeaPad,1,14.0,NO,,512.0,,Ryzen 5
+86990,Lenovo,Windows11,16,IdeaPad,1,16.0,NO,,512.0,13,i7
+48990,ASUS,Windows11,8,VivoBook,1,15.6,NO,,512.0,12,i3
+94990,ASUS,Windows11,16,N\A,1,17.3,NO,,512.0,12,i5
+49990,ASUS,Windows11,8,VivoBook,1,14.0,YES,,512.0,12,i3
+47990,Infinix,Windows11,16,N\A,1,14.0,NO,,512.0,12,i7
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+48990,MSI,Windows11,16,N\A,1,15.6,NO,,512.0,11,i5
+56990,ASUS,Windows11,16,VivoBook,1,15.6,NO,,512.0,,Ryzen 7
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+35990,ASUS,Windows11,8,VivoBook,1,15.6,NO,,512.0,11,i3
+39990,ASUS,Windows11,8,VivoBook,1,15.6,NO,,512.0,,Ryzen 3
+34790,HP,DOS,8,N\A,1,,NO,1024.0,256.0,11,i3
+69990,Acer,Windows11,16,N\A,1,,NO,,512.0,12,i5
+55490,Lenovo,Windows11,8,IdeaPad,1,15.6,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 7
+27990,Lenovo,Windows11,8,IdeaPad,1,15.6,NO,,256.0,,Other
+16990,HP,Chrome,4,N\A,1,14.0,YES,,,,Other
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+114990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,13,i7
+87990,ASUS,Windows11,16,ZenBook,1,,YES,,512.0,12,i5
+115490,ASUS,Windows11,16,Gaming,1,16.0,NO,,512.0,12,i7
+68747,HP,Windows11,16,Pavilion,1,13.3,NO,,512.0,,Ryzen 5
+99990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,13,i7
+37990,HP,Windows11,8,N\A,1,,NO,,512.0,,Ryzen 3
+59990,MSI,Windows11,16,N\A,1,,NO,,512.0,,Ryzen 7
+99990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,13,i7
+27990,Acer,Windows11,8,Aspire,1,15.6,NO,,512.0,,Ryzen 3
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+33990,Acer,Windows11,8,Aspire,1,15.6,NO,,512.0,,i3
+68990,ASUS,Windows11,16,VivoBook,1,15.6,NO,,512.0,12,i5
+85999,ASUS,Windows11,16,ZenBook,1,,NO,,512.0,12,i5
+70690,Lenovo,Windows11,8,IdeaPad,1,,NO,,512.0,,Ryzen 7
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+72900,HP,Windows11,16,Pavilion,1,,YES,,512.0,11,i5
+131990,ASUS,Windows11,16,Gaming,1,14.0,NO,,1024.0,,Ryzen 7
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+59990,MSI,Windows11,16,N\A,1,,NO,,512.0,,Ryzen 7
+35490,DELL,Windows11,8,Inspiron,1,15.6,NO,,256.0,,i3
+72990,Acer,Windows11,16,Swift,1,14.0,NO,,512.0,13,i5
+114020,Lenovo,Windows11,16,Gaming,1,,NO,,1024.0,,Ryzen 7
+57990,Lenovo,Windows11,16,IdeaPad,1,15.6,NO,,512.0,11,i5
+37990,HP,Windows11,8,N\A,1,,NO,,512.0,,Ryzen 3
+69990,Lenovo,Windows11,16,N\A,1,14.0,NO,,512.0,11,i5
+52990,Infinix,Windows11,16,N\A,1,,NO,,1024.0,11,i7
+63990,ASUS,Windows11,8,N\A,1,17.3,NO,,512.0,,Ryzen 5
+78990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,12,i5
+51098,HP,Windows11,8,Pavilion,1,14.0,NO,,512.0,,Ryzen 5
+89990,ASUS,Windows11,16,ZenBook,1,14.0,YES,,1024.0,,Ryzen 7
+73990,Lenovo,Windows11,16,IdeaPad,1,15.6,NO,,512.0,,Ryzen 7
+55490,HP,Windows11,8,Pavilion,1,15.6,NO,,512.0,,Ryzen 5
+49890,DELL,Windows11,16,Inspiron,1,15.6,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+26990,Infinix,Windows11,8,N\A,1,,NO,,256.0,10,i3
+193090,Lenovo,Windows11,16,Gaming,1,16.0,NO,,512.0,,Ryzen 7
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+45990,ASUS,Windows11,8,VivoBook,1,14.0,NO,,512.0,13,i3
+126990,APPLE,Mac,8,MacBook Air,1,15.3,NO,,256.0,,Other
+16990,AXL,Windows11,4,AXL,1,,NO,,256.0,,Other
+33400,HP,Windows11,8,N\A,1,,NO,,256.0,,Ryzen 5
+55490,Lenovo,Windows11,8,IdeaPad,1,15.6,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 7
+51990,MSI,Windows11,16,N\A,1,15.6,NO,,512.0,11,i5
+69490,DELL,Windows11,8,N\A,1,15.6,NO,1024.0,256.0,12,i5
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+59990,MSI,Windows11,16,N\A,1,,NO,,512.0,,Ryzen 7
+54800,HP,Windows10,8,Pavilion,1,,NO,,512.0,,Ryzen 5
+91443,HP,Windows11,16,Pavilion,1,,NO,,1024.0,12,i7
+49990,Acer,Windows11,16,Aspire,1,14.0,NO,,512.0,13,i3
+32990,Lenovo,DOS,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+48990,HP,Windows10,8,N\A,1,,NO,,512.0,11,i3
+29990,HP,Windows11,8,N\A,1,,NO,,512.0,,Ryzen 3
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+78990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,12,i5
+39796,DELL,Windows11,8,N\A,1,15.6,NO,,512.0,12,i3
+54990,MSI,Windows11,16,N\A,1,15.6,NO,1024.0,256.0,11,i5
+56690,HP,Windows11,8,N\A,1,,NO,,512.0,,Ryzen 5
+91443,HP,Windows11,16,Pavilion,1,,NO,,1024.0,12,i7
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+26999,HP,Windows11,8,N\A,1,,NO,,512.0,,Athlon Dual Core
+145790,APPLE,Mac,8,MacBook Air,1,15.3,NO,,512.0,,Other
+43990,MSI,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 5
+69990,Lenovo,Windows11,16,N\A,1,14.0,NO,,512.0,11,i5
+114990,ASUS,Windows11,16,Gaming,1,,NO,,1024.0,,Ryzen 7
+106990,MSI,Windows11,16,N\A,1,15.6,NO,,1024.0,13,i7
+29990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+85990,ASUS,Windows11,16,N\A,1,15.6,NO,,512.0,12,i5
+60990,Lenovo,Windows11,16,IdeaPad,1,14.0,NO,,512.0,,Ryzen 5
+86990,Lenovo,Windows11,16,IdeaPad,1,16.0,NO,,512.0,13,i7
+51990,Lenovo,DOS,8,N\A,1,15.6,NO,,512.0,,Ryzen 7
+49990,ASUS,Windows11,8,VivoBook,1,14.0,YES,,512.0,12,i3
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+51990,ASUS,Windows11,8,N\A,1,,NO,,512.0,12,i3
+38499,DELL,Windows11,8,N\A,1,,NO,,512.0,11,i3
+86990,Lenovo,Windows11,16,IdeaPad,1,16.0,NO,,512.0,13,i7
+126990,APPLE,Mac,8,MacBook Air,1,15.3,NO,,256.0,,Other
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+88490,HP,Windows11,16,Pavilion,1,15.6,NO,,1024.0,13,i7
+50990,ASUS,Windows11,16,VivoBook,1,15.6,NO,,512.0,,Ryzen 5
+55490,Lenovo,Windows11,8,IdeaPad,1,15.6,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 7
+26990,Infinix,Windows11,8,N\A,1,,NO,,512.0,11,i3
+61990,MSI,Windows11,16,N\A,1,15.6,NO,,512.0,11,i7
+151990,ASUS,Windows11,16,Gaming,1,16.0,YES,,1024.0,,Ryzen 7
+69990,ASUS,Windows11,16,Creator,1,15.6,NO,,512.0,,Ryzen 5
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+59990,MSI,Windows11,16,N\A,1,,NO,,512.0,,Ryzen 7
+48999,Lenovo,Windows11,16,IdeaPad,1,15.6,NO,,512.0,,Ryzen 5
+429990,ASUS,Windows11,32,Gaming,1,16.0,NO,,2048.0,,Ryzen 9
+37990,HP,Windows11,8,N\A,1,,NO,,512.0,,Ryzen 3
+114990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,13,i7
+49990,MSI,Windows11,8,N\A,1,15.6,NO,,512.0,11,i5
+44990,ASUS,Windows11,16,VivoBook,1,15.6,NO,,512.0,12,i3
+114490,HP,Windows11,16,Envy,1,13.3,YES,,1024.0,12,i7
+63990,ASUS,Windows11,8,VivoBook,1,14.0,YES,,512.0,11,i5
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+57990,HP,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 7
+35990,Lenovo,DOS,8,N\A,1,15.6,NO,,512.0,,Ryzen 5
+65990,ASUS,Windows11,16,VivoBook,1,15.6,NO,,512.0,13,i5
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+153982,ASUS,Windows11,16,Gaming,1,16.0,NO,,1024.0,13,i7
+29990,HP,DOS,8,N\A,1,,NO,,512.0,,Ryzen 3
+38990,Infinix,Windows11,8,N\A,1,,NO,,512.0,10,i3
+24990,Lenovo,Windows11,8,IdeaPad,1,,NO,,512.0,,Athlon Dual Core
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+64990,HP,Windows11,8,N\A,1,,NO,,512.0,12,i5
+20990,Lenovo,Chrome,4,N\A,1,,YES,,,,Other
+55490,Lenovo,Windows11,8,IdeaPad,1,15.6,NO,,512.0,11,i5
+114990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,13,i7
+44990,ASUS,Windows10,8,VivoBook,1,,NO,,512.0,11,i3
+104990,ASUS,Windows10,16,Gaming,1,,NO,,512.0,,Ryzen 9
+38990,ASUS,Windows11,8,VivoBook,1,15.6,NO,,512.0,,i3
+39990,Lenovo,Windows11,8,IdeaPad,1,15.6,NO,,512.0,12,i3
+37990,HP,Windows11,8,N\A,1,,NO,,512.0,,Ryzen 3
+59990,MSI,Windows11,16,N\A,1,,NO,,512.0,,Ryzen 7
+79200,Lenovo,Windows11,16,IdeaPad,1,15.6,NO,,512.0,12,i7
+35990,HP,Windows11,8,N\A,1,,NO,,512.0,11,i3
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+137990,APPLE,Mac,8,MacBook Pro,1,13.3,NO,,512.0,,Other
+55490,Lenovo,Windows11,8,IdeaPad,1,15.6,NO,,512.0,11,i5
+23490,Acer,Windows11,8,N\A,1,11.6,NO,,256.0,,Other
+119990,APPLE,Mac,8,MacBook Pro,1,13.3,NO,,256.0,,Other
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+82990,ASUS,Windows11,16,VivoBook,1,15.6,NO,,512.0,13,i5
+53490,HP,Windows11,16,N\A,1,15.6,NO,,512.0,,Ryzen 5
+57990,HP,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 7
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+41990,ASUS,Windows11,8,VivoBook,1,,NO,,512.0,,Ryzen 5
+73990,Lenovo,Windows11,16,IdeaPad,1,,NO,,512.0,,Ryzen 7
+199990,ASUS,Windows11,32,Gaming,1,14.0,NO,,1024.0,,Ryzen 9
+97990,HP,Windows11,16,N\A,1,15.6,YES,,512.0,12,i5
+59990,MSI,Windows11,16,N\A,1,,NO,,512.0,,Ryzen 7
+37990,HP,Windows11,8,N\A,1,,NO,,512.0,,Ryzen 3
+37990,ASUS,Windows11,8,VivoBook,1,14.0,NO,,512.0,11,i3
+40990,ASUS,Windows11,8,VivoBook,1,15.6,NO,,512.0,12,i3
+114990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,13,i7
+51098,HP,Windows11,8,Pavilion,1,14.0,NO,,512.0,,Ryzen 5
+74990,Acer,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 7
+79990,ASUS,Windows11,16,VivoBook,1,14.0,YES,,512.0,13,i5
+53990,ASUS,Windows11,8,Creator,1,15.6,NO,,512.0,,Ryzen 5
+50980,ASUS,Windows11,8,VivoBook,1,,NO,,512.0,12,i5
+69990,ASUS,Windows11,16,Creator,1,15.6,NO,,512.0,,Ryzen 5
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+69990,ASUS,Windows11,16,Creator,1,15.6,NO,,512.0,,Ryzen 5
+109990,ASUS,Windows11,16,N\A,1,15.6,NO,,512.0,12,i7
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+54990,ASUS,Windows11,8,VivoBook,1,15.6,NO,,512.0,12,i5
+39900,Lenovo,Windows11,8,IdeaPad,1,14.0,NO,,512.0,11,i3
+79990,GIGABYTE,Windows11,16,N\A,1,15.6,NO,,512.0,11,i5
+209990,MSI,Windows11,32,N\A,1,16.0,NO,,1024.0,13,i7
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+55490,Lenovo,Windows11,8,IdeaPad,1,15.6,NO,,512.0,11,i5
+39990,ASUS,Windows11,8,VivoBook,1,15.6,NO,,512.0,,Ryzen 3
+66990,DELL,Windows11,8,Inspiron,1,,NO,,512.0,13,i5
+57990,HP,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 7
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+126990,APPLE,Mac,8,MacBook Air,1,15.3,NO,,256.0,,Other
+33990,ASUS,Windows11,8,VivoBook,1,,NO,,512.0,10,i3
+35200,ASUS,Windows11,8,VivoBook,1,,NO,,512.0,10,i3
+129990,Acer,Windows11,16,N\A,1,16.0,NO,,512.0,12,Ryzen 7
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+84300,DELL,Windows10,16,N\A,1,,NO,,512.0,,Ryzen 5
+124290,Lenovo,Windows11,16,N\A,1,,YES,,1024.0,,Ryzen 7
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+95990,Acer,Windows10,16,Gaming,1,,NO,1024.0,512.0,11,i7
+108190,Lenovo,Windows11,16,N\A,1,13.3,YES,,512.0,,Ryzen 5
+87990,ASUS,Windows11,16,N\A,1,,NO,,512.0,12,i5
+51487,DELL,Windows11,8,N\A,1,15.6,NO,,512.0,11,i3
+55490,Lenovo,Windows11,8,IdeaPad,1,15.6,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 7
+61500,HP,Windows10,8,Pavilion,1,,NO,,512.0,,Ryzen 5
+64590,HP,Windows11,8,N\A,1,15.6,NO,,512.0,13,i5
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+114990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,13,i7
+56490,Acer,Windows10,8,Swift,1,,NO,,512.0,11,i5
+77990,MSI,Windows11,16,N\A,1,15.6,NO,1024.0,256.0,12,i5
+66990,ASUS,Windows11,16,ZenBook,1,14.0,NO,,512.0,,Ryzen 5
+69990,ASUS,Windows11,16,VivoBook,1,14.0,YES,,512.0,,Ryzen 7
+37990,HP,Windows11,8,N\A,1,,NO,,512.0,,Ryzen 3
+59990,MSI,Windows11,16,N\A,1,,NO,,512.0,,Ryzen 7
+99990,HP,Windows11,16,N\A,1,15.6,NO,,512.0,12,i7
+74990,HP,Windows11,16,Pavilion,1,15.6,NO,,512.0,13,i5
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+22499,HP,Chrome,4,N\A,1,,YES,,,,Other
+99990,ASUS,Windows11,16,ZenBook,1,,NO,,512.0,12,i7
+25990,Ultimus,Windows11,8,Ultimus,1,,NO,,512.0,10,i5
+12990,Primebook,Android,4,Primebook,1,11.0,NO,,,,Other
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+35990,Lenovo,Windows11,8,IdeaPad,1,,NO,,256.0,11,i3
+36990,MSI,Windows11,8,N\A,1,,NO,,512.0,11,i3
+55490,Lenovo,Windows11,8,IdeaPad,1,15.6,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 7
+39490,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+50990,Lenovo,Windows10,8,IdeaPad,1,,NO,,512.0,,Ryzen 5
+74990,ASUS,Windows11,8,VivoBook,1,,YES,,512.0,12,i5
+56990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 5
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+59990,MSI,Windows11,16,N\A,1,,NO,,512.0,,Ryzen 7
+43500,HP,Windows11,8,N\A,1,,NO,,512.0,11,i3
+80990,HP,Windows11,8,Envy,1,13.3,YES,,512.0,12,i5
+37990,HP,Windows11,8,N\A,1,,NO,,512.0,,Ryzen 3
+114990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,13,i7
+63990,ASUS,Windows11,16,VivoBook,1,15.6,NO,,512.0,,Ryzen 7
+33500,DELL,Windows11,8,Inspiron,1,15.6,NO,,256.0,,Other
+59990,ASUS,Windows11,8,N\A,1,,NO,,512.0,13,i5
+54990,MSI,Windows11,16,N\A,1,15.6,NO,,512.0,11,i5
+69990,ASUS,Windows11,16,Creator,1,15.6,NO,,512.0,,Ryzen 5
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+83990,ASUS,Windows11,16,N\A,1,,NO,,1024.0,,Ryzen 7
+63190,HP,Windows11,8,N\A,1,,NO,,512.0,12,i5
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+67990,MSI,Windows11,16,N\A,1,15.6,NO,,512.0,13,i7
+37990,MSI,Windows11,16,N\A,1,14.0,NO,,512.0,12,i3
+109990,HP,Windows11,16,Envy,1,15.6,YES,,1024.0,12,i7
+85800,HP,Windows11,16,Pavilion,1,,YES,,512.0,11,i7
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+55490,Lenovo,Windows11,8,IdeaPad,1,15.6,NO,,512.0,11,i5
+38600,ASUS,Windows11,8,VivoBook,1,14.0,NO,,512.0,,Ryzen 3
+84990,Acer,Windows11,16,N\A,1,,YES,,512.0,12,i5
+57990,HP,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 7
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+82850,HP,Windows11,16,N\A,1,15.6,NO,,512.0,,Ryzen 7
+40990,ASUS,Windows11,8,VivoBook,1,15.6,NO,,512.0,12,i3
+89990,SAMSUNG,Windows11,16,N\A,1,15.6,NO,,512.0,13,i7
+23290,HP,Windows11,8,N\A,1,,NO,1024.0,,,Athlon Dual Core
+37990,HP,Windows11,8,N\A,1,,NO,,512.0,,Ryzen 3
+59990,MSI,Windows11,16,N\A,1,,NO,,512.0,,Ryzen 7
+54990,MSI,Windows11,16,N\A,1,15.6,NO,,512.0,11,i5
+89990,SAMSUNG,Windows11,16,N\A,1,15.6,NO,,512.0,13,i7
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+23290,HP,Windows11,8,N\A,1,,NO,1024.0,,,Athlon Dual Core
+104990,Lenovo,Windows10,16,Gaming,1,,NO,,512.0,11,i7
+99990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,,Ryzen 7
+116990,MSI,Windows11,16,N\A,1,15.6,NO,,1024.0,13,i7
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+78990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,12,i5
+37990,MSI,Windows11,16,N\A,1,14.0,NO,,512.0,12,i3
+45990,DELL,Windows10,8,Inspiron,1,,NO,,512.0,,Ryzen 5
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+65900,DELL,Windows11,16,N\A,1,,NO,,512.0,12,i5
+49990,Acer,Windows11,8,Aspire,1,,NO,,512.0,,Ryzen 5
+127990,ASUS,Windows11,16,Gaming,1,13.4,YES,,1024.0,,Ryzen 7
+145790,APPLE,Mac,8,MacBook Air,1,15.3,NO,,512.0,,Other
+43990,MSI,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 5
+69990,Lenovo,Windows11,16,N\A,1,14.0,NO,,512.0,11,i5
+42500,HP,Windows10,8,N\A,1,,NO,,512.0,11,i3
+47990,Acer,Windows11,8,Aspire,1,15.6,NO,,512.0,12,i5
+60990,Lenovo,Windows11,16,IdeaPad,1,14.0,NO,,512.0,,Ryzen 5
+86990,Lenovo,Windows11,16,IdeaPad,1,16.0,NO,,512.0,13,i7
+57990,HP,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 7
+59990,ASUS,Windows11,16,VivoBook,1,15.6,NO,,512.0,12,i5
+49833,HP,Chrome,8,N\A,1,,NO,,256.0,11,i5
+137990,APPLE,Mac,8,MacBook Air,1,13.6,NO,,512.0,,Other
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+58490,Lenovo,Windows11,16,IdeaPad,1,15.6,NO,,512.0,11,i5
+70990,Lenovo,Windows11,16,ThinkPad,1,14.0,NO,,512.0,12,i5
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+66990,DELL,Windows11,8,N\A,1,,NO,,1024.0,13,i5
+20919,ASUS,Windows11,4,N\A,1,11.6,NO,,128.0,,Other
+169990,ASUS,Windows11,32,Gaming,1,16.0,NO,,2048.0,,Ryzen 7
+35100,ASUS,Windows11,8,N\A,1,,NO,,512.0,11,i3
+55490,Lenovo,Windows11,8,IdeaPad,1,15.6,NO,,512.0,11,i5
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+53990,Lenovo,Windows11,8,N\A,1,,NO,,512.0,12,i5
+46200,HP,Windows10,8,N\A,1,,NO,,512.0,11,i3
+37990,HP,Windows11,8,N\A,1,,NO,,512.0,,Ryzen 3
+114990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,13,i7
+37990,HP,Windows10,4,N\A,1,,NO,,512.0,10,i3
+139990,ASUS,Windows11,16,N\A,1,16.0,NO,,1024.0,,Ryzen 9
+70990,Lenovo,Windows11,16,IdeaPad,1,14.0,NO,,512.0,13,i5
+104990,Lenovo,Windows11,16,Gaming,1,15.6,NO,,512.0,,Ryzen 7
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+84500,HP,Windows10,16,Pavilion,1,,NO,,512.0,,Ryzen 5
+104990,Lenovo,Windows11,16,Gaming,1,15.6,NO,,512.0,,Ryzen 7
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+69990,Lenovo,Windows11,16,N\A,1,14.0,NO,,512.0,11,i5
+76990,ASUS,Windows11,16,Creator,1,15.6,NO,,512.0,,Ryzen 7
+59990,ASUS,Windows11,16,VivoBook,1,15.6,NO,,512.0,12,i5
+165490,Lenovo,Windows10,16,N\A,1,,NO,,1024.0,9,i7
+151990,HP,Windows11,16,Gaming,1,16.1,NO,,512.0,13,i7
+78990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,12,i5
+69990,ASUS,Windows11,16,Creator,1,15.6,NO,,512.0,,Ryzen 5
+81990,HP,Windows10,8,Envy,1,,YES,,512.0,10,i5
+44990,Acer,Windows11,8,Aspire,1,15.6,NO,,512.0,12,i5
+51990,Lenovo,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+117991,Lenovo,Windows10,16,N\A,1,,NO,,1024.0,11,i7
+23990,ASUS,Windows11,4,VivoBook,1,15.6,NO,,256.0,,Other
+144990,ASUS,Windows11,16,Gaming,1,,NO,,1024.0,,Ryzen 9
+76990,ASUS,Windows11,16,Creator,1,15.6,NO,,512.0,,Ryzen 7
+55350,Lenovo,Windows11,16,IdeaPad,1,15.6,NO,,512.0,12,i5
+60990,Lenovo,Windows11,16,IdeaPad,1,14.0,NO,,512.0,,Ryzen 5
+172791,Lenovo,Windows11,32,Gaming,1,16.0,NO,,1024.0,,Ryzen 7
+52650,DELL,Windows11,8,N\A,1,15.6,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+214990,MSI,Windows10,32,Creator,1,,NO,,1024.0,10,i7
+39889,Lenovo,Windows11,8,IdeaPad,1,,NO,,512.0,11,i3
+28590,HP,DOS,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+52990,Infinix,Windows11,16,N\A,1,15.6,NO,,512.0,11,i5
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+80990,DELL,Windows11,8,Inspiron,1,,YES,,512.0,13,i5
+69050,ASUS,Windows11,8,N\A,1,,NO,,1024.0,,Ryzen 5
+55490,Lenovo,Windows11,8,IdeaPad,1,15.6,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 7
+79699,Lenovo,Windows11,16,N\A,1,,NO,,512.0,,Ryzen 7
+165601,Acer,Windows11,16,Gaming,1,16.0,NO,,1024.0,13,i9
+95990,DELL,Windows11,16,N\A,1,15.6,NO,,512.0,,i5
+37290,Lenovo,Windows11,8,N\A,1,,NO,,512.0,11,i3
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+59990,MSI,Windows11,16,N\A,1,,NO,,512.0,,Ryzen 7
+38390,DELL,Windows11,8,N\A,1,15.6,NO,1024.0,256.0,,i3
+87990,MSI,Windows11,16,N\A,1,17.3,NO,,512.0,13,i7
+37990,HP,Windows11,8,N\A,1,,NO,,512.0,,Ryzen 3
+114990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,13,i7
+84990,ASUS,Windows11,16,ZenBook,1,,YES,,512.0,12,i7
+35990,Infinix,Windows11,8,N\A,1,,NO,,256.0,10,i3
+45990,ASUS,Windows11,8,VivoBook,1,14.0,NO,,512.0,13,i3
+229990,APPLE,Mac,16,MacBook Pro,1,16.0,NO,,512.0,,Other
+344990,MSI,Windows11,32,N\A,1,17.0,NO,,2048.0,13,i9
+74990,Lenovo,Windows11,16,ThinkPad,1,14.0,NO,,1024.0,12,i5
+173990,DELL,Windows11,16,XPS,1,,YES,,1024.0,12,i7
+243990,APPLE,Mac,16,MacBook Pro,1,,NO,,1024.0,,M1
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+44700,HP,Windows10,8,N\A,1,,NO,,512.0,,Ryzen 5
+58999,HP,Windows11,8,Pavilion,1,,NO,,512.0,11,i5
+34990,Infinix,Windows11,16,N\A,1,,NO,,512.0,11,i5
+88990,MSI,Windows11,16,N\A,1,15.6,NO,,512.0,12,i7
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+64990,MSI,Windows10,16,N\A,1,,NO,,512.0,11,i5
+44990,Acer,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 5
+55490,Lenovo,Windows11,8,IdeaPad,1,15.6,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 7
+96990,ASUS,Windows11,16,Gaming,1,,YES,,512.0,12,i5
+329990,ASUS,Windows11,16,ZenBook,1,17.3,YES,,1024.0,12,i7
+62190,HP,Windows11,8,N\A,1,,NO,,512.0,,Ryzen 5
+49990,ASUS,Windows11,8,VivoBook,1,14.0,YES,,512.0,12,i3
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+114990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,13,i7
+96990,ASUS,Windows11,16,Gaming,1,,YES,,512.0,12,i5
+88990,Lenovo,Windows11,16,IdeaPad,1,14.0,NO,,512.0,13,i7
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+59990,ASUS,Windows11,8,Creator,1,15.6,NO,,512.0,,Ryzen 5
+72990,ASUS,Windows11,16,N\A,1,,NO,,512.0,,Ryzen 5
+34990,Infinix,Windows11,16,N\A,1,,NO,,512.0,11,i5
+56690,DELL,Windows11,8,Inspiron,1,,NO,,256.0,11,i5
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+78990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,12,i5
+74990,ASUS,Windows11,16,ZenBook,1,14.0,YES,,512.0,12,i5
+176990,ASUS,Windows11,32,Gaming,1,,NO,,1024.0,,Ryzen 9
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+105990,ASUS,Windows11,16,VivoBook,1,15.6,NO,,512.0,13,i7
+137990,APPLE,Mac,8,MacBook Air,1,13.6,NO,,512.0,,Other
+70990,HP,Windows11,8,Pavilion,1,,NO,,512.0,12,i5
+154990,ASUS,Windows10,16,Gaming,1,,NO,,1024.0,,Ryzen 9
+43990,MSI,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 5
+69990,Lenovo,Windows11,16,N\A,1,14.0,NO,,512.0,11,i5
+67990,ASUS,Windows11,16,Creator,1,15.6,NO,,1024.0,,Ryzen 5
+48990,Lenovo,Windows11,8,N\A,1,,NO,,512.0,11,i5
+60990,Lenovo,Windows11,16,IdeaPad,1,14.0,NO,,512.0,,Ryzen 5
+86990,Lenovo,Windows11,16,IdeaPad,1,16.0,NO,,512.0,13,i7
+84990,DELL,Windows11,16,Inspiron,1,14.1,NO,,1024.0,13,i7
+77990,HP,Windows11,8,N\A,1,,NO,,512.0,,Ryzen 7
+59990,ASUS,Windows11,8,Creator,1,15.6,NO,,512.0,,Ryzen 5
+52798,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 5
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+49990,MSI,Windows11,8,N\A,1,15.6,NO,,512.0,11,i5
+109990,Acer,Windows11,16,Gaming,1,16.0,NO,,512.0,13,i7
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+129039,HP,Windows11,16,Spectre,1,,NO,,512.0,12,i7
+34790,HP,Windows11,8,N\A,1,,NO,,512.0,11,i3
+80754,HP,Windows11,16,Pavilion,1,14.0,NO,,512.0,12,i5
+140131,Lenovo,Windows10,16,N\A,1,,NO,,512.0,11,i7
+55490,Lenovo,Windows11,8,IdeaPad,1,15.6,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 7
+450000,MSI,Windows11,64,N\A,1,,NO,,2048.0,12,i9
+47990,Acer,Windows11,8,Aspire,1,15.6,NO,,512.0,12,i5
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+114990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,13,i7
+69490,HP,Windows11,16,Pavilion,1,,NO,,512.0,12,i5
+76990,ASUS,Windows11,16,ZenBook,1,14.0,NO,,512.0,,Ryzen 5
+87990,MSI,Windows11,16,N\A,1,15.6,NO,,1024.0,12,i7
+209990,ASUS,Windows11,16,Gaming,1,13.4,NO,,1024.0,13,i9
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+63500,MSI,Windows11,16,N\A,1,,NO,,512.0,11,i5
+85990,MSI,Windows11,8,N\A,1,15.6,NO,,512.0,12,i7
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+78990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,12,i5
+209990,ASUS,Windows11,16,Gaming,1,13.4,NO,,1024.0,13,i9
+74649,HP,Windows11,16,N\A,1,14.0,YES,,512.0,12,i5
+144990,ASUS,Windows11,16,Gaming,1,,NO,,1024.0,,Ryzen 9
+112390,DELL,Windows11,16,N\A,1,,NO,,512.0,12,i7
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+40690,DELL,Windows11,8,N\A,1,,NO,,512.0,10,i3
+399990,ASUS,Windows11,32,Gaming,1,,NO,,4096.0,12,i9
+43990,MSI,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 5
+69990,Lenovo,Windows11,16,N\A,1,14.0,NO,,512.0,11,i5
+69350,Lenovo,Windows11,16,N\A,1,,NO,,512.0,13,i5
+41990,Lenovo,Windows11,8,IdeaPad,1,,NO,,512.0,,Ryzen 5
+72499,HP,Windows11,16,Pavilion,1,15.6,NO,,512.0,12,i5
+20490,Acer,Windows11,4,Aspire,1,,NO,,256.0,,Other
+60990,Lenovo,Windows11,16,IdeaPad,1,14.0,NO,,512.0,,Ryzen 5
+86990,Lenovo,Windows11,16,IdeaPad,1,16.0,NO,,512.0,13,i7
+63990,DELL,Windows11,8,Inspiron,1,,NO,,1024.0,13,i5
+222291,ASUS,Windows11,32,Gaming,1,16.0,NO,,1024.0,12,i9
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+284990,ASUS,Windows11,32,Gaming,1,16.0,NO,,1024.0,13,i9
+85000,ASUS,Windows11,16,Creator,1,14.0,NO,,512.0,13,i5
+126000,HP,Windows10,8,N\A,1,,YES,,512.0,10,i5
+99500,ASUS,Windows11,16,ZenBook,1,14.0,YES,,512.0,13,i5
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+78990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,12,i5
+59990,MSI,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+344990,MSI,Windows11,32,N\A,1,17.0,NO,,2048.0,13,i9
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+197990,ASUS,Windows10,16,ZenBook,1,,YES,,1024.0,8,i9
+20990,Acer,Chrome,4,N\A,1,14.0,NO,,,,Other
+36990,DELL,Windows10,8,Inspiron,1,,NO,1024.0,,,Ryzen 3
+76500,HP,Windows11,8,Pavilion,1,,NO,,512.0,,Ryzen 5
+43990,MSI,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 5
+69990,Lenovo,Windows11,16,N\A,1,14.0,NO,,512.0,11,i5
+96990,MSI,Windows11,16,N\A,1,15.6,NO,,1024.0,12,i7
+64990,ASUS,Windows11,16,VivoBook,1,16.0,NO,,512.0,13,i5
+60990,Lenovo,Windows11,16,IdeaPad,1,14.0,NO,,512.0,,Ryzen 5
+86990,Lenovo,Windows11,16,IdeaPad,1,16.0,NO,,512.0,13,i7
+134990,Lenovo,Windows11,16,N\A,1,14.5,YES,,1024.0,12,i7
+35990,DELL,Windows10,8,Inspiron,1,,NO,,256.0,11,i3
+149990,GIGABYTE,Windows11,16,AERO,1,,NO,,1024.0,12,i7
+79990,ASUS,Windows11,16,Creator,1,16.0,NO,,512.0,12,i5
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+145790,APPLE,Mac,8,MacBook Air,1,15.3,NO,,512.0,,Other
+234990,ASUS,Windows10,32,Gaming,1,,YES,,1024.0,,Ryzen 9
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+78990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,12,i5
+109990,HP,Windows11,16,Gaming,1,16.1,NO,,1024.0,,Ryzen 7
+130990,MSI,Windows11,16,N\A,1,15.6,NO,,1024.0,13,i7
+82850,Lenovo,Windows10,16,N\A,1,,YES,,512.0,5,Ryzen 7
+41490,DELL,Windows11,8,Inspiron,1,,NO,,512.0,,Ryzen 5
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+154990,MSI,Windows11,16,N\A,1,17.3,NO,,1024.0,13,i7
+53490,HP,DOS,8,N\A,1,,NO,,512.0,11,i5
+43990,MSI,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 5
+69990,Lenovo,Windows11,16,N\A,1,14.0,NO,,512.0,11,i5
+179990,SAMSUNG,Windows11,16,N\A,1,16.0,YES,,1024.0,13,i7
+53990,DELL,Windows11,8,N\A,1,,NO,,512.0,12,i5
+37490,DELL,Windows10,4,Inspiron,1,,NO,,256.0,10,i3
+31990,Infinix,Windows11,8,N\A,1,,NO,,512.0,11,i3
+60990,Lenovo,Windows11,16,IdeaPad,1,14.0,NO,,512.0,,Ryzen 5
+86990,Lenovo,Windows11,16,IdeaPad,1,16.0,NO,,512.0,13,i7
+79990,MSI,Windows10,8,N\A,1,,NO,1024.0,256.0,10,i7
+145790,APPLE,Mac,8,MacBook Air,1,15.3,NO,,512.0,,Other
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+65990,ASUS,Windows10,8,ZenBook,1,,NO,,512.0,5,Ryzen 5
+66989,Lenovo,Windows11,16,IdeaPad,1,,NO,,512.0,,Ryzen 7
+184490,HP,Windows11,32,Spectre,1,16.0,YES,,1024.0,13,i7
+75990,ASUS,Windows11,16,N\A,1,,NO,,512.0,13,i5
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+78990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,12,i5
+62483,Acer,Windows10,16,N\A,1,,NO,1024.0,256.0,11,i5
+38990,ASUS,Windows11,8,VivoBook,1,15.6,NO,,512.0,,Ryzen 5
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+42990,Acer,Windows10,8,Swift,1,,NO,,512.0,,Ryzen 5
+45965,Lenovo,Windows11,8,IdeaPad,1,,NO,,512.0,12,i3
+33200,ASUS,Windows11,8,N\A,1,,NO,,512.0,11,i3
+112990,ASUS,Windows11,16,ZenBook,1,14.0,NO,,512.0,13,i7
+43990,MSI,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 5
+69990,Lenovo,Windows11,16,N\A,1,14.0,NO,,512.0,11,i5
+67490,HP,Windows11,8,Pavilion,1,15.6,NO,,512.0,11,i5
+18990,ASUS,Chrome,4,N\A,1,14.0,NO,,,,Other
+60990,Lenovo,Windows11,16,IdeaPad,1,14.0,NO,,512.0,,Ryzen 5
+86990,Lenovo,Windows11,16,IdeaPad,1,16.0,NO,,512.0,13,i7
+83600,Lenovo,Windows10,8,N\A,1,,NO,,512.0,11,i5
+76990,Acer,Windows10,8,N\A,1,,NO,1024.0,256.0,,Ryzen 7
+137990,APPLE,Mac,8,MacBook Air,1,13.6,NO,,512.0,,Other
+150748,Lenovo,Windows11,32,Gaming,1,16.0,NO,,1024.0,,Ryzen 7
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+94990,ASUS,Windows11,16,Creator,1,16.0,NO,,512.0,12,i7
+27990,Infinix,Windows11,4,InBook X1,1,,NO,,128.0,,Other
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+78990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,12,i5
+78990,HP,Windows11,16,Pavilion,1,13.3,NO,,1024.0,,Ryzen 7
+43990,ASUS,Windows11,8,VivoBook,1,15.6,NO,,512.0,,Ryzen 5
+72999,HP,Windows11,16,Pavilion,1,15.6,NO,,512.0,13,i5
+52990,ASUS,Windows10,16,VivoBook,1,,NO,1024.0,256.0,11,i5
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+99890,Lenovo,Windows11,16,IdeaPad,1,16.0,NO,,512.0,12,i7
+364990,ASUS,Windows11,32,Gaming,1,16.0,NO,,2048.0,13,i9
+43990,MSI,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 5
+69990,Lenovo,Windows11,16,N\A,1,14.0,NO,,512.0,11,i5
+64990,Lenovo,Windows10,8,N\A,1,,NO,,512.0,10,i5
+44299,HP,Windows11,8,N\A,1,15.6,NO,,512.0,11,i3
+209890,Lenovo,Windows11,16,Gaming,1,,NO,,1024.0,13,i9
+77490,DELL,Windows11,16,Inspiron,1,,YES,,512.0,,i5
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+216890,Lenovo,Windows11,32,Gaming,1,,NO,,1024.0,13,i7
+62990,Lenovo,Windows11,16,IdeaPad,1,,NO,,512.0,,Ryzen 5
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+78990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,12,i5
+52990,DELL,Windows10,8,N\A,1,,NO,,512.0,11,i5
+236990,ASUS,Windows10,32,Gaming,1,13.4,YES,,1024.0,,Ryzen 9
+244890,Lenovo,Windows11,32,Gaming,1,,NO,,1024.0,13,i7
+122990,SAMSUNG,Windows11,16,N\A,1,15.6,YES,,512.0,13,i7
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+114990,Acer,Windows11,16,Swift,1,16.1,NO,,1024.0,11,i7
+59990,ASUS,Windows11,8,VivoBook,1,16.0,NO,,1024.0,,Ryzen 5
+43990,MSI,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 5
+69990,Lenovo,Windows11,16,N\A,1,14.0,NO,,512.0,11,i5
+41990,Acer,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+108990,DELL,Windows10,16,XPS,1,13.3,NO,,512.0,11,i5
+68990,HP,Windows11,16,N\A,1,15.6,NO,,512.0,13,i5
+34990,Acer,Windows11,16,N\A,1,14.0,NO,,512.0,11,i5
+60990,Lenovo,Windows11,16,IdeaPad,1,14.0,NO,,512.0,,Ryzen 5
+86990,Lenovo,Windows11,16,IdeaPad,1,16.0,NO,,512.0,13,i7
+64600,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 5
+62990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,13,i5
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+67990,ASUS,Windows10,8,VivoBook,1,,NO,1024.0,256.0,8,i7
+52990,HP,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 5
+56976,Lenovo,Windows10,8,IdeaPad,1,,NO,1024.0,256.0,10,i5
+68900,ASUS,Windows11,16,N\A,1,,NO,,512.0,11,i5
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+78990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,12,i5
+58500,Acer,Windows11,8,Aspire,1,,NO,,512.0,11,i5
+71990,ASUS,Windows11,16,VivoBook,1,15.6,NO,,512.0,13,i5
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+62249,HP,Windows11,8,Pavilion,1,14.0,NO,,512.0,12,i5
+36990,DELL,Windows10,8,N\A,1,,NO,,256.0,,Ryzen 3
+65500,ASUS,Windows11,16,N\A,1,,YES,,1024.0,,Ryzen 5
+38490,DELL,Windows11,8,N\A,1,14.0,NO,,512.0,11,i3
+43990,MSI,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 5
+69990,Lenovo,Windows11,16,N\A,1,14.0,NO,,512.0,11,i5
+71990,MSI,Windows10,16,N\A,1,,NO,,512.0,10,i7
+125990,HP,Windows11,16,Gaming,1,16.1,NO,,1024.0,11,i7
+60990,Lenovo,Windows11,16,IdeaPad,1,14.0,NO,,512.0,,Ryzen 5
+86990,Lenovo,Windows11,16,IdeaPad,1,16.0,NO,,512.0,13,i7
+59990,ASUS,Windows11,16,VivoBook,1,16.0,NO,,512.0,,Ryzen 5
+85990,ASUS,Windows11,16,VivoBook,1,15.6,NO,,512.0,13,i5
+193990,GIGABYTE,Windows11,16,AERO,1,,NO,,1024.0,12,i7
+29990,Infinix,Windows11,8,N\A,1,14.0,NO,,512.0,12,i3
+93590,Lenovo,Windows11,16,IdeaPad,1,14.0,NO,,512.0,,Ryzen 7
+27990,Lenovo,Windows11,8,IdeaPad,1,15.6,NO,,256.0,,Other
+171990,ASUS,Windows11,16,Gaming,1,16.0,YES,,1024.0,,Ryzen 7
+74990,ASUS,Windows11,16,VivoBook,1,,NO,,512.0,,Ryzen 7
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+41999,Acer,Windows11,4,Aspire,1,,NO,,256.0,,Ryzen 3
+55990,Acer,Windows10,8,Aspire,1,,NO,,512.0,,Ryzen 7
+194990,Acer,Windows11,32,Gaming,1,16.0,NO,,1024.0,13,i7
+210490,ASUS,Windows11,32,Gaming,1,,NO,,1024.0,12,i9
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+41490,DELL,Windows11,8,N\A,1,14.0,NO,,512.0,,Other
+189990,ASUS,Windows11,32,Gaming,1,,NO,,1024.0,12,i9
+55490,Lenovo,Windows11,8,IdeaPad,1,15.6,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 7
+79881,Lenovo,Windows10,8,N\A,1,15.6,NO,,512.0,11,i5
+87550,ASUS,Windows11,8,Gaming,1,15.6,NO,,512.0,,Ryzen 7
+30999,HP,Windows11,8,N\A,1,,NO,,512.0,,Athlon Dual Core
+88990,ASUS,Windows11,16,Creator,1,16.0,NO,,1024.0,12,i7
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+114990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,13,i7
+194990,Acer,Windows11,32,Gaming,1,16.0,NO,,1024.0,13,i7
+87550,ASUS,Windows11,8,Gaming,1,15.6,NO,,512.0,,Ryzen 7
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+69490,Lenovo,Windows10,8,IdeaPad,1,,NO,1024.0,256.0,10,i5
+30999,HP,Windows11,8,N\A,1,,NO,,512.0,,Athlon Dual Core
+62550,ASUS,Windows11,16,VivoBook,1,14.0,YES,,512.0,12,i5
+53490,DELL,Windows11,8,Inspiron,1,15.6,NO,,512.0,,Other
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+78990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,12,i5
+56490,MSI,Windows10,8,N\A,1,,NO,,512.0,10,i5
+42990,DELL,Windows10,8,N\A,1,,NO,,512.0,,Ryzen 5
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+36990,Lenovo,Windows10,4,IdeaPad,1,,NO,,256.0,10,i3
+131990,ASUS,Windows11,16,N\A,1,15.6,NO,,1024.0,,Ryzen 9
+88990,ASUS,Windows11,16,Creator,1,16.0,NO,,1024.0,12,i7
+79990,ASUS,Windows11,16,N\A,1,,NO,,1024.0,13,i5
+43990,MSI,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 5
+69990,Lenovo,Windows11,16,N\A,1,14.0,NO,,512.0,11,i5
+185990,MSI,Windows11,32,N\A,1,17.3,NO,,1024.0,13,i7
+39490,Lenovo,Windows11,8,N\A,1,15.6,NO,,512.0,11,i3
+60990,Lenovo,Windows11,16,IdeaPad,1,14.0,NO,,512.0,,Ryzen 5
+86990,Lenovo,Windows11,16,IdeaPad,1,16.0,NO,,512.0,13,i7
+74990,Acer,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 5
+50090,DELL,Windows11,8,Inspiron,1,15.6,NO,1024.0,256.0,,Ryzen 5
+16990,CHUWI,Windows11,4,N\A,1,,NO,,128.0,10,Other
+73640,HP,Windows11,8,N\A,1,,NO,,512.0,12,i5
+69990,ASUS,Windows11,16,Creator,1,15.6,NO,,512.0,,Ryzen 5
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+85690,HP,Windows11,16,N\A,1,,NO,,512.0,12,i7
+37990,Acer,Windows10,4,Aspire,1,,NO,,256.0,11,i3
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+202490,ALIENWARE,Windows10,16,Gaming,1,,NO,,1024.0,10,i7
+139990,ASUS,Windows10,16,Gaming,1,14.0,NO,,1024.0,,Ryzen 9
+60990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,12,i7
+169990,ASUS,Windows11,16,Gaming,1,16.0,NO,,1024.0,13,i9
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+55490,Lenovo,Windows11,8,IdeaPad,1,15.6,NO,,512.0,11,i5
+40990,HP,Chrome,8,N\A,1,13.3,NO,,256.0,,Other
+92990,ASUS,Windows11,16,ZenBook,1,14.0,NO,,512.0,13,i5
+57990,HP,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 7
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+85000,ASUS,Windows11,8,N\A,1,,NO,,512.0,12,i5
+99990,ASUS,Windows11,16,Creator,1,16.0,NO,,512.0,12,i7
+284990,MSI,Windows11,32,N\A,1,16.0,NO,,1024.0,13,i9
+45990,DELL,Windows11,8,N\A,1,15.6,NO,,512.0,11,i3
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+51990,ASUS,Windows11,16,VivoBook,1,16.0,NO,,512.0,,Ryzen 5
+52990,Infinix,Windows11,16,N\A,1,,NO,,1024.0,11,i7
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+20990,ASUS,Chrome,4,N\A,1,14.0,YES,,,,Other
+49990,Acer,Windows11,8,Swift,1,14.0,NO,,512.0,,Ryzen 5
+148105,Lenovo,Windows10,16,ThinkPad,1,,NO,,512.0,11,i7
+43990,ASUS,Windows11,16,N\A,1,,NO,,512.0,,Ryzen 5
+55490,Lenovo,Windows11,8,IdeaPad,1,15.6,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 7
+61990,DELL,Linux/Ubuntu,8,N\A,1,,NO,,512.0,11,i5
+135990,MSI,Windows10,16,N\A,1,,YES,,1024.0,11,i7
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+59990,MSI,Windows11,16,N\A,1,,NO,,512.0,,Ryzen 7
+39990,ASUS,Windows11,8,VivoBook,1,,NO,,512.0,,Ryzen 3
+165990,SAMSUNG,Windows11,16,N\A,1,16.0,NO,,1024.0,13,i7
+79800,HP,Windows10,8,N\A,1,,NO,,512.0,10,i5
+138990,HP,Windows11,16,Spectre,1,13.5,YES,,1024.0,13,i7
+37990,HP,Windows11,8,N\A,1,,NO,,512.0,,Ryzen 3
+114990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,13,i7
+89990,ASUS,Windows11,16,Creator,1,14.0,NO,,512.0,13,i5
+55990,HP,Windows11,8,N\A,1,,NO,,512.0,5,Ryzen 5
+57990,HP,Windows11,16,N\A,1,16.1,NO,,512.0,11,i5
+58990,HP,Windows11,8,N\A,1,16.1,NO,,512.0,11,i5
+59990,MSI,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 7
+109990,MSI,Windows11,16,N\A,1,14.0,NO,,1024.0,13,i7
+104990,Lenovo,Windows10,16,Gaming,1,,NO,1024.0,128.0,7,i7
+47499,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 5
+32990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,,Ryzen 3
+63990,HP,Windows11,8,N\A,1,15.6,NO,,512.0,12,i5
+129990,Acer,Windows11,16,N\A,1,,YES,,1024.0,12,i7
+71990,ASUS,Windows10,8,N\A,1,,NO,,512.0,10,i5
+55490,Lenovo,Windows11,8,IdeaPad,1,15.6,NO,,512.0,11,i5
+57990,HP,Windows11,16,N\A,1,14.0,NO,,512.0,,Ryzen 7
+64990,Acer,Windows10,8,Swift,1,,NO,,512.0,8,i5
+93860,HP,Windows11,16,Envy,1,,YES,,512.0,11,i7
+131990,DELL,Windows11,16,N\A,1,15.6,NO,,512.0,,i7
+80490,HP,Windows11,16,Pavilion,1,14.0,NO,,512.0,13,i5
+40990,MSI,Windows11,8,N\A,1,14.0,NO,,512.0,,Ryzen 5
+114990,Lenovo,Windows11,16,N\A,1,15.6,NO,,512.0,13,i7
+109990,DELL,Windows11,16,N\A,1,,YES,,512.0,13,i7
+139990,DELL,Windows11,16,XPS,1,13.0,YES,,512.0,12,i5
+37990,HP,Windows11,8,N\A,1,,NO,,512.0,,Ryzen 3
+59990,MSI,Windows11,16,N\A,1,,NO,,512.0,,Ryzen 7
+133990,Lenovo,Windows11,16,N\A,1,14.0,NO,,512.0,12,i7
+169990,MSI,Windows11,16,N\A,1,16.0,NO,,1024.0,13,i7

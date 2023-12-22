@@ -1,0 +1,985 @@
+Price,Company,Processor,Operating System,RAM,Display,Storage,Type,Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+34490,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+54990,Acer,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,8 GB LPDDR5 RAM,35.56 cm (14 Inch) Display,512 GB SSD,Swift,1 Year Onsite Warranty
+79990,APPLE,Apple M1 Processor,Mac OS Operating System,8 GB DDR4 RAM,33.78 cm (13.3 inch) Display,256 GB SSD,MacBook Air,N/A
+36490,DELL,Intel Core i3 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,96.52 cm (38 cm) Display,512 GB SSD,Inspiron,N/A
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+38990,HP,Intel Core i3 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+30990,HP,AMD Athlon Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+20999,HP,AMD Athlon Dual Core Processor,DOS Operating System,4 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,256 GB SSD,N\A,1 Year Onsite Warranty
+52790,DELL,Intel Core i5 Processor (11th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Inspiron,1 Year Onsite Warranty
+54990,HP,Intel Core i5 Processor (11th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+35990,Lenovo,Intel Core i3 Processor (12th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+36990,HP,AMD Ryzen 3 Quad Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year onsite warranty
+40850,HP,Intel Core i3 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection
+86990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,40.64 cm (16 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+36499,Lenovo,Intel Core i3 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,2 Year warranty
+62890,ASUS,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,40.64 cm (16 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+34490,DELL,Intel Core i3 Processor (11th Gen),DOS Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+46990,Lenovo,Intel Core i5 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,IdeaPad,1Year Onsite warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+32990,Acer,Intel Core i3 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB LPDDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year International Travelers Warranty
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+43990,ASUS,Intel Core i5 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+29990,ASUS,Intel Core i3 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,256 GB SSD,VivoBook,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+50990,realme,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 inch) Display,512 GB SSD,Realme Book,1 Year Domestic Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+35990,HP,Intel Core i3 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 inch) Display,256 GB SSD,N\A,1 Year Onsite Warranty
+36990,DELL,Intel Core i3 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Inspiron,N/A
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+79990,APPLE,Apple M1 Processor,Mac OS Operating System,8 GB DDR4 RAM,33.78 cm (13.3 inch) Display,256 GB SSD,MacBook Air,N/A
+30749,Lenovo,AMD Ryzen 3 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+79990,APPLE,Apple M1 Processor,Mac OS Operating System,8 GB DDR4 RAM,33.78 cm (13.3 inch) Display,256 GB SSD,MacBook Air,N/A
+23990,Acer,Intel Core i3 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,256 GB SSD,N\A,1 Year Warranty
+86990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,40.64 cm (16 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Warranty Term
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Warranty Term
+46990,ASUS,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+56990,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+69990,Lenovo,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+26990,Infinix,Intel Core i3 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB LPDDR4X RAM,35.56 cm (14 inch) Display,512 GB SSD,N\A,1 year Onsite Warranty
+25990,Acer,AMD Ryzen 3 Dual Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 inch) Display,256 GB SSD,N\A,1 Year International Travelers Warranty (ITW)
+43990,HP,Intel Core i3 Processor (12th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+63990,SAMSUNG,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB LPDDR4X RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+42490,HP,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+40990,Lenovo,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,2 Year warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+26990,Infinix,Intel Core i3 Processor (10th Gen),64 bit Windows 11 Operating System,8 GB LPDDR4X RAM,39.62 cm (15.6 inch) Display,256 GB SSD,N\A,1 Year Onsite Warranty
+37890,HP,Intel Core i3 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+37990,Infinix,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection
+57990,HP,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+38490,HP,Intel Core i3 Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+34990,Acer,AMD Ryzen 5 Quad Core Processor,64 bit Windows 11 Operating System,LPDDR5 RAM -faster & low power consuming,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year International Travelers Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+47990,Acer,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Aspire,1 Year International Travelers Warranty
+38990,MSI,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in warranty
+29990,SAMSUNG,Qualcomm Snapdragon 7c Gen 2 Processor,Windows 11 Operating System,4 GB LPDDR4X RAM,35.56 cm (14 Inch) Display,"N, /, A",Galaxy Book,1 Year Onsite Warranty
+72990,HP,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Touchscreen Display,512 GB SSD,Pavilion,1 Year Onsite Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+34990,Infinix,Intel Core i5 Processor (11th Gen),64 bit Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 inch) Display,512 GB SSD,N\A,1 year Onsite Warranty
+31990,Acer,Intel Core i3 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,N/A
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+26990,ASUS,Intel Celeron Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,256 GB SSD,VivoBook,1 Year Onsite Warranty
+65990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Creator,1 Year Onsite Warranty
+50990,HP,Intel Core i3 Processor (12th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Pavilion,1 Year Onsite Warranty
+43990,ASUS,AMD Ryzen 5 Quad Core Processor,Windows 11 Operating System,8 GB LPDDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection
+57990,HP,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+54990,DELL,Processor: Intel i5-1235U (Base- 3.30 GHz & Turbo up to 4.40 GHz) 10 Cores,64 bit Windows 11 Operating System,RAM & Storage: 8GB DDR4 & 512GB SSD,"Display: 15.6"" FHD WVA AG 120Hz 250 nits Narrow Border","RAM & Storage: 8GB DDR4 & 512GB SSD, 512 GB SSD",N\A,N/A
+26990,Infinix,Intel Core i3 Processor (10th Gen),64 bit Windows 11 Operating System,8 GB LPDDR4X RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Warranty Term
+72990,MSI,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,8 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,2 Year On-Site & Carry-In Warranty
+66500,Lenovo,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,IdeaPad,1 Year Onsite warranty + 1 Year Accidental Damage Protection + 1 Year Premium Care
+54990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+36490,DELL,Intel Core i3 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+29990,HP,AMD Ryzen 3 Dual Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,N/A
+55350,Lenovo,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,2 Year warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+38990,ASUS,AMD Ryzen 3 Quad Core Processor,Windows 11 Operating System,8 GB LPDDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+40990,HP,Intel Core i3 Processor (12th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+64200,HP,Intel Core i5 Processor (13th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+65249,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 inch) Display,512 GB SSD,Pavilion,1 Year Onsite Warranty
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection
+57990,HP,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+36990,Acer,Intel Core i3 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,Aspire,1 Year International Travelers Warranty (ITW)
+63990,MSI,Intel Core i7 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,1 TB HDD|256 GB SSD,N\A,2 Year Carry-in Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Warranty Term
+30480,ASUS,Intel Celeron Dual Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+56990,SAMSUNG,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB LPDDR4X RAM,39.62 cm (15.6 Inch) Display,256 GB SSD,N\A,1 Year Onsite Warranty
+36390,DELL,Intel Core i3 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Inspiron,1 Year Onsite Warranty
+39990,HP,Intel Core i3 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+37990,HP,AMD Ryzen 3 Quad Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+79990,HP,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR5 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+59990,ASUS,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Warranty Term
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+74990,ASUS,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+44990,Acer,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,Aspire,1 Year International Travelers Warranty (ITW)
+53800,HP,Intel Core i3 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 inch) Touchscreen Display,512 GB SSD,Pavilion,1 Year Onsite Warranty
+50990,Acer,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Aspire,1 Year Onsite Warranty
+93590,Lenovo,AMD Ryzen 7 Octa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,IdeaPad,1 Year Onsite Premium Support with 1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+35990,MSI,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+76990,HP,AMD Ryzen 7 Octa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+23990,Infinix,Intel Celeron Quad Core Processor (11th Gen),Windows 11 Operating System,8 GB LPDDR4X RAM,39.01 cm (15.36 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+35990,ASUS,AMD Ryzen 3 Quad Core Processor,Windows 11 Operating System,8 GB LPDDR5 RAM,35.56 cm (14 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+57990,Acer,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Aspire,1 Year International Travelers Warranty
+46599,HP,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection
+107990,APPLE,Apple M2 Processor,Mac OS Operating System,8 GB Unified Memory RAM,34.54 cm (13.6 Inch) Display,256 GB SSD,MacBook Air,1 Year Limited Warranty
+65990,HP,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+57990,HP,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+32990,HP,Intel Core i3 Processor (11th Gen),64 bit Windows 10 Operating System,8 GB DDR4 RAM,35.56 cm (14 inch) Display,1 TB HDD,N\A,1 Year Onsite Warranty
+62990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year ADP
+40990,ASUS,Intel Core i3 Processor (12th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+229990,APPLE,Apple M2 Pro Processor,Mac OS Operating System,16 GB Unified Memory RAM,35.56 cm (14 Inch) Display,1 TB SSD,MacBook Pro,1 Year Limited Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+285490,APPLE,Apple M2 Max Processor,Mac OS Operating System,32 GB Unified Memory RAM,35.56 cm (14 Inch) Display,1 TB SSD,MacBook Pro,1 Year Limited Warranty
+99990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB LPDDR5 RAM,33.78 cm (13.3 Inch) Touchscreen Display,512 GB SSD,ZenBook,1 Year Onsite Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+51990,Lenovo,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+107990,APPLE,Apple M2 Processor,Mac OS Operating System,8 GB Unified Memory RAM,34.54 cm (13.6 Inch) Display,256 GB SSD,MacBook Air,N/A
+56390,HP,Intel Core i3 Processor (12th Gen),Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,Pavilion,1 Year Onsite Warranty
+88990,ASUS,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,1 TB SSD,Gaming,1 Year Onsite Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+67990,MSI,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+89990,Acer,Intel Core i7 Processor (12th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year International Travelers Warranty (ITW)
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection
+107990,APPLE,Apple M2 Processor,Mac OS Operating System,8 GB Unified Memory RAM,34.54 cm (13.6 Inch) Display,256 GB SSD,MacBook Air,1 Year Limited Warranty
+51098,HP,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,Pavilion,1 Year Onsite Warranty
+38490,DELL,Intel Core i3 Processor (10th Gen),64 bit Windows 10 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,1 TB HDD|256 GB SSD,N\A,1 Year Onsite Warranty
+71990,HP,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Warranty
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+86990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,40.64 cm (16 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+106990,MSI,Intel Core i7 Processor (12th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,1 TB SSD,N\A,2 Year Carry-in Warranty
+50990,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,IdeaPad,1 Year Onsite Warranty + 1 Year ADP
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+42990,ASUS,Intel Core i3 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+37990,Infinix,Intel Core i3 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB LPDDR4X RAM,39.62 cm (15.6 Inch) Display,256 GB SSD,N\A,1 Year Onsite Warranty
+60790,Lenovo,Intel Core i7 Processor (11th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,IdeaPad,1-year warranty
+106990,APPLE,Apple M2 Processor,Mac OS Operating System,8 GB Unified Memory RAM,34.54 cm (13.6 Inch) Display,256 GB SSD,MacBook Air,N/A
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+12990,Primebook,MediaTek MT8788 Processor,Prime OS Operating System,4 GB LPDDR4 RAM,29.46 cm (11.6 Inch) Display,"N, /, A",Primebook,1 Year Pick and Drop Warranty
+37990,Infinix,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection
+57990,HP,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+38990,HP,Intel Core i3 Processor (10th Gen),Windows 10 Operating System,8 GB DDR4 RAM,35.81 cm (14.1 inch) Display,512 GB SSD,N\A,1 Year Warranty
+16990,ASUS,Intel Celeron Dual Core Processor,Chrome Operating System,4 GB LPDDR4 RAM,29.46 cm (11.6 inch) Touchscreen Display,"N, /, A",N\A,1 Year Onsite Warranty
+99990,Acer,Intel Core i5 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,40.64 cm (16 Inch) Display,512 GB SSD,Gaming,1 Year International Travelers Warranty (ITW)
+35990,Lenovo,AMD Ryzen 5 Quad Core Processor,Windows 11 Operating System,8 GB LPDDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,N/A
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Warranty Term
+126990,APPLE,Apple M2 Processor,Mac OS Operating System,8 GB Unified Memory RAM,38.86 cm (15.3 Inch) Display,256 GB SSD,MacBook Air,1 Year Limited Warranty
+64990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 Inch) Touchscreen Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+37990,HP,AMD Ryzen 3 Quad Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+62990,HP,Intel Core i5 Processor (13th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+84990,ASUS,Intel Core i7 Processor (12th Gen),Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+55990,MSI,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,1 TB HDD|256 GB SSD,N\A,2 Year Carry-in Warranty
+19990,Infinix,Intel Celeron Quad Core Processor (11th Gen),Windows 11 Operating System,4 GB LPDDR4X RAM,39.62 cm (15.6 Inch) Display,128 GB SSD,N\A,1 Year Onsite Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+35990,Infinix,Intel Core i3 Processor (10th Gen),64 bit Windows 11 Operating System,8 GB LPDDR4X RAM,35.56 cm (14 inch) Display,256 GB SSD,N\A,1 Year Onsite Warranty
+38990,Lenovo,Intel Core i3 Processor (12th Gen),Windows 11 Operating System,8 GB DDR4 RAM,90.32 cm (35.56 cm) Display,512 GB SSD,IdeaPad,2 Year warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+44990,ASUS,AMD Ryzen 5 Quad Core Processor,Windows 11 Operating System,8 GB LPDDR5 RAM,35.56 cm (14 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+56990,ASUS,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+84990,Lenovo,AMD Ryzen 7 Octa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Gaming,1 Year Carry-in Warranty
+47490,HP,Intel Core i3 Processor (13th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+22990,CHUWI,Intel Core i3 Processor (10th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+40990,realme,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB LPDDR4X RAM,35.56 cm (14 Inch) Display,512 GB SSD,Realme Book,1 Year Carry-in Warranty
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection
+46990,DELL,Intel Core i3 Processor (13th Gen),64 bit Windows 11 Operating System,8 GB LPDDR5 RAM,39.62 cm (15.6 Inch) Display,1 TB SSD,Inspiron,N/A
+9990,ASUS,Intel Celeron Dual Core Processor,64 bit Chrome Operating System,4 GB LPDDR4 RAM,29.46 cm (11.6 Inch) Display,"N, /, A",N\A,1 Year onsite warranty
+61990,ASUS,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+58990,ASUS,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+57990,ASUS,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+61990,ASUS,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+29990,ASUS,Intel Core i3 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,256 GB SSD,VivoBook,1 Year Onsite Warranty
+65990,SAMSUNG,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Galaxy Book,1 Year Onsite Warranty
+10990,ASUS,Intel Celeron Dual Core Processor,64 bit Chrome Operating System,4 GB LPDDR4 RAM,29.46 cm (11.6 Inch) Display,"N, /, A",N\A,1 Year onsite warranty
+137990,APPLE,Apple M2 Processor,Mac OS Operating System,8 GB Unified Memory RAM,34.54 cm (13.6 Inch) Display,512 GB SSD,MacBook Air,1 Year Limited Warranty
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection
+57990,HP,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+66490,Lenovo,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,IdeaPad,1 Year Warranty Term
+37990,DELL,Processor: Intel i3-1215U (Base- 0.9 GHz & Turbo up to 4.40 GHz) 6 Cores,64 bit Windows 11 Operating System,RAM & Storage: 8GB DDR4 & 512GB SSD,"Display: 15.6"" FHD WVA AG 120Hz 250 nits Narrow Border","RAM & Storage: 8GB DDR4 & 512GB SSD, 512 GB SSD",N\A,N/A
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Warranty Term
+34490,HP,Intel Core i3 Processor (11th Gen),DOS Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,N/A
+27990,MSI,Intel Core i3 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+41990,MSI,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+54990,ASUS,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+37990,HP,AMD Ryzen 3 Quad Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+40990,Acer,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,N/A
+34790,DELL,AMD Ryzen 3 Dual Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,96.52 cm (38 cm) Display,256 GB SSD,Inspiron,1 Year Onsite Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+33990,Lenovo,AMD Ryzen 3 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+56990,HP,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 inch) Display,512 GB SSD,Pavilion,1 Year Onsite Warranty
+44990,Acer,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,Aspire,1 Year Onsite Warranty
+61990,MSI,Intel Core i7 Processor (11th Gen),64 bit Windows 10 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,2 Year Carry-In Warranty Term
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+37990,Infinix,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+37990,Infinix,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 inch) Display,1 TB SSD,N\A,1 Year Onsite Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+54490,Lenovo,Intel Core i5 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,100.63 cm (39.62 cm) Display,512 GB SSD,IdeaPad,1Year Onsite warranty
+115990,MSI,Intel Core i7 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,N/A
+35990,DELL,AMD Ryzen 3 Dual Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,96.52 cm (38 cm) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+74990,ASUS,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection
+79990,ASUS,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.64 cm (16 Inch) Display,512 GB SSD,Creator,1 Year Onsite Warranty
+33940,HP,Intel Core i3 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1Year Onsite Warranty
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+86990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,40.64 cm (16 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+48990,ASUS,Intel Core i3 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+94990,ASUS,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB DDR5 RAM,43.94 cm (17.3 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+49990,ASUS,Intel Core i3 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Touchscreen Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+47990,Infinix,Intel Core i7 Processor (12th Gen),Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+48990,MSI,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,2 Year Carry-in Warranty
+56990,ASUS,AMD Ryzen 7 Octa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+35990,ASUS,Intel Core i3 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+39990,ASUS,AMD Ryzen 3 Quad Core Processor,Windows 11 Operating System,8 GB LPDDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+34790,HP,Intel Core i3 Processor (11th Gen),DOS Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,1 TB HDD|256 GB SSD,N\A,1 Year Domestic Warranty
+69990,Acer,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year International Travelers Warranty (ITW)
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection
+57990,HP,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+27990,Lenovo,Intel Celeron Dual Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,256 GB SSD,IdeaPad,2 Years On-Site Warranty
+16990,HP,Intel Celeron Quad Core Processor,64 bit Chrome Operating System,4 GB LPDDR4 RAM,35.56 cm (14 Inch) Touchscreen Display,"N, /, A",N\A,1 Year Onsite warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+87990,ASUS,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,35.56 cm (14 inch) Touchscreen Display,512 GB SSD,ZenBook,1 Year Onsite Warranty
+115490,ASUS,Intel Core i7 Processor (12th Gen),Windows 11 Operating System,16 GB DDR5 RAM,40.64 cm (16 Inch) Display,512 GB SSD,Gaming,1 Year Onsite Warranty
+68747,HP,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB LPDDR5 RAM,33.78 cm (13.3 Inch) Display,512 GB SSD,Pavilion,1 Year Onsite Warranty
+99990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+37990,HP,AMD Ryzen 3 Quad Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Warranty Term
+99990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+27990,Acer,AMD Ryzen 3 Quad Core Processor,Windows 11 Operating System,8 GB LPDDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Aspire,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+33990,Acer,Intel Core i3 Processor,Windows 11 Operating System,8 GB LPDDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Aspire,1 Year Onsite Warranty
+68990,ASUS,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+85999,ASUS,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,35.56 cm (14 inch) Display,512 GB SSD,ZenBook,1 Year Onsite Warranty
+70690,Lenovo,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,100.63 cm (39.62 cm) Display,512 GB SSD,IdeaPad,1 Year Onsite�Warranty�+ 1 Year Premium Care + 1 Year Accidental Damage Protection
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+72900,HP,Intel Core i5 Processor (11th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 inch) Touchscreen Display,512 GB SSD,Pavilion,1 Year Onsite Warranty
+131990,ASUS,AMD Ryzen 7 Octa Core Processor,Windows 11 Operating System,16 GB DDR5 RAM,35.56 cm (14 Inch) Display,1 TB SSD,Gaming,1 Year Onsite Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Warranty Term
+35490,DELL,Processor-i3-1115G4 Processor upto 4.1 GHz Speed,64 bit Windows 11 Operating System,8 GB DDR4 RAM,"Display:15.6"" FHD WVA AG Narrow Border & Standard Keyboard",256 GB SSD,Inspiron,1 Year Onsite Warranty
+72990,Acer,Intel Core i5 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,35.56 cm (14 Inch) Display,512 GB SSD,Swift,1 Year Onsite Warranty
+114020,Lenovo,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,40.64 cm (16 inch) Display,1 TB SSD,Gaming,3 Years Onsite�Warranty�+ 3 Years Legion Ultimate Support + 1 Year Accidental Damage Protection
+57990,Lenovo,Intel Core i5 Processor (11th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,1 Year Onsite�Warranty�+ 1 Year Premium Care + 1 Year Accidental Damage Protection
+37990,HP,AMD Ryzen 3 Quad Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection
+52990,Infinix,Intel Core i7 Processor (11th Gen),Windows 11 Operating System,16 GB LPDDR4X RAM,39.62 cm (15.6 inch) Display,1 TB SSD,N\A,1 Year Onsite Warranty
+63990,ASUS,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,43.94 cm (17.3 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+51098,HP,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,Pavilion,1 Year Onsite Warranty
+89990,ASUS,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 Inch) Touchscreen Display,1 TB SSD,ZenBook,1 Year Onsite Warranty
+73990,Lenovo,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,1 Year Onsite�Warranty�+ 1 Year Premium Care + 1 Year Accidental Damage Protection
+55490,HP,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Pavilion,1 Year Onsite Warranty
+49890,DELL,Intel Core i5 Processor (11th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Inspiron,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+26990,Infinix,Intel Core i3 Processor (10th Gen),64 bit Windows 11 Operating System,8 GB LPDDR4X RAM,86.84 cm (34.19 cm) Display,256 GB SSD,N\A,1 Year Onsite Warranty
+193090,Lenovo,AMD Ryzen 7 Octa Core Processor,Windows 11 Operating System,16 GB DDR5 RAM,40.64 cm (16 Inch) Display,512 GB SSD,Gaming,1 Year Carry-in Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+45990,ASUS,Intel Core i3 Processor (13th Gen),Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+126990,APPLE,Apple M2 Processor,Mac OS Operating System,8 GB Unified Memory RAM,38.86 cm (15.3 Inch) Display,256 GB SSD,MacBook Air,1 Year Limited Warranty
+16990,AXL,Intel Celeron Dual Core Processor,Windows 11 Home Operating System,4 GB DDR4 RAM,39.62 cm (15.6 inch) Display,256 GB SSD,AXL,N/A
+33400,HP,AMD Ryzen 5 Dual Core Processor,32 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,256 GB SSD,N\A,1 year Domestic warranty
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection
+57990,HP,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+51990,MSI,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,2 Year Carry-in Warranty
+69490,DELL,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,1 TB HDD|256 GB SSD,N\A,1 Year Onsite Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Warranty Term
+54800,HP,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 Operating System,8 GB DDR4 RAM,35.56 cm (14 inch) Display,512 GB SSD,Pavilion,1 Year Onsite Warranty
+91443,HP,Intel Core i7 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 inch) Display,1 TB SSD,Pavilion,1 Year Onsite Warranty
+49990,Acer,Intel Core i3 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 Inch) Display,512 GB SSD,Aspire,1 Year Onsite Warranty
+32990,Lenovo,AMD Ryzen 3 Quad Core Processor,DOS Operating System,8 GB LPDDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+48990,HP,Intel Core i3 Processor (11th Gen),64 bit Windows 10 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Domestic Brand Warranty on Device
+29990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+39796,DELL,Intel Core i3 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,N/A
+54990,MSI,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,1 TB HDD|256 GB SSD,N\A,2 Year Carry-in Warranty
+56690,HP,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+91443,HP,Intel Core i7 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 inch) Display,1 TB SSD,Pavilion,1 Year Onsite Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+26999,HP,AMD Athlon Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,N/A
+145790,APPLE,Apple M2 Processor,Mac OS Operating System,8 GB Unified Memory RAM,38.86 cm (15.3 Inch) Display,512 GB SSD,MacBook Air,1 Year Limited Warranty
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection
+114990,ASUS,AMD Ryzen 7 Octa Core Processor,Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 inch) Display,1 TB SSD,Gaming,1 Year Onsite Warranty
+106990,MSI,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,1 TB SSD,N\A,2 Year Carry-in Warranty
+29990,HP,AMD Ryzen 3 Quad Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite warranty by OEM
+85990,ASUS,Intel Core i5 Processor (12th Gen),Windows 11 Home Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+86990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,40.64 cm (16 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+51990,Lenovo,AMD Ryzen 7 Octa Core Processor,DOS Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+49990,ASUS,Intel Core i3 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Touchscreen Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+51990,ASUS,Intel Core i3 Processor (12th Gen),Windows 11 Operating System,8 GB DDR5 RAM,35.56 cm (14 inch) Display,512 GB SSD,N\A,1 Year International Warranty
+38499,DELL,Intel Core i3 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 inch) Display,512 GB SSD,N\A,N/A
+86990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,40.64 cm (16 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+126990,APPLE,Apple M2 Processor,Mac OS Operating System,8 GB Unified Memory RAM,38.86 cm (15.3 Inch) Display,256 GB SSD,MacBook Air,1 Year Limited Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+88490,HP,Intel Core i7 Processor (13th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,1 TB SSD,Pavilion,1 Year Onsite Warranty
+50990,ASUS,AMD Ryzen 5 Quad Core Processor,Windows 11 Operating System,16 GB LPDDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection
+57990,HP,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+26990,Infinix,Intel Core i3 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB LPDDR4X RAM,35.56 cm (14 inch) Display,512 GB SSD,N\A,1 year Onsite Warranty
+61990,MSI,Intel Core i7 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,2 Year Carry-in Warranty
+151990,ASUS,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR5 RAM,40.64 cm (16 Inch) Touchscreen Display,1 TB SSD,Gaming,1 Year Onsite Warranty
+69990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Creator,1 Year Onsite Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Warranty Term
+48999,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,2 Year warranty
+429990,ASUS,AMD Ryzen 9 16 Core Processor,Windows 11 Operating System,32 GB DDR5 RAM,40.64 cm (16 Inch) Display,2 TB SSD,Gaming,1 Year Onsite Warranty
+37990,HP,AMD Ryzen 3 Quad Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+49990,MSI,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,2 Year Carry-in Warranty
+44990,ASUS,Intel Core i3 Processor (12th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+114490,HP,Intel Core i7 Processor (12th Gen),Windows 11 Operating System,16 GB LPDDR4X RAM,33.78 cm (13.3 Inch) Touchscreen Display,1 TB SSD,Envy,1 Year Onsite Warranty
+63990,ASUS,Intel Core i5 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB LPDDR4X RAM,35.56 cm (14 Inch) Touchscreen Display,512 GB SSD,VivoBook,1 Year onsite warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+57990,HP,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+35990,Lenovo,AMD Ryzen 5 Hexa Core Processor,DOS Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+65990,ASUS,Intel Core i5 Processor (13th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+153982,ASUS,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,40.64 cm (16 Inch) Display,1 TB SSD,Gaming,1 Year Onsite Warranty
+29990,HP,AMD Ryzen 3 Dual Core Processor,DOS Operating System,8 GB DDR4 RAM,35.56 cm (14 inch) Display,512 GB SSD,N\A,1 year Domestic warranty
+38990,Infinix,Intel Core i3 Processor (10th Gen),64 bit Windows 11 Operating System,8 GB LPDDR4X RAM,35.56 cm (14 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+24990,Lenovo,AMD Athlon Dual Core Processor,Windows 11 Operating System,8 GB LPDDR5 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+64990,HP,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+20990,Lenovo,Intel Celeron Dual Core Processor,64 bit Chrome Operating System,4 GB LPDDR4 RAM,35.56 cm (14 inch) Touchscreen Display,"N, /, A",N\A,1 Year Onsite Warranty
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+44990,ASUS,Intel Core i3 Processor (11th Gen),64 bit Windows 10 Operating System,8 GB DDR4 RAM,35.56 cm (14 inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+104990,ASUS,AMD Ryzen 9 Octa Core Processor,Windows 10 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,Gaming,1 Year Onsite Warranty
+38990,ASUS,Intel Core i3 Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+39990,Lenovo,Intel Core i3 Processor (12th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,2 Year warranty
+37990,HP,AMD Ryzen 3 Quad Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Warranty Term
+79200,Lenovo,Intel Core i7 Processor (12th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year ADP
+35990,HP,Intel Core i3 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+137990,APPLE,Apple M2 Processor,Mac OS Operating System,8 GB Unified Memory RAM,33.78 cm (13.3 Inch) Display,512 GB SSD,MacBook Pro,1 Year Limited Warranty
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection
+23490,Acer,Intel Celeron Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,29.46 cm (11.6 Inch) Display,256 GB SSD,N\A,1 Year Onsite Warranty
+119990,APPLE,Apple M2 Processor,Mac OS Operating System,8 GB Unified Memory RAM,33.78 cm (13.3 Inch) Display,256 GB SSD,MacBook Pro,1 Year Limited Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+82990,ASUS,Intel Core i5 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+53490,HP,AMD Ryzen 5 Quad Core Processor,64 bit Windows 11 Operating System,16 GB LPDDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+57990,HP,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+41990,ASUS,AMD Ryzen 5 Quad Core Processor,32 bit Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+73990,Lenovo,AMD Ryzen 7 Octa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,100.63 cm (39.62 cm) Display,512 GB SSD,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year ADP
+199990,ASUS,AMD Ryzen 9 Octa Core Processor,Windows 11 Operating System,32 GB DDR5 RAM,35.56 cm (14 Inch) Display,1 TB SSD,Gaming,1 Year Onsite Warranty
+97990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Touchscreen Display,512 GB SSD,N\A,1 Year Onsite Warranty
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Warranty Term
+37990,HP,AMD Ryzen 3 Quad Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+37990,ASUS,Intel Core i3 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+40990,ASUS,Intel Core i3 Processor (12th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+51098,HP,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,Pavilion,1 Year Onsite Warranty
+74990,Acer,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,8 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year International Travelers Warranty
+79990,ASUS,Intel Core i5 Processor (13th Gen),Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Touchscreen Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+53990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Creator,1 Year Onsite Warranty
+50980,ASUS,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,VivoBook,1 Year international Warranty
+69990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Creator,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+69990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Creator,1 Year Onsite Warranty
+109990,ASUS,Intel Core i7 Processor (12th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+54990,ASUS,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+39900,Lenovo,Intel Core i3 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,IdeaPad,2 Years Onsite Warranty
+79990,GIGABYTE,Intel Core i5 Processor (11th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,2 year carry on warranty
+209990,MSI,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,32 GB DDR5 RAM,40.64 cm (16 Inch) Display,1 TB SSD,N\A,2 Year Carry-in Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection
+39990,ASUS,AMD Ryzen 3 Quad Core Processor,Windows 11 Operating System,8 GB LPDDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+66990,DELL,Intel Core i5 Processor (13th Gen),Windows 11 Operating System,8 GB LPDDR5 RAM,35.56 cm (14 inch) Display,512 GB SSD,Inspiron,1-year manufacturing warranty
+57990,HP,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+126990,APPLE,Apple M2 Processor,Mac OS Operating System,8 GB Unified Memory RAM,38.86 cm (15.3 Inch) Display,256 GB SSD,MacBook Air,1 Year Limited Warranty
+33990,ASUS,Intel Core i3 Processor (10th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+35200,ASUS,Intel Core i3 Processor (10th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+129990,Acer,AMD Ryzen 7 Octa Core Processor (12th Gen),Windows 11 Operating System,16 GB DDR5 RAM,40.64 cm (16 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+84300,DELL,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,N/A
+124290,Lenovo,AMD Ryzen 7 Octa Core Processor,Windows 11 Operating System,16 GB LPDDR4X RAM,33.78 cm (13.3 inch) Touchscreen Display,1 TB SSD,N\A,1 Year Onsite Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+95990,Acer,Intel Core i7 Processor (11th Gen),64 bit Windows 10 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 inch) Display,1 TB HDD|512 GB SSD,Gaming,1 Year International Travelers Warranty (ITW)
+108190,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB LPDDR4X RAM,33.78 cm (13.3 Inch) Touchscreen Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+87990,ASUS,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,N/A
+51487,DELL,Intel Core i3 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection
+57990,HP,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+61500,HP,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,Pavilion,1 Year Onsite Warranty
+64590,HP,Intel Core i5 Processor (13th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+56490,Acer,Intel Core i5 Processor (11th Gen),64 bit Windows 10 Operating System,8 GB DDR4 RAM,35.56 cm (14 inch) Display,512 GB SSD,Swift,1 Year International Travelers Warranty (ITW)
+77990,MSI,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,1 TB HDD|256 GB SSD,N\A,2 Year Carry-in Warranty
+66990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 Inch) Display,512 GB SSD,ZenBook,1 Year Onsite Warranty
+69990,ASUS,AMD Ryzen 7 Octa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Touchscreen Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+37990,HP,AMD Ryzen 3 Quad Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Warranty Term
+99990,HP,Intel Core i7 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+74990,HP,Intel Core i5 Processor (13th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Pavilion,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+22499,HP,MediaTek Kompanio 500 Processor,Chrome Operating System,4 GB LPDDR4X RAM,29.46 cm (11.6 inch) Touchscreen Display,"N, /, A",N\A,1 Year Onsite Warranty
+99990,ASUS,Intel Core i7 Processor (12th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,35.56 cm (14 inch) Display,512 GB SSD,ZenBook,N/A
+25990,Ultimus,Intel Core i5 Processor (10th Gen),Windows 11 Operating System,8 GB DDR4 RAM,35.81 cm (14.1 inch) Display,512 GB SSD,Ultimus,1 Year On-Site Warranty
+12990,Primebook,MediaTek MT8788 Processor,Android Operating System,4 GB LPDDR4 RAM,27.94 cm (11 Inch) Display,"N, /, A",Primebook,1 Year Onsite Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+35990,Lenovo,Intel Core i3 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,256 GB SSD,IdeaPad,2 Years Warranty
+36990,MSI,AMD Core i3 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Warranty Term
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection
+57990,HP,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+39490,HP,AMD Ryzen 3 Quad Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+50990,Lenovo,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,IdeaPad,1 Year Onsite�Warranty�+ 1 Year Accidental Damage Protection + 1 Year premium Care
+74990,ASUS,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 inch) Touchscreen Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+56990,HP,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Warranty Term
+43500,HP,Intel Core i3 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+80990,HP,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,8 GB LPDDR4X RAM,33.78 cm (13.3 Inch) Touchscreen Display,512 GB SSD,Envy,1 Year Onsite Warranty
+37990,HP,AMD Ryzen 3 Quad Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+63990,ASUS,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,VivoBook,1 Year onsite warranty
+33500,DELL,Processor: AMD Athlon Silver 3050U (2.30 GHz up to 3.20 GHz),64 bit Windows 11 Operating System,RAM & Storage: 8GB DDR4 & 256GB SSD,"Display: 15.6"" HD AG Narrow Border","RAM & Storage: 8GB DDR4 & 256GB SSD, 256 GB SSD",Inspiron,1 Year Onsite Warranty
+59990,ASUS,Intel Core i5 Processor (13th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year On Site Warranty
+54990,MSI,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,2 Year Carry-in Warranty
+69990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Creator,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+83990,ASUS,AMD Ryzen 7 Quad Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 inch) Display,1 TB SSD,N\A,1 Year Domestic Warranty
+63190,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+67990,MSI,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+37990,MSI,Intel Core i3 Processor (12th Gen),Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in warranty
+109990,HP,Intel Core i7 Processor (12th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Touchscreen Display,1 TB SSD,Envy,1 Year Onsite Warranty
+85800,HP,Intel Core i7 Processor (11th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 inch) Touchscreen Display,512 GB SSD,Pavilion,1 Year Onsite Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection
+38600,ASUS,AMD Ryzen 3 Quad Core Processor,Windows 11 Operating System,8 GB LPDDR5 RAM,35.56 cm (14 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+84990,Acer,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 inch) Touchscreen Display,512 GB SSD,N\A,1 Year International Travelers Warranty (ITW)
+57990,HP,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+82850,HP,AMD Ryzen 7 Octa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+40990,ASUS,Intel Core i3 Processor (12th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+89990,SAMSUNG,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR4X RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+23290,HP,AMD Athlon Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 inch) Display,1 TB HDD,N\A,N/A
+37990,HP,AMD Ryzen 3 Quad Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Warranty Term
+54990,MSI,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,2 Year Carry-in Warranty
+89990,SAMSUNG,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR4X RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+23290,HP,AMD Athlon Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 inch) Display,1 TB HDD,N\A,N/A
+104990,Lenovo,Intel Core i7 Processor (11th Gen),64 bit Windows 10 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,Gaming,1 Year Onsite�Warranty�+ 1 Year Legion Ultimate Support + 1 Year Accidental Damage Protection
+99990,Lenovo,AMD Ryzen 7 Octa Core Processor,Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+116990,MSI,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,1 TB SSD,N\A,2 Year Carry-in Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+37990,MSI,Intel Core i3 Processor (12th Gen),Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in warranty
+45990,DELL,AMD Ryzen 5 Quad Core Processor,64 bit Windows 10 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,Inspiron,N/A
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+65900,DELL,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,40.64 cm (16 inch) Display,512 GB SSD,N\A,N/A
+49990,Acer,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,Aspire,1 Year International Travelers Warranty (ITW)
+127990,ASUS,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB LPDDR5 RAM,34.04 cm (13.4 Inch) Touchscreen Display,1 TB SSD,Gaming,1 Year Onsite Warranty
+145790,APPLE,Apple M2 Processor,Mac OS Operating System,8 GB Unified Memory RAM,38.86 cm (15.3 Inch) Display,512 GB SSD,MacBook Air,1 Year Limited Warranty
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection
+42500,HP,Intel Core i3 Processor (11th Gen),64 bit Windows 10 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Domestic Brand Warranty on Device
+47990,Acer,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Aspire,One-year International Travelers Warranty
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+86990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,40.64 cm (16 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+57990,HP,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+59990,ASUS,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+49833,HP,Intel Core i5 Processor (11th Gen),64 bit Chrome Operating System,8 GB DDR4 RAM,35.56 cm (14 inch) Display,256 GB SSD,N\A,1 Year Onsite Warranty
+137990,APPLE,Apple M2 Processor,Mac OS Operating System,8 GB Unified Memory RAM,34.54 cm (13.6 Inch) Display,512 GB SSD,MacBook Air,1 Year Limited Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+58490,Lenovo,Intel Core i5 Processor (11th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,1 Year Onsite�Warranty�+ 1 Year Premium Care + 1 Year Accidental Damage Protection
+70990,Lenovo,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,ThinkPad,1 Year Onsite Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+66990,DELL,Intel Core i5 Processor (13th Gen),Windows 11 Operating System,8 GB LPDDR5 RAM,35.56 cm (14 inch) Display,1 TB SSD,N\A,1-year warranty
+20919,ASUS,Intel Celeron Dual Core Processor,64 bit Windows 11 Operating System,4 GB DDR4 RAM,29.46 cm (11.6 Inch) Display,128 GB SSD,N\A,1 Year Onsite Warranty
+169990,ASUS,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,32 GB DDR5 RAM,40.64 cm (16 Inch) Display,2 TB SSD,Gaming,1 Year Onsite Warranty
+35100,ASUS,Intel Core i3 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year International Warranty
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+53990,Lenovo,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 inch) Display,512 GB SSD,N\A,3 YEAR BRAND WARRANTY
+46200,HP,Intel Core i3 Processor (11th Gen),64 bit Windows 10 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+37990,HP,AMD Ryzen 3 Quad Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+37990,HP,Intel Core i3 Processor (10th Gen),64 bit Windows 10 Operating System,4 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+139990,ASUS,AMD Ryzen 9 Octa Core Processor,Windows 11 Operating System,16 GB DDR5 RAM,40.64 cm (16 Inch) Display,1 TB SSD,N\A,1 Year Onsite Warranty
+70990,Lenovo,Intel Core i5 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,35.56 cm (14 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+104990,Lenovo,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Gaming,1 Years Carry in Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+84500,HP,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 Operating System,16 GB DDR4 RAM,33.78 cm (13.3 inch) Display,512 GB SSD,Pavilion,1 Year Onsite Warranty
+104990,Lenovo,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Gaming,1 Years Carry in Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection
+76990,ASUS,AMD Ryzen 7 Octa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Creator,1 Year Onsite Warranty
+59990,ASUS,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+165490,Lenovo,Intel Core i7 Processor (9th Gen),64 bit Windows 10 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 inch) Display,1 TB SSD,N\A,3 Year Onsite Warranty
+151990,HP,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,Gaming,1 Year Onsite Warranty
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+69990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Creator,1 Year Onsite Warranty
+81990,HP,Intel Core i5 Processor (10th Gen),64 bit Windows 10 Operating System,8 GB DDR4 RAM,33.78 cm (13.3 inch) Touchscreen Display,512 GB SSD,Envy,1 Year Onsite Warranty
+44990,Acer,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Aspire,1 Year International Travelers Warranty
+51990,Lenovo,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+117991,Lenovo,Intel Core i7 Processor (11th Gen),64 bit Windows 10 Operating System,16 GB LPDDR4X RAM,33.78 cm (13.3 inch) Display,1 TB SSD,N\A,3 Years Warranty + 1 Year Premium Care + 1 Year ADP
+23990,ASUS,Intel Celeron Dual Core Processor,Windows 11 Operating System,4 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,256 GB SSD,VivoBook,1 Year Onsite Warranty
+144990,ASUS,AMD Ryzen 9 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 inch) Display,1 TB SSD,Gaming,1 Year Onsite Warranty
+76990,ASUS,AMD Ryzen 7 Octa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Creator,1 Year Onsite Warranty
+55350,Lenovo,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,2 Year warranty
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+172791,Lenovo,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,32 GB DDR5 RAM,40.64 cm (16 Inch) Display,1 TB SSD,Gaming,3 Years Onsite Warranty + 1 Year Accidental Damage Protection + 3 Years Legion Ultimate Support
+52650,DELL,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,N/A
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+214990,MSI,Intel Core i7 Processor (10th Gen),64 bit Windows 10 Operating System,32 GB DDR4 RAM,39.62 cm (15.6 inch) Display,1 TB SSD,Creator,2 Years Carry In Warranty
+39889,Lenovo,Intel Core i3 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,IdeaPad,2 Year warranty
+28590,HP,AMD Ryzen 3 Dual Core Processor,DOS Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+52990,Infinix,Intel Core i5 Processor (11th Gen),64 bit Windows 11 Operating System,16 GB LPDDR4X RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+80990,DELL,Intel Core i5 Processor (13th Gen),Windows 11 Operating System,8 GB LPDDR5 RAM,35.56 cm (14 inch) Touchscreen Display,512 GB SSD,Inspiron,N/A
+69050,ASUS,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,1 TB SSD,N\A,1 Year Onsite Warranty
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection
+57990,HP,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+79699,Lenovo,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+165601,Acer,Intel Core i9 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,40.64 cm (16 Inch) Display,1 TB SSD,Gaming,1 Year International Travelers Warranty (ITW)
+95990,DELL,Intel Core i5 Processor,Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+37290,Lenovo,Intel Core i3 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Warranty Term
+38390,DELL,Processor: Intel i3-1115G4 (Base- 1.7 GHz & Turbo up to 4.10 GHz) 2 Cores,Windows 11 Operating System,RAM & Storage: 8GB DDR4 & 1TB HDD + 256GB SSD,"Display: 15.6"" FHD WVA AG Narrow Border","RAM & Storage: 8GB DDR4 & 1TB HDD + 256GB SSD, 1 TB HDD|256 GB SSD",N\A,N/A
+87990,MSI,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,43.94 cm (17.3 Inch) Display,512 GB SSD,N\A,2 Year Carry-in Warranty
+37990,HP,AMD Ryzen 3 Quad Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+84990,ASUS,Intel Core i7 Processor (12th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,35.56 cm (14 inch) Touchscreen Display,512 GB SSD,ZenBook,1 Year Onsite Warranty
+35990,Infinix,Intel Core i3 Processor (10th Gen),64 bit Windows 11 Operating System,8 GB LPDDR4X RAM,35.56 cm (14 inch) Display,256 GB SSD,N\A,1 Year Onsite Warranty
+45990,ASUS,Intel Core i3 Processor (13th Gen),Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+229990,APPLE,Apple M2 Pro Processor,Mac OS Operating System,16 GB Unified Memory RAM,40.64 cm (16 Inch) Display,512 GB SSD,MacBook Pro,1 Year Limited Warranty
+344990,MSI,Intel Core i9 Processor (13th Gen),Windows 11 Operating System,32 GB DDR5 RAM,43.18 cm (17 Inch) Display,2 TB SSD,N\A,2 Year Carry-in Warranty
+74990,Lenovo,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,1 TB SSD,ThinkPad,1 Year Onsite Warranty
+173990,DELL,Intel Core i7 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB LPDDR5 RAM,34.04 cm (13.4 inch) Touchscreen Display,1 TB SSD,XPS,N/A
+243990,APPLE,Apple M1 Pro Processor,Mac OS Operating System,16 GB Unified Memory RAM,41.15 cm (16.2 inch) Display,1 TB SSD,MacBook Pro,1 Year Limited Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+44700,HP,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+58999,HP,Intel Core i5 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 inch) Display,512 GB SSD,Pavilion,1 Year onsite Warranty
+34990,Infinix,Intel Core i5 Processor (11th Gen),64 bit Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 inch) Display,512 GB SSD,N\A,1 year Onsite Warranty
+88990,MSI,Intel Core i7 Processor (12th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,2 Year Carry-in Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+64990,MSI,Intel Core i5 Processor (11th Gen),64 bit Windows 10 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 inch) Display,"512 GB SSD, PCI-e Gen4 SSD?SHIFT?Matrix Display (Extend)?Cooler Boost 3?Thunderbolt 4?Finger Print Security?True Color 2.0?Hi-Res Audio?Nahimic 3? 4-Sided Thin bezel?MSI Center?Silky Smooth Touchpad?Military-Grade Durability",N\A,1 Year On-Site Warranty
+44990,Acer,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection
+57990,HP,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+96990,ASUS,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR5 RAM,34.04 cm (13.4 inch) Touchscreen Display,512 GB SSD,Gaming,1 Year Onsite Warranty
+329990,ASUS,Intel Core i7 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB LPDDR5 RAM,43.94 cm (17.3 Inch) Touchscreen Display,1 TB SSD,ZenBook,1 Year Onsite Warranty
+62190,HP,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+49990,ASUS,Intel Core i3 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Touchscreen Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+96990,ASUS,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR5 RAM,34.04 cm (13.4 inch) Touchscreen Display,512 GB SSD,Gaming,1 Year Onsite Warranty
+88990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,35.56 cm (14 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+59990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Creator,1 Year Onsite Warranty
+72990,ASUS,AMD Ryzen 5 Processor,Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Warranty
+34990,Infinix,Intel Core i5 Processor (11th Gen),64 bit Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 inch) Display,512 GB SSD,N\A,1 year Onsite Warranty
+56690,DELL,Intel Core i5 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,256 GB SSD,Inspiron,1 Year Onsite Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+74990,ASUS,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,35.56 cm (14 Inch) Touchscreen Display,512 GB SSD,ZenBook,1 Year Onsite Warranty
+176990,ASUS,AMD Ryzen 9 Octa Core Processor,64 bit Windows 11 Operating System,32 GB DDR5 RAM,35.56 cm (14 inch) Display,1 TB SSD,Gaming,1 Year Onsite Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+105990,ASUS,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+137990,APPLE,Apple M2 Processor,Mac OS Operating System,8 GB Unified Memory RAM,34.54 cm (13.6 Inch) Display,512 GB SSD,MacBook Air,N/A
+70990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 inch) Display,512 GB SSD,Pavilion,1 Year Onsite Warranty
+154990,ASUS,AMD Ryzen 9 Octa Core Processor,Windows 10 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 inch) Display,1 TB SSD,Gaming,1 Year Onsite Warranty
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection
+67990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,1 TB SSD,Creator,1 Year Onsite Warranty
+48990,Lenovo,Intel Core i5 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,100.63 cm (39.62 cm) Display,512 GB SSD,N\A,1 Year Onsite Warranty + 1 Year Accidental Damage Protection Add On
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+86990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,40.64 cm (16 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+84990,DELL,Intel Core i7 Processor (13th Gen),64 bit Windows 11 Operating System,16 GB LPDDR5 RAM,35.81 cm (14.1 Inch) Display,1 TB SSD,Inspiron,N/A
+77990,HP,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+59990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Creator,1 Year Onsite Warranty
+52798,HP,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+49990,MSI,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,2 Year Carry-in Warranty
+109990,Acer,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,40.64 cm (16 Inch) Display,512 GB SSD,Gaming,1 Year International Travelers Warranty (ITW)
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+129039,HP,Intel Core i7 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB LPDDR4X RAM,34.29 cm (13.5 inch) Display,512 GB SSD,Spectre,1 Year Onsite Warranty
+34790,HP,Intel Core i3 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,N/A
+80754,HP,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,Pavilion,1 Year Onsite Warranty
+140131,Lenovo,Intel Core i7 Processor (11th Gen),64 bit Windows 10 Operating System,16 GB DDR4 RAM,38.1 cm (15 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection
+57990,HP,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+450000,MSI,Intel Core i9 Processor (12th Gen),64 bit Windows 11 Operating System,64 GB DDR5 RAM,43.94 cm (17.3 inch) Display,2 TB SSD,N\A,2 Year Warranty
+47990,Acer,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Aspire,1 Year International Travelers Warranty (ITW)
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+69490,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,Pavilion,1 Year Onsite Warranty
+76990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 Inch) Display,512 GB SSD,ZenBook,1 Year Onsite Warranty
+87990,MSI,Intel Core i7 Processor (12th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,1 TB SSD,N\A,2 Year Carry-in Warranty
+209990,ASUS,Intel Core i9 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,34.04 cm (13.4 Inch) Display,1 TB SSD,Gaming,1 Year Onsite Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+63500,MSI,Intel Core i5 Processor (11th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,N/A
+85990,MSI,Intel Core i7 Processor (12th Gen),Windows 11 Operating System,8 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,2 Year On-Site & Carry-In Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+209990,ASUS,Intel Core i9 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,34.04 cm (13.4 Inch) Display,1 TB SSD,Gaming,1 Year Onsite Warranty
+74649,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Touchscreen Display,512 GB SSD,N\A,1 Year Onsite Warranty
+144990,ASUS,AMD Ryzen 9 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 inch) Display,1 TB SSD,Gaming,1 Year Onsite Warranty
+112390,DELL,Intel Core i7 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB DDR5 RAM,96.52 cm (38 cm) Display,512 GB SSD,N\A,N/A
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+40690,DELL,Intel Core i3 Processor (10th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+399990,ASUS,Intel Core i9 Processor (12th Gen),64 bit Windows 11 Operating System,32 GB DDR5 RAM,43.94 cm (17.3 inch) Display,4 TB SSD,Gaming,1 Year Onsite Warranty
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection
+69350,Lenovo,Intel Core i5 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,35.56 cm (14 inch) Display,512 GB SSD,N\A,1-year warranty
+41990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,IdeaPad,N/A
+72499,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Pavilion,1 Year Onsite Warranty
+20490,Acer,Intel Pentium Silver Processor,64 bit Windows 11 Operating System,4 GB DDR4 RAM,35.56 cm (14 inch) Display,256 GB SSD,Aspire,1 Year International Travelers Warranty (ITW)
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+86990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,40.64 cm (16 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+63990,DELL,Intel Core i5 Processor (13th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,1 TB SSD,Inspiron,1-year warranty
+222291,ASUS,Intel Core i9 Processor (12th Gen),64 bit Windows 11 Operating System,32 GB DDR5 RAM,40.64 cm (16 Inch) Display,1 TB SSD,Gaming,1 Year Onsite Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+284990,ASUS,Intel Core i9 Processor (13th Gen),Windows 11 Operating System,32 GB DDR5 RAM,40.64 cm (16 Inch) Display,1 TB SSD,Gaming,1 Year Onsite Warranty
+85000,ASUS,Intel Core i5 Processor (13th Gen),Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,Creator,1 Year Onsite Warranty
+126000,HP,Intel Core i5 Processor (10th Gen),64 bit Windows 10 Operating System,8 GB DDR4 RAM,33.78 cm (13.3 inch) Touchscreen Display,512 GB SSD,N\A,1 Year Onsite Warranty
+99500,ASUS,Intel Core i5 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,35.56 cm (14 Inch) Touchscreen Display,512 GB SSD,ZenBook,1 Year Onsite Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+59990,MSI,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,2 Year Carry-in Warranty
+344990,MSI,Intel Core i9 Processor (13th Gen),Windows 11 Operating System,32 GB DDR5 RAM,43.18 cm (17 Inch) Display,2 TB SSD,N\A,2 Year Carry-in Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+197990,ASUS,Intel Core i9 Processor (8th Gen),64 bit Windows 10 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 inch) Touchscreen Display,1 TB SSD,ZenBook,1 Year Onsite Warranty
+20990,Acer,Intel Celeron Dual Core Processor,Chrome Operating System,4 GB LPDDR4 RAM,35.56 cm (14 Inch) Display,"N, /, A",N\A,1 Year Onsite Warranty
+36990,DELL,AMD Ryzen 3 Dual Core Processor,64 bit Windows 10 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,1 TB HDD,Inspiron,1 Year Onsite Warranty
+76500,HP,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,Pavilion,1 Year Onsite Warranty
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection
+96990,MSI,Intel Core i7 Processor (12th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,1 TB SSD,N\A,2 Year Carry-in Warranty
+64990,ASUS,Intel Core i5 Processor (13th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.64 cm (16 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+86990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,40.64 cm (16 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+134990,Lenovo,Intel Core i7 Processor (12th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,36.83 cm (14.5 Inch) Touchscreen Display,1 TB SSD,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection
+35990,DELL,Intel Core i3 Processor (11th Gen),64 bit Windows 10 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,256 GB SSD,Inspiron,1 Year Onsite Warranty
+149990,GIGABYTE,Intel Core i7 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 inch) Display,1 TB SSD,AERO,2 Year Carry-in Warranty
+79990,ASUS,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.64 cm (16 Inch) Display,512 GB SSD,Creator,1 Year Onsite Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+145790,APPLE,Apple M2 Processor,Mac OS Operating System,8 GB Unified Memory RAM,38.86 cm (15.3 Inch) Display,512 GB SSD,MacBook Air,1 Year Limited Warranty
+234990,ASUS,AMD Ryzen 9 Octa Core Processor,64 bit Windows 10 Operating System,32 GB LPDDR4X RAM,34.04 cm (13.4 inch) Touchscreen Display,1 TB SSD,Gaming,1 Year Onsite Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+109990,HP,AMD Ryzen 7 Octa Core Processor,Windows 11 Operating System,16 GB DDR5 RAM,40.89 cm (16.1 Inch) Display,1 TB SSD,Gaming,1 Year Onsite Warranty
+130990,MSI,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,1 TB SSD,N\A,2 Year Carry-in Warranty
+82850,Lenovo,AMD Ryzen 7 Octa Core Processor (5th Gen),64 bit Windows 10 Operating System,16 GB DDR4 RAM,35.56 cm (14 inch) Touchscreen Display,512 GB SSD,N\A,3 Years Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection
+41490,DELL,AMD Ryzen 5 Quad Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,Inspiron,1 Year Onsite Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+154990,MSI,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,43.94 cm (17.3 Inch) Display,1 TB SSD,N\A,2 Year Carry-in Warranty
+53490,HP,Intel Core i5 Processor (11th Gen),DOS Operating System,8 GB DDR4 RAM,35.56 cm (14 inch) Display,512 GB HDD|512 GB SSD,N\A,1 Year Warranty
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection
+179990,SAMSUNG,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,40.64 cm (16 Inch) Touchscreen Display,1 TB SSD,N\A,1 Year Onsite Warranty
+53990,DELL,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,8 GB LPDDR4 RAM,35.56 cm (14 inch) Display,512 GB SSD,N\A,N/A
+37490,DELL,Intel Core i3 Processor (10th Gen),64 bit Windows 10 Operating System,4 GB DDR4 RAM,38.1 cm (15 inch) Display,256 GB SSD,Inspiron,1 Year Onsite Warranty
+31990,Infinix,Intel Core i3 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB LPDDR4X RAM,39.01 cm (15.36 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+86990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,40.64 cm (16 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+79990,MSI,Intel Core i7 Processor (10th Gen),64 bit Windows 10 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,1 TB HDD|256 GB SSD,N\A,2 Year On-Site Warranty
+145790,APPLE,Apple M2 Processor,Mac OS Operating System,8 GB Unified Memory RAM,38.86 cm (15.3 Inch) Display,512 GB SSD,MacBook Air,1 Year Limited Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+65990,ASUS,AMD Ryzen 5 Hexa Core Processor (5th Gen),64 bit Windows 10 Operating System,8 GB LPDDR4X RAM,35.56 cm (14 inch) Display,512 GB SSD,ZenBook,1 Year Onsite Warranty
+66989,Lenovo,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,IdeaPad,1 Year Onsite Warranty
+184490,HP,Intel Core i7 Processor (13th Gen),64 bit Windows 11 Operating System,32 GB DDR4 RAM,40.64 cm (16 Inch) Touchscreen Display,1 TB SSD,Spectre,1 Year Onsite Warranty
+75990,ASUS,Intel Core i5 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Domestic Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+62483,Acer,Intel Core i5 Processor (11th Gen),64 bit Windows 10 Operating System,16 GB DDR4 RAM,35.56 cm (14 inch) Display,1 TB HDD|256 GB SSD,N\A,1 Year International Travelers Warranty (ITW)
+38990,ASUS,AMD Ryzen 5 Quad Core Processor,Windows 11 Operating System,8 GB LPDDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+42990,Acer,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 10 Operating System,8 GB LPDDR4X RAM,35.56 cm (14 inch) Display,512 GB SSD,Swift,1 Year International Travelers Warranty (ITW)
+45965,Lenovo,Intel Core i3 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,IdeaPad,2 Year Onsite Warranty
+33200,ASUS,Intel Core i3 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year International Warranty
+112990,ASUS,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,35.56 cm (14 Inch) Display,512 GB SSD,ZenBook,1 Year Onsite Warranty
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection
+67490,HP,Intel Core i5 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Pavilion,1 Year onsite warranty
+18990,ASUS,Intel Celeron Dual Core Processor,Chrome Operating System,4 GB LPDDR4X RAM,35.56 cm (14 Inch) Display,"N, /, A",N\A,1 Year Onsite Warranty
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+86990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,40.64 cm (16 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+83600,Lenovo,Intel Core i5 Processor (11th Gen),64 bit Windows 10 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,N/A
+76990,Acer,AMD Ryzen 7 Octa Core Processor,64 bit Windows 10 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,1 TB HDD|256 GB SSD,N\A,1 Year International Travelers Warranty (ITW)
+137990,APPLE,Apple M2 Processor,Mac OS Operating System,8 GB Unified Memory RAM,34.54 cm (13.6 Inch) Display,512 GB SSD,MacBook Air,N/A
+150748,Lenovo,AMD Ryzen 7 Octa Core Processor,Windows 11 Operating System,32 GB DDR4 RAM,40.64 cm (16 Inch) Display,1 TB SSD,Gaming,3 Years Onsite Warranty + 1 Year Accidental Damage Protection + 3 Years Legion Ultimate Support
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+94990,ASUS,Intel Core i7 Processor (12th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.64 cm (16 Inch) Display,512 GB SSD,Creator,1 Year Onsite Warranty
+27990,Infinix,Intel Celeron Quad Core Processor,64 bit Windows 11 Operating System,4 GB LPDDR4X RAM,35.56 cm (14 inch) Display,128 GB SSD,InBook X1,1 Year Onsite Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+78990,HP,AMD Ryzen 7 Octa Core Processor,Windows 11 Operating System,16 GB LPDDR5 RAM,33.78 cm (13.3 Inch) Display,1 TB SSD,Pavilion,1 Year Onsite Warranty
+43990,ASUS,AMD Ryzen 5 Quad Core Processor,Windows 11 Operating System,8 GB LPDDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+72999,HP,Intel Core i5 Processor (13th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Pavilion,1 Year Onsite Warranty
+52990,ASUS,Intel Core i5 Processor (11th Gen),64 bit Windows 10 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 inch) Display,1 TB HDD|256 GB SSD,VivoBook,1 Year Onsite Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+99890,Lenovo,Intel Core i7 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,40.64 cm (16 Inch) Display,512 GB SSD,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection
+364990,ASUS,Intel Core i9 Processor (13th Gen),Windows 11 Operating System,32 GB DDR5 RAM,40.64 cm (16 Inch) Display,2 TB SSD,Gaming,1 Year Onsite Warranty
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection
+64990,Lenovo,Intel Core i5 Processor (10th Gen),64 bit Windows 10 Operating System,8 GB LPDDR4X RAM,35.56 cm (14 inch) Display,512 GB SSD,N\A,3 Years Warranty + 1 Year Premium Care + 1 Year ADP
+44299,HP,Intel Core i3 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+209890,Lenovo,Intel Core i9 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,40.64 cm (16 inch) Display,1 TB SSD,Gaming,1 Year Onsite Warranty
+77490,DELL,Processor: Intel i5-1235U (Base- 3.30 GHz & Turbo up to 4.40 GHz) 10 Cores,64 bit Windows 11 Operating System,RAM & Storage: 16GB DDR4 & 512GB SSD,35.56 cm (14 inch) Touchscreen Display,"RAM & Storage: 16GB DDR4 & 512GB SSD, 512 GB SSD",Inspiron,N/A
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+216890,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,32 GB DDR5 RAM,40.64 cm (16 inch) Display,1 TB SSD,Gaming,1 Year Onsite Warranty
+62990,Lenovo,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,IdeaPad,1 Year Onsite�Warranty�+ 1 Year Premium Care + 1 Year Accidental Damage Protection
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+52990,DELL,Intel Core i5 Processor (11th Gen),64 bit Windows 10 Operating System,8 GB DDR4 RAM,35.56 cm (14 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+236990,ASUS,AMD Ryzen 9 Octa Core Processor,64 bit Windows 10 Operating System,32 GB LPDDR4X RAM,34.04 cm (13.4 Inch) Touchscreen Display,1 TB SSD,Gaming,1 Year Onsite Warranty
+244890,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,32 GB DDR5 RAM,40.64 cm (16 inch) Display,1 TB SSD,Gaming,1 Year Onsite Warranty
+122990,SAMSUNG,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR4X RAM,39.62 cm (15.6 Inch) Touchscreen Display,512 GB SSD,N\A,1 Year Onsite Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+114990,Acer,Intel Core i7 Processor (11th Gen),Windows 11 Operating System,16 GB LPDDR4X RAM,40.89 cm (16.1 Inch) Display,1 TB SSD,Swift,1 Year Onsite Warranty
+59990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,40.64 cm (16 Inch) Display,1 TB SSD,VivoBook,1 Year Onsite Warranty
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection
+41990,Acer,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+108990,DELL,Intel Core i5 Processor (11th Gen),64 bit Windows 10 Operating System,16 GB LPDDR4X RAM,33.78 cm (13.3 Inch) Display,512 GB SSD,XPS,N/A
+68990,HP,Intel Core i5 Processor (13th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+34990,Acer,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+86990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,40.64 cm (16 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+64600,HP,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+62990,HP,Intel Core i5 Processor (13th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+67990,ASUS,Intel Core i7 Processor (8th Gen),64 bit Windows 10 Operating System,8 GB DDR4 RAM,35.56 cm (14 inch) Display,1 TB HDD|256 GB SSD,VivoBook,1 Year Limited International Hardware Warranty
+52990,HP,AMD Ryzen 5 Quad Core Processor,Windows 11 Operating System,16 GB LPDDR5 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+56976,Lenovo,Intel Core i5 Processor (10th Gen),64 bit Windows 10 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,1 TB HDD|256 GB SSD,IdeaPad,1 Year Onsite�Warranty�+ 1 Year Premium Care + 1 Year Accidental Damage Protection
+68900,ASUS,Intel Core i5 Processor (11th Gen),Windows 11 Home Operating System,16 GB DDR4 RAM,43.94 cm (17.3 inch) Display,512 GB SSD,N\A,1 Year Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+58500,Acer,Intel Core i5 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,Aspire,1 Year International Travelers Warranty (ITW)
+71990,ASUS,Intel Core i5 Processor (13th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+62249,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,Pavilion,1 Year Onsite Warranty
+36990,DELL,AMD Ryzen 3 Dual Core Processor,64 bit Windows 10 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,256 GB SSD,N\A,1 Year Onsite Warranty
+65500,ASUS,AMD Ryzen 5 Processor,Windows 11 Home Operating System,16 GB DDR4 RAM,35.56 cm (14 inch) Touchscreen Display,1 TB SSD,N\A,1 Year Warranty
+38490,DELL,Intel Core i3 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,N/A
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection
+71990,MSI,Intel Core i7 Processor (10th Gen),64 bit Windows 10 Operating System,16 GB DDR4 RAM,35.56 cm (14 inch) Display,512 GB SSD,N\A,1 Year Carry In Warranty
+125990,HP,Intel Core i7 Processor (11th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,1 TB SSD,Gaming,1 Year Onsite Warranty
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+86990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,40.64 cm (16 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+59990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,40.64 cm (16 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+85990,ASUS,Intel Core i5 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+193990,GIGABYTE,Intel Core i7 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 inch) Display,1 TB SSD,AERO,2 Year Carry-in Warranty
+29990,Infinix,Intel Core i3 Processor (12th Gen),Windows 11 Operating System,8 GB LPDDR4X RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+93590,Lenovo,AMD Ryzen 7 Octa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,IdeaPad,1 Year Onsite Premium Support with 1 Year Onsite Warranty
+27990,Lenovo,Intel Celeron Dual Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,256 GB SSD,IdeaPad,2 Years On-Site Warranty
+171990,ASUS,AMD Ryzen 7 Octa Core Processor,Windows 11 Operating System,16 GB DDR5 RAM,40.64 cm (16 Inch) Touchscreen Display,1 TB SSD,Gaming,1 Year Onsite Warranty
+74990,ASUS,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+41999,Acer,AMD Ryzen 3 Dual Core Processor,64 bit Windows 11 Operating System,4 GB DDR4 RAM,39.62 cm (15.6 inch) Display,256 GB SSD,Aspire,1 Year International Travelers Warranty (ITW)
+55990,Acer,AMD Ryzen 7 Octa Core Processor,64 bit Windows 10 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,Aspire,1 Year International Travelers Warranty (ITW)
+194990,Acer,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,32 GB DDR5 RAM,40.64 cm (16 Inch) Display,1 TB SSD,Gaming,1 Year Onsite Warranty
+210490,ASUS,Intel Core i9 Processor (12th Gen),64 bit Windows 11 Operating System,32 GB DDR5 RAM,39.62 cm (15.6 inch) Display,1 TB SSD,Gaming,1 Year Onsite Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+41490,DELL,Processor: R3-5425U (2.70 GHz up to 4.1 GHz),64 bit Windows 11 Operating System,RAM & Storage: 8GB DDR4 & 512GB SSD,"Display:14.0"" FHD WVA AG Narrow Border 250 nits","RAM & Storage: 8GB DDR4 & 512GB SSD, 512 GB SSD",N\A,N/A
+189990,ASUS,Intel Core i9 Processor (12th Gen),64 bit Windows 11 Operating System,32 GB DDR5 RAM,39.62 cm (15.6 inch) Display,1 TB SSD,Gaming,1 Year Onsite Warranty
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection
+57990,HP,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+79881,Lenovo,Intel Core i5 Processor (11th Gen),Windows 10 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+87550,ASUS,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Gaming,1 Year Onsite Warranty
+30999,HP,AMD Athlon Dual Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+88990,ASUS,Intel Core i7 Processor (12th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.64 cm (16 Inch) Display,1 TB SSD,Creator,1 Year Onsite Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+194990,Acer,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,32 GB DDR5 RAM,40.64 cm (16 Inch) Display,1 TB SSD,Gaming,1 Year Onsite Warranty
+87550,ASUS,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Gaming,1 Year Onsite Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+69490,Lenovo,Intel Core i5 Processor (10th Gen),64 bit Windows 10 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,1 TB HDD|256 GB SSD,IdeaPad,1 Year Warranty + 1 Year Premium Care + 1 Year ADP
+30999,HP,AMD Athlon Dual Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+62550,ASUS,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Touchscreen Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+53490,DELL,Processor: Ryzen R5-5625U (Base- 2.30 GHz & Turbo up to 4.30 GHz) 6 Cores,64 bit Windows 11 Operating System,RAM & Storage: 8GB DDR4 & 512GB SSD,39.62 cm (15.6 Inch) Display,"RAM & Storage: 8GB DDR4 & 512GB SSD, 512 GB SSD",Inspiron,N/A
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+56490,MSI,Intel Core i5 Processor (10th Gen),64 bit Windows 10 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,2 Year On-Site Warranty
+42990,DELL,AMD Ryzen 5 Quad Core Processor,64 bit Windows 10 Operating System,8 GB DDR4 RAM,35.56 cm (14 inches) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+36990,Lenovo,Intel Core i3 Processor (10th Gen),Windows 10 Operating System,4 GB DDR4 RAM,39.62 cm (15.6 inch) Display,256 GB SSD,IdeaPad,1 Year Onsite Warranty
+131990,ASUS,AMD Ryzen 9 Octa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,1 TB SSD,N\A,1 Year Onsite Warranty
+88990,ASUS,Intel Core i7 Processor (12th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.64 cm (16 Inch) Display,1 TB SSD,Creator,1 Year Onsite Warranty
+79990,ASUS,Intel Core i5 Processor (13th Gen),Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 inch) Display,1 TB SSD,N\A,1 year Domestic Warranty
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB LPDDR4X RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection
+185990,MSI,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,32 GB DDR5 RAM,43.94 cm (17.3 Inch) Display,1 TB SSD,N\A,2 Year Carry-in Warranty
+39490,Lenovo,Intel Core i3 Processor (11th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+86990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,40.64 cm (16 Inch) Display,512 GB SSD,IdeaPad,1 Year Carry-in Warranty
+74990,Acer,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 Operating System,8 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year International Travelers Warranty
+50090,DELL,AMD Ryzen 5 Quad Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,1 TB HDD|256 GB SSD,Inspiron,1 Year Onsite Warranty
+16990,CHUWI,Intel Celeron Dual Core Processor (10th Gen),64 bit Windows 11 Operating System,LPDDR4 4GB RAM,29.46 cm (11.6 inch) Display,128 GB SSD,N\A,1 Year Onsite Warranty
+73640,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+69990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,Creator,1 Year Onsite Warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+85690,HP,Intel Core i7 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+37990,Acer,Intel Core i3 Processor (11th Gen),64 bit Windows 10 Operating System,4 GB DDR4 RAM,39.62 cm (15.6 inch) Display,256 GB SSD,Aspire,1 Year International Travelers Warranty (ITW)
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+202490,ALIENWARE,Intel Core i7 Processor (10th Gen),64 bit Windows 10 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 inch) Display,1 TB SSD,Gaming,1 Year Complete Cover Warranty
+139990,ASUS,AMD Ryzen 9 Octa Core Processor,Windows 10 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,1 TB SSD,Gaming,1 Year Onsite Warranty
+60990,MSI,Intel Core i7 Processor (12th Gen),Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in warranty
+169990,ASUS,Intel Core i9 Processor (13th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.64 cm (16 Inch) Display,1 TB SSD,Gaming,1 Year Onsite Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection
+40990,HP,MediaTek Kompanio 1200 Processor,64 bit Chrome Operating System,8 GB LPDDR4X RAM,33.78 cm (13.3 Inch) Display,256 GB SSD,N\A,1 Year Onsite Warranty
+92990,ASUS,Intel Core i5 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,35.56 cm (14 Inch) Display,512 GB SSD,ZenBook,1 Year Onsite Warranty
+57990,HP,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+85000,ASUS,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,8 GB DDR5 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+99990,ASUS,Intel Core i7 Processor (12th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.64 cm (16 Inch) Display,512 GB SSD,Creator,1 Year Onsite Warranty
+284990,MSI,Intel Core i9 Processor (13th Gen),Windows 11 Operating System,32 GB DDR5 RAM,40.64 cm (16 Inch) Display,1 TB SSD,N\A,2 Year Carry-in Warranty
+45990,DELL,Intel Core i3 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,N/A
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+51990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,40.64 cm (16 Inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+52990,Infinix,Intel Core i7 Processor (11th Gen),Windows 11 Operating System,16 GB LPDDR4X RAM,39.62 cm (15.6 inch) Display,1 TB SSD,N\A,1 Year Onsite Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+20990,ASUS,Intel Celeron Dual Core Processor,Chrome Operating System,4 GB LPDDR4X RAM,35.56 cm (14 Inch) Touchscreen Display,"N, /, A",N\A,1 Year Onsite Warranty
+49990,Acer,AMD Ryzen 5 Hexa Core Processor,64 bit Windows 11 Operating System,8 GB LPDDR4X RAM,35.56 cm (14 Inch) Display,512 GB SSD,Swift,1 Year International Travelers Warranty
+148105,Lenovo,Intel Core i7 Processor (11th Gen),64 bit Windows 10 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,ThinkPad,N/A
+43990,ASUS,AMD Ryzen 5 Quad Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 inch) Display,512 GB SSD,N\A,1 Year Warranty
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection
+57990,HP,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+61990,DELL,Intel Core i5 Processor (11th Gen),Linux/Ubuntu Operating System,8 GB DDR4 RAM,35.56 cm (14 inch) Display,512 GB SSD,N\A,N/A
+135990,MSI,Intel Core i7 Processor (11th Gen),64 bit Windows 10 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 inch) Touchscreen Display,1 TB SSD,N\A,2 Years Carry In Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Warranty Term
+39990,ASUS,AMD Ryzen 3 Quad Core Processor,64 bit Windows 11 Operating System,8 GB LPDDR5 RAM,35.81 cm (14.1 inch) Display,512 GB SSD,VivoBook,1 Year Onsite Warranty
+165990,SAMSUNG,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,40.64 cm (16 Inch) Display,1 TB SSD,N\A,1 Year Onsite Warranty
+79800,HP,Intel Core i5 Processor (10th Gen),64 bit Windows 10 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+138990,HP,Intel Core i7 Processor (13th Gen),64 bit Windows 11 Operating System,16 GB LPDDR4X RAM,34.29 cm (13.5 Inch) Touchscreen Display,1 TB SSD,Spectre,1 Year Onsite Warranty
+37990,HP,AMD Ryzen 3 Quad Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+89990,ASUS,Intel Core i5 Processor (13th Gen),Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,Creator,1 Year Onsite Warranty
+55990,HP,AMD Ryzen 5 Hexa Core Processor (5th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB HDD|512 GB SSD,N\A,1-year warranty
+57990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,16 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+58990,HP,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,40.89 cm (16.1 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+59990,MSI,AMD Ryzen 7 Octa Core Processor,Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in warranty
+109990,MSI,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,35.56 cm (14 Inch) Display,1 TB SSD,N\A,2 Year Carry-in Warranty
+104990,Lenovo,Intel Core i7 Processor (7th Gen),64 bit Windows 10 Operating System,16 GB DDR4 RAM,39.62 cm (15.6 inch) Display,"128 GB SSD for Reduced Boot Up Time and in Game Loading, 1 TB HDD|128 GB SSD",Gaming,1 Year Onsite Warranty
+47499,HP,AMD Ryzen 5 Quad Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+63990,HP,Intel Core i5 Processor (12th Gen),64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+129990,Acer,Intel Core i7 Processor (12th Gen),64 bit Windows 11 Operating System,16 GB LPDDR5 RAM,35.56 cm (14 inch) Touchscreen Display,1 TB SSD,N\A,1 Year International Travelers Warranty (ITW)
+71990,ASUS,Intel Core i5 Processor (10th Gen),64 bit Windows 10 Operating System,8 GB DDR4 RAM,43.94 cm (17.3 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection
+57990,HP,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+64990,Acer,Intel Core i5 Processor (8th Gen),64 bit Windows 10 Operating System,8 GB DDR3 RAM,35.56 cm (14 inch) Display,512 GB SSD,Swift,1 Year International Travelers Warranty (ITW)
+93860,HP,Intel Core i7 Processor (11th Gen),64 bit Windows 11 Operating System,16 GB DDR4 RAM,33.78 cm (13.3 inch) Touchscreen Display,512 GB SSD,Envy,1 Year Onsite Warranty
+131990,DELL,Intel Core i7 Processor,Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+80490,HP,Intel Core i5 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,35.56 cm (14 Inch) Display,512 GB SSD,Pavilion,1 Year Onsite Warranty
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows 11 Operating System,8 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB DDR5 RAM,39.62 cm (15.6 Inch) Display,512 GB SSD,N\A,1 Year Carry-in Warranty
+109990,DELL,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,35.56 cm (14 inch) Touchscreen Display,512 GB SSD,N\A,1-year Warranty
+139990,DELL,Intel Core i5 Processor (12th Gen),Windows 11 Operating System,16 GB DDR4 RAM,33.02 cm (13 Inch) Touchscreen Display,512 GB SSD,XPS,N/A
+37990,HP,AMD Ryzen 3 Quad Core Processor,64 bit Windows 11 Operating System,8 GB DDR4 RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Onsite Warranty
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64 bit Windows 11 Operating System,16 GB DDR RAM,39.62 cm (15.6 inch) Display,512 GB SSD,N\A,1 Year Warranty Term
+133990,Lenovo,Intel Core i7 Processor (12th Gen),Windows 11 Operating System,16 GB DDR4 RAM,35.56 cm (14 Inch) Display,512 GB SSD,N\A,N/A
+169990,MSI,Intel Core i7 Processor (13th Gen),Windows 11 Operating System,16 GB LPDDR5 RAM,40.64 cm (16 Inch) Display,1 TB SSD,N\A,2 Year Carry-in Warranty

@@ -1,0 +1,985 @@
+Price,Company,Processor,Operating System,RAM,Type,Warranty,Inches,TouchScreen,HDD,SSD
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+34490,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+54990,Acer,Intel Core i5 Processor (12th Gen),Windows11,8,Swift,1 Year Onsite Warranty,14,NO,,512
+79990,APPLE,Apple M1 Processor,Mac,8,MacBook Air,,,NO,,256
+36490,DELL,Intel Core i3 Processor (11th Gen),64bitWindows11,8,Inspiron,,,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+38990,HP,Intel Core i3 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+30990,HP,AMD Athlon Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+20999,HP,AMD Athlon Dual Core Processor,DOS,4,N\A,1 Year Onsite Warranty,15.6,NO,,256
+52790,DELL,Intel Core i5 Processor (11th Gen),64bitWindows11,16,Inspiron,1 Year Onsite Warranty,15.6,NO,,512
+54990,HP,Intel Core i5 Processor (11th Gen),64bitWindows11,16,N\A,1 Year Onsite Warranty,15.6,NO,,512
+35990,Lenovo,Intel Core i3 Processor (12th Gen),Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,16,N\A,1 Year Carry-in Warranty,14,NO,,512
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows11,16,IdeaPad,1 Year Carry-in Warranty,14,NO,,512
+36990,HP,AMD Ryzen 3 Quad Core Processor,64bitWindows11,8,N\A,1 Year onsite warranty,14,NO,,512
+40850,HP,Intel Core i3 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection,14,NO,,512
+86990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,IdeaPad,1 Year Carry-in Warranty,16,NO,,512
+36499,Lenovo,Intel Core i3 Processor (11th Gen),64bitWindows11,8,IdeaPad,2 Year warranty,15.6,NO,,512
+62890,ASUS,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,VivoBook,1 Year Onsite Warranty,16,NO,,512
+34490,DELL,Intel Core i3 Processor (11th Gen),DOS,8,N\A,1 Year Onsite Warranty,14,NO,,512
+46990,Lenovo,Intel Core i5 Processor (11th Gen),64bitWindows11,8,IdeaPad,1Year Onsite warranty,,NO,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+32990,Acer,Intel Core i3 Processor (12th Gen),64bitWindows11,8,N\A,1 Year International Travelers Warranty,15.6,NO,,512
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+43990,ASUS,Intel Core i5 Processor (11th Gen),64bitWindows11,8,VivoBook,1 Year Onsite Warranty,15.6,NO,,512
+29990,ASUS,Intel Core i3 Processor (11th Gen),64bitWindows11,8,VivoBook,1 Year Onsite Warranty,15.6,NO,,256
+57990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,16,N\A,1 Year Onsite Warranty,,NO,,512
+50990,realme,Intel Core i5 Processor (11th Gen),Windows11,16,Realme Book,1 Year Domestic Warranty,,NO,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,16,N\A,1 Year Carry-in Warranty,14,NO,,512
+35990,HP,Intel Core i3 Processor (11th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,256
+36990,DELL,Intel Core i3 Processor (11th Gen),64bitWindows11,8,Inspiron,,15.6,NO,,512
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection,14,NO,,512
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows11,16,IdeaPad,1 Year Carry-in Warranty,14,NO,,512
+79990,APPLE,Apple M1 Processor,Mac,8,MacBook Air,,,NO,,256
+30749,Lenovo,AMD Ryzen 3 Hexa Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+79990,APPLE,Apple M1 Processor,Mac,8,MacBook Air,,,NO,,256
+23990,Acer,Intel Core i3 Processor (11th Gen),64bitWindows11,8,N\A,1 Year Warranty,14,NO,,256
+86990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,IdeaPad,1 Year Carry-in Warranty,16,NO,,512
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Warranty Term,,NO,,512
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Warranty Term,,NO,,512
+46990,ASUS,Intel Core i5 Processor (11th Gen),Windows11,16,VivoBook,1 Year Onsite Warranty,15.6,NO,,512
+56990,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,8,IdeaPad,1 Year Carry-in Warranty,,NO,,512
+69990,Lenovo,Intel Core i5 Processor (12th Gen),Windows11,16,IdeaPad,1 Year Carry-in Warranty,,NO,,512
+26990,Infinix,Intel Core i3 Processor (11th Gen),64bitWindows11,8,N\A,1 year Onsite Warranty,,NO,,512
+25990,Acer,AMD Ryzen 3 Dual Core Processor,64bitWindows11,8,N\A,1 Year International Travelers Warranty (ITW),,NO,,256
+43990,HP,Intel Core i3 Processor (12th Gen),Windows11,16,N\A,1 Year Onsite Warranty,15.6,NO,,512
+63990,SAMSUNG,Intel Core i5 Processor (12th Gen),64bitWindows11,16,N\A,1 Year Onsite Warranty,15.6,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+42490,HP,AMD Ryzen 5 Hexa Core Processor,64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+40990,Lenovo,AMD Ryzen 5 Hexa Core Processor,64bitWindows11,8,IdeaPad,2 Year warranty,15.6,NO,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+26990,Infinix,Intel Core i3 Processor (10th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,256
+37890,HP,Intel Core i3 Processor (11th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,16,N\A,1 Year Carry-in Warranty,14,NO,,512
+37990,Infinix,Intel Core i5 Processor (12th Gen),Windows11,16,N\A,1 Year Onsite Warranty,14,NO,,512
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,8,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection,15.6,NO,,512
+57990,HP,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Onsite Warranty,14,NO,,512
+38490,HP,Intel Core i3 Processor,64bitWindows11,8,N\A,1 Year Onsite Warranty,14,NO,,512
+34990,Acer,AMD Ryzen 5 Quad Core Processor,64bitWindows11,8,N\A,1 Year International Travelers Warranty,15.6,NO,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+47990,Acer,Intel Core i5 Processor (12th Gen),64bitWindows11,16,Aspire,1 Year International Travelers Warranty,15.6,NO,,512
+38990,MSI,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Carry-in warranty,14,NO,,512
+29990,SAMSUNG,Qualcomm Snapdragon 7c Gen 2 Processor,Windows11,4,Galaxy Book,1 Year Onsite Warranty,14,NO,,
+72990,HP,Intel Core i5 Processor (12th Gen),Windows11,16,Pavilion,1 Year Onsite Warranty,14,YES,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+34990,Infinix,Intel Core i5 Processor (11th Gen),64bitWindows11,16,N\A,1 year Onsite Warranty,,NO,,512
+31990,Acer,Intel Core i3 Processor (11th Gen),Windows11,8,N\A,,,NO,,512
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+26990,ASUS,Intel Celeron Dual Core Processor,Windows11,8,VivoBook,1 Year Onsite Warranty,15.6,NO,,256
+65990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows11,16,Creator,1 Year Onsite Warranty,15.6,NO,,512
+50990,HP,Intel Core i3 Processor (12th Gen),Windows11,8,Pavilion,1 Year Onsite Warranty,15.6,NO,,512
+43990,ASUS,AMD Ryzen 5 Quad Core Processor,Windows11,8,VivoBook,1 Year Onsite Warranty,15.6,NO,,512
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,8,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection,15.6,NO,,512
+57990,HP,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Onsite Warranty,14,NO,,512
+54990,DELL,Processor: Intel i5-1235U (Base- 3.30 GHz & Turbo up to 4.40 GHz) 10 Cores,64bitWindows11,8,N\A,,15.6,NO,,512
+26990,Infinix,Intel Core i3 Processor (10th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Warranty Term,,NO,,512
+72990,MSI,Intel Core i5 Processor (12th Gen),Windows11,8,N\A,2 Year On-Site & Carry-In Warranty,15.6,NO,,512
+66500,Lenovo,Intel Core i5 Processor (12th Gen),64bitWindows11,16,IdeaPad,1 Year Onsite warranty + 1 Year Accidental Damage Protection + 1 Year Premium Care,,NO,,512
+54990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+36490,DELL,Intel Core i3 Processor (11th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+29990,HP,AMD Ryzen 3 Dual Core Processor,64bitWindows11,8,N\A,,,NO,,512
+55350,Lenovo,Intel Core i5 Processor (12th Gen),64bitWindows11,16,IdeaPad,2 Year warranty,15.6,NO,,512
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+38990,ASUS,AMD Ryzen 3 Quad Core Processor,Windows11,8,VivoBook,1 Year Onsite Warranty,15.6,NO,,512
+40990,HP,Intel Core i3 Processor (12th Gen),Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+64200,HP,Intel Core i5 Processor (13th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+65249,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,16,Pavilion,1 Year Onsite Warranty,,NO,,512
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,8,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection,15.6,NO,,512
+57990,HP,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Onsite Warranty,14,NO,,512
+36990,Acer,Intel Core i3 Processor (12th Gen),64bitWindows11,8,Aspire,1 Year International Travelers Warranty (ITW),,NO,,512
+63990,MSI,Intel Core i7 Processor (11th Gen),Windows11,16,N\A,2 Year Carry-in Warranty,15.6,NO,1024,256
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Warranty Term,,NO,,512
+30480,ASUS,Intel Celeron Dual Core Processor,64bitWindows11,8,VivoBook,1 Year Onsite Warranty,,NO,,512
+56990,SAMSUNG,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,256
+36390,DELL,Intel Core i3 Processor (11th Gen),64bitWindows11,8,Inspiron,1 Year Onsite Warranty,15.6,NO,,512
+39990,HP,Intel Core i3 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,14,NO,,512
+37990,HP,AMD Ryzen 3 Quad Core Processor,64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+79990,HP,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+59990,ASUS,Intel Core i5 Processor (12th Gen),Windows11,16,VivoBook,1 Year Onsite Warranty,,NO,,512
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Warranty Term,,NO,,512
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows11,16,IdeaPad,1 Year Carry-in Warranty,14,NO,,512
+74990,ASUS,Intel Core i5 Processor (12th Gen),64bitWindows11,16,VivoBook,1 Year Onsite Warranty,14,NO,,512
+44990,Acer,Intel Core i5 Processor (12th Gen),64bitWindows11,8,Aspire,1 Year International Travelers Warranty (ITW),,NO,,512
+53800,HP,Intel Core i3 Processor (11th Gen),64bitWindows11,8,Pavilion,1 Year Onsite Warranty,,YES,,512
+50990,Acer,Intel Core i5 Processor (12th Gen),Windows11,16,Aspire,1 Year Onsite Warranty,15.6,NO,,512
+93590,Lenovo,AMD Ryzen 7 Octa Core Processor,Windows11,16,IdeaPad,1 Year Onsite Premium Support with 1 Year Onsite Warranty,14,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+35990,MSI,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+76990,HP,AMD Ryzen 7 Octa Core Processor,Windows11,16,N\A,1 Year Onsite Warranty,15.6,NO,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+23990,Infinix,Intel Celeron Quad Core Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+35990,ASUS,AMD Ryzen 3 Quad Core Processor,Windows11,8,VivoBook,1 Year Onsite Warranty,14,NO,,512
+57990,Acer,Intel Core i5 Processor (12th Gen),64bitWindows11,8,Aspire,1 Year International Travelers Warranty,15.6,NO,,512
+46599,HP,AMD Ryzen 5 Hexa Core Processor,64bitWindows11,16,N\A,1 Year Onsite Warranty,15.6,NO,,512
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,8,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection,15.6,NO,,512
+107990,APPLE,Apple M2 Processor,Mac,8,MacBook Air,1 Year Limited Warranty,13.6,NO,,256
+65990,HP,AMD Ryzen 5 Hexa Core Processor,Windows11,16,N\A,1 Year Onsite Warranty,15.6,NO,,512
+57990,HP,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Onsite Warranty,14,NO,,512
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+32990,HP,Intel Core i3 Processor (11th Gen),64bitWindows10,8,N\A,1 Year Onsite Warranty,,NO,1024,
+62990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows11,8,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year ADP,15.6,NO,,512
+40990,ASUS,Intel Core i3 Processor (12th Gen),Windows11,8,VivoBook,1 Year Onsite Warranty,15.6,NO,,512
+229990,APPLE,Apple M2 Pro Processor,Mac,16,MacBook Pro,1 Year Limited Warranty,14,NO,,1024
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+285490,APPLE,Apple M2 Max Processor,Mac,32,MacBook Pro,1 Year Limited Warranty,14,NO,,1024
+99990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows11,16,ZenBook,1 Year Onsite Warranty,13.3,YES,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+51990,Lenovo,Intel Core i5 Processor (12th Gen),Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+107990,APPLE,Apple M2 Processor,Mac,8,MacBook Air,,13.6,NO,,256
+56390,HP,Intel Core i3 Processor (12th Gen),Windows11,8,Pavilion,1 Year Onsite Warranty,14,NO,,512
+88990,ASUS,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,Gaming,1 Year Onsite Warranty,15.6,NO,,1024
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+67990,MSI,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+89990,Acer,Intel Core i7 Processor (12th Gen),Windows11,16,N\A,1 Year International Travelers Warranty (ITW),15.6,NO,,512
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,16,N\A,1 Year Carry-in Warranty,14,NO,,512
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection,14,NO,,512
+107990,APPLE,Apple M2 Processor,Mac,8,MacBook Air,1 Year Limited Warranty,13.6,NO,,256
+51098,HP,AMD Ryzen 5 Hexa Core Processor,64bitWindows11,8,Pavilion,1 Year Onsite Warranty,14,NO,,512
+38490,DELL,Intel Core i3 Processor (10th Gen),64bitWindows10,8,N\A,1 Year Onsite Warranty,15.6,NO,1024,256
+71990,HP,Intel Core i5 Processor (12th Gen),Windows11,16,N\A,1 Year Warranty,,NO,,512
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows11,16,IdeaPad,1 Year Carry-in Warranty,14,NO,,512
+86990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,IdeaPad,1 Year Carry-in Warranty,16,NO,,512
+106990,MSI,Intel Core i7 Processor (12th Gen),Windows11,16,N\A,2 Year Carry-in Warranty,15.6,NO,,1024
+50990,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,16,IdeaPad,1 Year Onsite Warranty + 1 Year ADP,,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+42990,ASUS,Intel Core i3 Processor (11th Gen),Windows11,16,VivoBook,1 Year Onsite Warranty,15.6,NO,,512
+37990,Infinix,Intel Core i3 Processor (11th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,256
+60790,Lenovo,Intel Core i7 Processor (11th Gen),64bitWindows11,16,IdeaPad,1-year warranty,,NO,,512
+106990,APPLE,Apple M2 Processor,Mac,8,MacBook Air,,13.6,NO,,256
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+12990,Primebook,MediaTek MT8788 Processor,Prime,4,Primebook,1 Year Pick and Drop Warranty,11.6,NO,,
+37990,Infinix,Intel Core i5 Processor (12th Gen),Windows11,16,N\A,1 Year Onsite Warranty,14,NO,,512
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,8,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection,15.6,NO,,512
+57990,HP,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Onsite Warranty,14,NO,,512
+38990,HP,Intel Core i3 Processor (10th Gen),Windows10,8,N\A,1 Year Warranty,,NO,,512
+16990,ASUS,Intel Celeron Dual Core Processor,Chrome,4,N\A,1 Year Onsite Warranty,,YES,,
+99990,Acer,Intel Core i5 Processor (13th Gen),Windows11,16,Gaming,1 Year International Travelers Warranty (ITW),16,NO,,512
+35990,Lenovo,AMD Ryzen 5 Quad Core Processor,Windows11,8,N\A,,,NO,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Warranty Term,,NO,,512
+126990,APPLE,Apple M2 Processor,Mac,8,MacBook Air,1 Year Limited Warranty,15.3,NO,,256
+64990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows11,16,IdeaPad,1 Year Carry-in Warranty,14,YES,,512
+37990,HP,AMD Ryzen 3 Quad Core Processor,64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+62990,HP,Intel Core i5 Processor (13th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+84990,ASUS,Intel Core i7 Processor (12th Gen),Windows11,16,VivoBook,1 Year Onsite Warranty,,NO,,512
+55990,MSI,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,2 Year Carry-in Warranty,15.6,NO,1024,256
+19990,Infinix,Intel Celeron Quad Core Processor (11th Gen),Windows11,4,N\A,1 Year Onsite Warranty,15.6,NO,,128
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+35990,Infinix,Intel Core i3 Processor (10th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,256
+38990,Lenovo,Intel Core i3 Processor (12th Gen),Windows11,8,IdeaPad,2 Year warranty,,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+44990,ASUS,AMD Ryzen 5 Quad Core Processor,Windows11,8,VivoBook,1 Year Onsite Warranty,14,NO,,512
+56990,ASUS,Intel Core i5 Processor (12th Gen),Windows11,8,VivoBook,1 Year Onsite Warranty,14,NO,,512
+84990,Lenovo,AMD Ryzen 7 Octa Core Processor,Windows11,16,Gaming,1 Year Carry-in Warranty,15.6,NO,,512
+47490,HP,Intel Core i3 Processor (13th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+22990,CHUWI,Intel Core i3 Processor (10th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+40990,realme,Intel Core i5 Processor (11th Gen),Windows11,8,Realme Book,1 Year Carry-in Warranty,14,NO,,512
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,16,N\A,1 Year Carry-in Warranty,14,NO,,512
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection,14,NO,,512
+46990,DELL,Intel Core i3 Processor (13th Gen),64bitWindows11,8,Inspiron,,15.6,NO,,1024
+9990,ASUS,Intel Celeron Dual Core Processor,64bitChrome,4,N\A,1 Year onsite warranty,11.6,NO,,
+61990,ASUS,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,15.6,NO,,512
+58990,ASUS,AMD Ryzen 5 Hexa Core Processor,64bitWindows11,16,VivoBook,1 Year Onsite Warranty,15.6,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+57990,ASUS,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+61990,ASUS,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,15.6,NO,,512
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+29990,ASUS,Intel Core i3 Processor (11th Gen),Windows11,8,VivoBook,1 Year Onsite Warranty,15.6,NO,,256
+65990,SAMSUNG,Intel Core i5 Processor (12th Gen),Windows11,8,Galaxy Book,1 Year Onsite Warranty,15.6,NO,,512
+10990,ASUS,Intel Celeron Dual Core Processor,64bitChrome,4,N\A,1 Year onsite warranty,11.6,NO,,
+137990,APPLE,Apple M2 Processor,Mac,8,MacBook Air,1 Year Limited Warranty,13.6,NO,,512
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,8,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection,15.6,NO,,512
+57990,HP,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Onsite Warranty,14,NO,,512
+66490,Lenovo,AMD Ryzen 5 Hexa Core Processor,64bitWindows10,8,IdeaPad,1 Year Warranty Term,,NO,,512
+37990,DELL,Processor: Intel i3-1215U (Base- 0.9 GHz & Turbo up to 4.40 GHz) 6 Cores,64bitWindows11,8,N\A,,15.6,NO,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Warranty Term,,NO,,512
+34490,HP,Intel Core i3 Processor (11th Gen),DOS,8,N\A,,,NO,,512
+27990,MSI,Intel Core i3 Processor (11th Gen),Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+41990,MSI,Intel Core i5 Processor (12th Gen),Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+54990,ASUS,Intel Core i5 Processor (12th Gen),Windows11,8,VivoBook,1 Year Onsite Warranty,15.6,NO,,512
+37990,HP,AMD Ryzen 3 Quad Core Processor,64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+40990,Acer,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,,,NO,,512
+34790,DELL,AMD Ryzen 3 Dual Core Processor,64bitWindows11,8,Inspiron,1 Year Onsite Warranty,,NO,,256
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+33990,Lenovo,AMD Ryzen 3 Hexa Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+56990,HP,AMD Ryzen 5 Hexa Core Processor,64bitWindows11,16,Pavilion,1 Year Onsite Warranty,,NO,,512
+44990,Acer,Intel Core i5 Processor (11th Gen),Windows11,8,Aspire,1 Year Onsite Warranty,,NO,,512
+61990,MSI,Intel Core i7 Processor (11th Gen),64bitWindows10,8,N\A,2 Year Carry-In Warranty Term,15.6,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+37990,Infinix,Intel Core i5 Processor (12th Gen),Windows11,16,N\A,1 Year Onsite Warranty,14,NO,,512
+37990,Infinix,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,,NO,,1024
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+54490,Lenovo,Intel Core i5 Processor (11th Gen),64bitWindows11,8,IdeaPad,1Year Onsite warranty,,NO,,512
+115990,MSI,Intel Core i7 Processor (12th Gen),64bitWindows11,16,N\A,,,NO,,512
+35990,DELL,AMD Ryzen 3 Dual Core Processor,64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+74990,ASUS,Intel Core i5 Processor (12th Gen),64bitWindows11,16,VivoBook,1 Year Onsite Warranty,14,NO,,512
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,16,N\A,1 Year Carry-in Warranty,14,NO,,512
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection,14,NO,,512
+79990,ASUS,Intel Core i5 Processor (12th Gen),Windows11,16,Creator,1 Year Onsite Warranty,16,NO,,512
+33940,HP,Intel Core i3 Processor (11th Gen),64bitWindows11,8,N\A,1Year Onsite Warranty,,NO,,512
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows11,16,IdeaPad,1 Year Carry-in Warranty,14,NO,,512
+86990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,IdeaPad,1 Year Carry-in Warranty,16,NO,,512
+48990,ASUS,Intel Core i3 Processor (12th Gen),64bitWindows11,8,VivoBook,1 Year Onsite Warranty,15.6,NO,,512
+94990,ASUS,Intel Core i5 Processor (12th Gen),64bitWindows11,16,N\A,1 Year Onsite Warranty,17.3,NO,,512
+49990,ASUS,Intel Core i3 Processor (12th Gen),64bitWindows11,8,VivoBook,1 Year Onsite Warranty,14,YES,,512
+47990,Infinix,Intel Core i7 Processor (12th Gen),Windows11,16,N\A,1 Year Onsite Warranty,14,NO,,512
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+48990,MSI,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,2 Year Carry-in Warranty,15.6,NO,,512
+56990,ASUS,AMD Ryzen 7 Octa Core Processor,Windows11,16,VivoBook,1 Year Onsite Warranty,15.6,NO,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+35990,ASUS,Intel Core i3 Processor (11th Gen),Windows11,8,VivoBook,1 Year Onsite Warranty,15.6,NO,,512
+39990,ASUS,AMD Ryzen 3 Quad Core Processor,Windows11,8,VivoBook,1 Year Onsite Warranty,15.6,NO,,512
+34790,HP,Intel Core i3 Processor (11th Gen),DOS,8,N\A,1 Year Domestic Warranty,,NO,1024,256
+69990,Acer,Intel Core i5 Processor (12th Gen),64bitWindows11,16,N\A,1 Year International Travelers Warranty (ITW),,NO,,512
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,8,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection,15.6,NO,,512
+57990,HP,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Onsite Warranty,14,NO,,512
+27990,Lenovo,Intel Celeron Dual Core Processor,64bitWindows11,8,IdeaPad,2 Years On-Site Warranty,15.6,NO,,256
+16990,HP,Intel Celeron Quad Core Processor,64bitChrome,4,N\A,1 Year Onsite warranty,14,YES,,
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+87990,ASUS,Intel Core i5 Processor (12th Gen),Windows11,16,ZenBook,1 Year Onsite Warranty,,YES,,512
+115490,ASUS,Intel Core i7 Processor (12th Gen),Windows11,16,Gaming,1 Year Onsite Warranty,16,NO,,512
+68747,HP,AMD Ryzen 5 Hexa Core Processor,Windows11,16,Pavilion,1 Year Onsite Warranty,13.3,NO,,512
+99990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+37990,HP,AMD Ryzen 3 Quad Core Processor,64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Warranty Term,,NO,,512
+99990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+27990,Acer,AMD Ryzen 3 Quad Core Processor,Windows11,8,Aspire,1 Year Onsite Warranty,15.6,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+33990,Acer,Intel Core i3 Processor,Windows11,8,Aspire,1 Year Onsite Warranty,15.6,NO,,512
+68990,ASUS,Intel Core i5 Processor (12th Gen),64bitWindows11,16,VivoBook,1 Year Onsite Warranty,15.6,NO,,512
+85999,ASUS,Intel Core i5 Processor (12th Gen),Windows11,16,ZenBook,1 Year Onsite Warranty,,NO,,512
+70690,Lenovo,AMD Ryzen 7 Octa Core Processor,64bitWindows11,8,IdeaPad,1 Year Onsite�Warranty�+ 1 Year Premium Care + 1 Year Accidental Damage Protection,,NO,,512
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+72900,HP,Intel Core i5 Processor (11th Gen),64bitWindows11,16,Pavilion,1 Year Onsite Warranty,,YES,,512
+131990,ASUS,AMD Ryzen 7 Octa Core Processor,Windows11,16,Gaming,1 Year Onsite Warranty,14,NO,,1024
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Warranty Term,,NO,,512
+35490,DELL,Processor-i3-1115G4 Processor upto 4.1 GHz Speed,64bitWindows11,8,Inspiron,1 Year Onsite Warranty,15.6,NO,,256
+72990,Acer,Intel Core i5 Processor (13th Gen),Windows11,16,Swift,1 Year Onsite Warranty,14,NO,,512
+114020,Lenovo,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,Gaming,3 Years Onsite�Warranty�+ 3 Years Legion Ultimate Support + 1 Year Accidental Damage Protection,,NO,,1024
+57990,Lenovo,Intel Core i5 Processor (11th Gen),64bitWindows11,16,IdeaPad,1 Year Onsite�Warranty�+ 1 Year Premium Care + 1 Year Accidental Damage Protection,15.6,NO,,512
+37990,HP,AMD Ryzen 3 Quad Core Processor,64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection,14,NO,,512
+52990,Infinix,Intel Core i7 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,,NO,,1024
+63990,ASUS,AMD Ryzen 5 Hexa Core Processor,64bitWindows11,8,N\A,1 Year Onsite Warranty,17.3,NO,,512
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+51098,HP,AMD Ryzen 5 Hexa Core Processor,64bitWindows11,8,Pavilion,1 Year Onsite Warranty,14,NO,,512
+89990,ASUS,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,ZenBook,1 Year Onsite Warranty,14,YES,,1024
+73990,Lenovo,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,IdeaPad,1 Year Onsite�Warranty�+ 1 Year Premium Care + 1 Year Accidental Damage Protection,15.6,NO,,512
+55490,HP,AMD Ryzen 5 Hexa Core Processor,64bitWindows11,8,Pavilion,1 Year Onsite Warranty,15.6,NO,,512
+49890,DELL,Intel Core i5 Processor (11th Gen),64bitWindows11,16,Inspiron,1 Year Onsite Warranty,15.6,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+26990,Infinix,Intel Core i3 Processor (10th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,256
+193090,Lenovo,AMD Ryzen 7 Octa Core Processor,Windows11,16,Gaming,1 Year Carry-in Warranty,16,NO,,512
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+45990,ASUS,Intel Core i3 Processor (13th Gen),Windows11,8,VivoBook,1 Year Onsite Warranty,14,NO,,512
+126990,APPLE,Apple M2 Processor,Mac,8,MacBook Air,1 Year Limited Warranty,15.3,NO,,256
+16990,AXL,Intel Celeron Dual Core Processor,Windows11Home,4,AXL,,,NO,,256
+33400,HP,AMD Ryzen 5 Dual Core Processor,32bitWindows11,8,N\A,1 year Domestic warranty,,NO,,256
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,8,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection,15.6,NO,,512
+57990,HP,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Onsite Warranty,14,NO,,512
+51990,MSI,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,2 Year Carry-in Warranty,15.6,NO,,512
+69490,DELL,Intel Core i5 Processor (12th Gen),Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,1024,256
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Warranty Term,,NO,,512
+54800,HP,AMD Ryzen 5 Hexa Core Processor,64bitWindows10,8,Pavilion,1 Year Onsite Warranty,,NO,,512
+91443,HP,Intel Core i7 Processor (12th Gen),64bitWindows11,16,Pavilion,1 Year Onsite Warranty,,NO,,1024
+49990,Acer,Intel Core i3 Processor (13th Gen),Windows11,16,Aspire,1 Year Onsite Warranty,14,NO,,512
+32990,Lenovo,AMD Ryzen 3 Quad Core Processor,DOS,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+48990,HP,Intel Core i3 Processor (11th Gen),64bitWindows10,8,N\A,1 Year Domestic Brand Warranty on Device,,NO,,512
+29990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+39796,DELL,Intel Core i3 Processor (12th Gen),64bitWindows11,8,N\A,,15.6,NO,,512
+54990,MSI,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,2 Year Carry-in Warranty,15.6,NO,1024,256
+56690,HP,AMD Ryzen 5 Hexa Core Processor,64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+91443,HP,Intel Core i7 Processor (12th Gen),64bitWindows11,16,Pavilion,1 Year Onsite Warranty,,NO,,1024
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+26999,HP,AMD Athlon Dual Core Processor,Windows11,8,N\A,,,NO,,512
+145790,APPLE,Apple M2 Processor,Mac,8,MacBook Air,1 Year Limited Warranty,15.3,NO,,512
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,16,N\A,1 Year Carry-in Warranty,14,NO,,512
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection,14,NO,,512
+114990,ASUS,AMD Ryzen 7 Octa Core Processor,Windows11,16,Gaming,1 Year Onsite Warranty,,NO,,1024
+106990,MSI,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,2 Year Carry-in Warranty,15.6,NO,,1024
+29990,HP,AMD Ryzen 3 Quad Core Processor,Windows11,8,N\A,1 Year Onsite warranty by OEM,15.6,NO,,512
+85990,ASUS,Intel Core i5 Processor (12th Gen),Windows11Home,16,N\A,1 Year Onsite Warranty,15.6,NO,,512
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows11,16,IdeaPad,1 Year Carry-in Warranty,14,NO,,512
+86990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,IdeaPad,1 Year Carry-in Warranty,16,NO,,512
+51990,Lenovo,AMD Ryzen 7 Octa Core Processor,DOS,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+49990,ASUS,Intel Core i3 Processor (12th Gen),64bitWindows11,8,VivoBook,1 Year Onsite Warranty,14,YES,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+51990,ASUS,Intel Core i3 Processor (12th Gen),Windows11,8,N\A,1 Year International Warranty,,NO,,512
+38499,DELL,Intel Core i3 Processor (11th Gen),64bitWindows11,8,N\A,,,NO,,512
+86990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,IdeaPad,1 Year Carry-in Warranty,16,NO,,512
+126990,APPLE,Apple M2 Processor,Mac,8,MacBook Air,1 Year Limited Warranty,15.3,NO,,256
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+88490,HP,Intel Core i7 Processor (13th Gen),64bitWindows11,16,Pavilion,1 Year Onsite Warranty,15.6,NO,,1024
+50990,ASUS,AMD Ryzen 5 Quad Core Processor,Windows11,16,VivoBook,1 Year Onsite Warranty,15.6,NO,,512
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,8,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection,15.6,NO,,512
+57990,HP,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Onsite Warranty,14,NO,,512
+26990,Infinix,Intel Core i3 Processor (11th Gen),64bitWindows11,8,N\A,1 year Onsite Warranty,,NO,,512
+61990,MSI,Intel Core i7 Processor (11th Gen),Windows11,16,N\A,2 Year Carry-in Warranty,15.6,NO,,512
+151990,ASUS,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,Gaming,1 Year Onsite Warranty,16,YES,,1024
+69990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows11,16,Creator,1 Year Onsite Warranty,15.6,NO,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Warranty Term,,NO,,512
+48999,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows11,16,IdeaPad,2 Year warranty,15.6,NO,,512
+429990,ASUS,AMD Ryzen 9 16 Core Processor,Windows11,32,Gaming,1 Year Onsite Warranty,16,NO,,2048
+37990,HP,AMD Ryzen 3 Quad Core Processor,64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+49990,MSI,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,2 Year Carry-in Warranty,15.6,NO,,512
+44990,ASUS,Intel Core i3 Processor (12th Gen),Windows11,16,VivoBook,1 Year Onsite Warranty,15.6,NO,,512
+114490,HP,Intel Core i7 Processor (12th Gen),Windows11,16,Envy,1 Year Onsite Warranty,13.3,YES,,1024
+63990,ASUS,Intel Core i5 Processor (11th Gen),64bitWindows11,8,VivoBook,1 Year onsite warranty,14,YES,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+57990,HP,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Onsite Warranty,14,NO,,512
+35990,Lenovo,AMD Ryzen 5 Hexa Core Processor,DOS,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+65990,ASUS,Intel Core i5 Processor (13th Gen),Windows11,16,VivoBook,1 Year Onsite Warranty,15.6,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+153982,ASUS,Intel Core i7 Processor (13th Gen),Windows11,16,Gaming,1 Year Onsite Warranty,16,NO,,1024
+29990,HP,AMD Ryzen 3 Dual Core Processor,DOS,8,N\A,1 year Domestic warranty,,NO,,512
+38990,Infinix,Intel Core i3 Processor (10th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+24990,Lenovo,AMD Athlon Dual Core Processor,Windows11,8,IdeaPad,1 Year Carry-in Warranty,,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+64990,HP,Intel Core i5 Processor (12th Gen),Windows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+20990,Lenovo,Intel Celeron Dual Core Processor,64bitChrome,4,N\A,1 Year Onsite Warranty,,YES,,
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,8,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection,15.6,NO,,512
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+44990,ASUS,Intel Core i3 Processor (11th Gen),64bitWindows10,8,VivoBook,1 Year Onsite Warranty,,NO,,512
+104990,ASUS,AMD Ryzen 9 Octa Core Processor,Windows10,16,Gaming,1 Year Onsite Warranty,,NO,,512
+38990,ASUS,Intel Core i3 Processor,Windows11,8,VivoBook,1 Year Onsite Warranty,15.6,NO,,512
+39990,Lenovo,Intel Core i3 Processor (12th Gen),Windows11,8,IdeaPad,2 Year warranty,15.6,NO,,512
+37990,HP,AMD Ryzen 3 Quad Core Processor,64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Warranty Term,,NO,,512
+79200,Lenovo,Intel Core i7 Processor (12th Gen),Windows11,16,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year ADP,15.6,NO,,512
+35990,HP,Intel Core i3 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+137990,APPLE,Apple M2 Processor,Mac,8,MacBook Pro,1 Year Limited Warranty,13.3,NO,,512
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,8,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection,15.6,NO,,512
+23490,Acer,Intel Celeron Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,11.6,NO,,256
+119990,APPLE,Apple M2 Processor,Mac,8,MacBook Pro,1 Year Limited Warranty,13.3,NO,,256
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+82990,ASUS,Intel Core i5 Processor (13th Gen),Windows11,16,VivoBook,1 Year Onsite Warranty,15.6,NO,,512
+53490,HP,AMD Ryzen 5 Quad Core Processor,64bitWindows11,16,N\A,1 Year Onsite Warranty,15.6,NO,,512
+57990,HP,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Onsite Warranty,14,NO,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+41990,ASUS,AMD Ryzen 5 Quad Core Processor,32bitWindows11,8,VivoBook,1 Year Onsite Warranty,,NO,,512
+73990,Lenovo,AMD Ryzen 7 Octa Core Processor,Windows11,16,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year ADP,,NO,,512
+199990,ASUS,AMD Ryzen 9 Octa Core Processor,Windows11,32,Gaming,1 Year Onsite Warranty,14,NO,,1024
+97990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,16,N\A,1 Year Onsite Warranty,15.6,YES,,512
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Warranty Term,,NO,,512
+37990,HP,AMD Ryzen 3 Quad Core Processor,64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+37990,ASUS,Intel Core i3 Processor (11th Gen),Windows11,8,VivoBook,1 Year Onsite Warranty,14,NO,,512
+40990,ASUS,Intel Core i3 Processor (12th Gen),Windows11,8,VivoBook,1 Year Onsite Warranty,15.6,NO,,512
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+51098,HP,AMD Ryzen 5 Hexa Core Processor,64bitWindows11,8,Pavilion,1 Year Onsite Warranty,14,NO,,512
+74990,Acer,AMD Ryzen 7 Octa Core Processor,64bitWindows11,8,N\A,1 Year International Travelers Warranty,15.6,NO,,512
+79990,ASUS,Intel Core i5 Processor (13th Gen),Windows11,16,VivoBook,1 Year Onsite Warranty,14,YES,,512
+53990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows11,8,Creator,1 Year Onsite Warranty,15.6,NO,,512
+50980,ASUS,Intel Core i5 Processor (12th Gen),64bitWindows11,8,VivoBook,1 Year international Warranty,,NO,,512
+69990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows11,16,Creator,1 Year Onsite Warranty,15.6,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+69990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows11,16,Creator,1 Year Onsite Warranty,15.6,NO,,512
+109990,ASUS,Intel Core i7 Processor (12th Gen),Windows11,16,N\A,1 Year Onsite Warranty,15.6,NO,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+54990,ASUS,Intel Core i5 Processor (12th Gen),Windows11,8,VivoBook,1 Year Onsite Warranty,15.6,NO,,512
+39900,Lenovo,Intel Core i3 Processor (11th Gen),64bitWindows11,8,IdeaPad,2 Years Onsite Warranty,14,NO,,512
+79990,GIGABYTE,Intel Core i5 Processor (11th Gen),64bitWindows11,16,N\A,2 year carry on warranty,15.6,NO,,512
+209990,MSI,Intel Core i7 Processor (13th Gen),Windows11,32,N\A,2 Year Carry-in Warranty,16,NO,,1024
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,8,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection,15.6,NO,,512
+39990,ASUS,AMD Ryzen 3 Quad Core Processor,Windows11,8,VivoBook,1 Year Onsite Warranty,15.6,NO,,512
+66990,DELL,Intel Core i5 Processor (13th Gen),Windows11,8,Inspiron,1-year manufacturing warranty,,NO,,512
+57990,HP,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Onsite Warranty,14,NO,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+126990,APPLE,Apple M2 Processor,Mac,8,MacBook Air,1 Year Limited Warranty,15.3,NO,,256
+33990,ASUS,Intel Core i3 Processor (10th Gen),64bitWindows11,8,VivoBook,1 Year Onsite Warranty,,NO,,512
+35200,ASUS,Intel Core i3 Processor (10th Gen),64bitWindows11,8,VivoBook,1 Year Onsite Warranty,,NO,,512
+129990,Acer,AMD Ryzen 7 Octa Core Processor (12th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16,NO,,512
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+84300,DELL,AMD Ryzen 5 Hexa Core Processor,64bitWindows10,16,N\A,,,NO,,512
+124290,Lenovo,AMD Ryzen 7 Octa Core Processor,Windows11,16,N\A,1 Year Onsite Warranty,,YES,,1024
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+95990,Acer,Intel Core i7 Processor (11th Gen),64bitWindows10,16,Gaming,1 Year International Travelers Warranty (ITW),,NO,1024,512
+108190,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows11,16,N\A,1 Year Carry-in Warranty,13.3,YES,,512
+87990,ASUS,Intel Core i5 Processor (12th Gen),64bitWindows11,16,N\A,,,NO,,512
+51487,DELL,Intel Core i3 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,8,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection,15.6,NO,,512
+57990,HP,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Onsite Warranty,14,NO,,512
+61500,HP,AMD Ryzen 5 Hexa Core Processor,64bitWindows10,8,Pavilion,1 Year Onsite Warranty,,NO,,512
+64590,HP,Intel Core i5 Processor (13th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+56490,Acer,Intel Core i5 Processor (11th Gen),64bitWindows10,8,Swift,1 Year International Travelers Warranty (ITW),,NO,,512
+77990,MSI,Intel Core i5 Processor (12th Gen),Windows11,16,N\A,2 Year Carry-in Warranty,15.6,NO,1024,256
+66990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows11,16,ZenBook,1 Year Onsite Warranty,14,NO,,512
+69990,ASUS,AMD Ryzen 7 Octa Core Processor,Windows11,16,VivoBook,1 Year Onsite Warranty,14,YES,,512
+37990,HP,AMD Ryzen 3 Quad Core Processor,64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Warranty Term,,NO,,512
+99990,HP,Intel Core i7 Processor (12th Gen),64bitWindows11,16,N\A,1 Year Onsite Warranty,15.6,NO,,512
+74990,HP,Intel Core i5 Processor (13th Gen),64bitWindows11,16,Pavilion,1 Year Onsite Warranty,15.6,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+22499,HP,MediaTek Kompanio 500 Processor,Chrome,4,N\A,1 Year Onsite Warranty,,YES,,
+99990,ASUS,Intel Core i7 Processor (12th Gen),Windows11,16,ZenBook,,,NO,,512
+25990,Ultimus,Intel Core i5 Processor (10th Gen),Windows11,8,Ultimus,1 Year On-Site Warranty,,NO,,512
+12990,Primebook,MediaTek MT8788 Processor,Android,4,Primebook,1 Year Onsite Warranty,11,NO,,
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+35990,Lenovo,Intel Core i3 Processor (11th Gen),64bitWindows11,8,IdeaPad,2 Years Warranty,,NO,,256
+36990,MSI,AMD Core i3 Processor (11th Gen),64bitWindows11,8,N\A,1 Year Warranty Term,,NO,,512
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,8,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection,15.6,NO,,512
+57990,HP,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Onsite Warranty,14,NO,,512
+39490,HP,AMD Ryzen 3 Quad Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+50990,Lenovo,AMD Ryzen 5 Hexa Core Processor,64bitWindows10,8,IdeaPad,1 Year Onsite�Warranty�+ 1 Year Accidental Damage Protection + 1 Year premium Care,,NO,,512
+74990,ASUS,Intel Core i5 Processor (12th Gen),64bitWindows11,8,VivoBook,1 Year Onsite Warranty,,YES,,512
+56990,HP,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Warranty Term,,NO,,512
+43500,HP,Intel Core i3 Processor (11th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+80990,HP,Intel Core i5 Processor (12th Gen),Windows11,8,Envy,1 Year Onsite Warranty,13.3,YES,,512
+37990,HP,AMD Ryzen 3 Quad Core Processor,64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+63990,ASUS,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,VivoBook,1 Year onsite warranty,15.6,NO,,512
+33500,DELL,Processor: AMD Athlon Silver 3050U (2.30 GHz up to 3.20 GHz),64bitWindows11,8,Inspiron,1 Year Onsite Warranty,15.6,NO,,256
+59990,ASUS,Intel Core i5 Processor (13th Gen),Windows11,8,N\A,1 Year On Site Warranty,,NO,,512
+54990,MSI,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,2 Year Carry-in Warranty,15.6,NO,,512
+69990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows11,16,Creator,1 Year Onsite Warranty,15.6,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+83990,ASUS,AMD Ryzen 7 Quad Core Processor,Windows11,16,N\A,1 Year Domestic Warranty,,NO,,1024
+63190,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+67990,MSI,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+37990,MSI,Intel Core i3 Processor (12th Gen),Windows11,16,N\A,1 Year Carry-in warranty,14,NO,,512
+109990,HP,Intel Core i7 Processor (12th Gen),Windows11,16,Envy,1 Year Onsite Warranty,15.6,YES,,1024
+85800,HP,Intel Core i7 Processor (11th Gen),64bitWindows11,16,Pavilion,1 Year Onsite Warranty,,YES,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,8,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection,15.6,NO,,512
+38600,ASUS,AMD Ryzen 3 Quad Core Processor,Windows11,8,VivoBook,1 Year Onsite Warranty,14,NO,,512
+84990,Acer,Intel Core i5 Processor (12th Gen),64bitWindows11,16,N\A,1 Year International Travelers Warranty (ITW),,YES,,512
+57990,HP,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Onsite Warranty,14,NO,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+82850,HP,AMD Ryzen 7 Octa Core Processor,Windows11,16,N\A,1 Year Onsite Warranty,15.6,NO,,512
+40990,ASUS,Intel Core i3 Processor (12th Gen),Windows11,8,VivoBook,1 Year Onsite Warranty,15.6,NO,,512
+89990,SAMSUNG,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,1 Year Onsite Warranty,15.6,NO,,512
+23290,HP,AMD Athlon Dual Core Processor,Windows11,8,N\A,,,NO,1024,
+37990,HP,AMD Ryzen 3 Quad Core Processor,64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Warranty Term,,NO,,512
+54990,MSI,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,2 Year Carry-in Warranty,15.6,NO,,512
+89990,SAMSUNG,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,1 Year Onsite Warranty,15.6,NO,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+23290,HP,AMD Athlon Dual Core Processor,Windows11,8,N\A,,,NO,1024,
+104990,Lenovo,Intel Core i7 Processor (11th Gen),64bitWindows10,16,Gaming,1 Year Onsite�Warranty�+ 1 Year Legion Ultimate Support + 1 Year Accidental Damage Protection,,NO,,512
+99990,Lenovo,AMD Ryzen 7 Octa Core Processor,Windows11,16,N\A,1 Year Onsite Warranty,15.6,NO,,512
+116990,MSI,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,2 Year Carry-in Warranty,15.6,NO,,1024
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+37990,MSI,Intel Core i3 Processor (12th Gen),Windows11,16,N\A,1 Year Carry-in warranty,14,NO,,512
+45990,DELL,AMD Ryzen 5 Quad Core Processor,64bitWindows10,8,Inspiron,,,NO,,512
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+65900,DELL,Intel Core i5 Processor (12th Gen),64bitWindows11,16,N\A,,,NO,,512
+49990,Acer,AMD Ryzen 5 Hexa Core Processor,64bitWindows11,8,Aspire,1 Year International Travelers Warranty (ITW),,NO,,512
+127990,ASUS,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,Gaming,1 Year Onsite Warranty,13.4,YES,,1024
+145790,APPLE,Apple M2 Processor,Mac,8,MacBook Air,1 Year Limited Warranty,15.3,NO,,512
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,16,N\A,1 Year Carry-in Warranty,14,NO,,512
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection,14,NO,,512
+42500,HP,Intel Core i3 Processor (11th Gen),64bitWindows10,8,N\A,1 Year Domestic Brand Warranty on Device,,NO,,512
+47990,Acer,Intel Core i5 Processor (12th Gen),64bitWindows11,8,Aspire,One-year International Travelers Warranty,15.6,NO,,512
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows11,16,IdeaPad,1 Year Carry-in Warranty,14,NO,,512
+86990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,IdeaPad,1 Year Carry-in Warranty,16,NO,,512
+57990,HP,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Onsite Warranty,14,NO,,512
+59990,ASUS,Intel Core i5 Processor (12th Gen),Windows11,16,VivoBook,1 Year Onsite Warranty,15.6,NO,,512
+49833,HP,Intel Core i5 Processor (11th Gen),64bitChrome,8,N\A,1 Year Onsite Warranty,,NO,,256
+137990,APPLE,Apple M2 Processor,Mac,8,MacBook Air,1 Year Limited Warranty,13.6,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+58490,Lenovo,Intel Core i5 Processor (11th Gen),64bitWindows11,16,IdeaPad,1 Year Onsite�Warranty�+ 1 Year Premium Care + 1 Year Accidental Damage Protection,15.6,NO,,512
+70990,Lenovo,Intel Core i5 Processor (12th Gen),Windows11,16,ThinkPad,1 Year Onsite Warranty,14,NO,,512
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+66990,DELL,Intel Core i5 Processor (13th Gen),Windows11,8,N\A,1-year warranty,,NO,,1024
+20919,ASUS,Intel Celeron Dual Core Processor,64bitWindows11,4,N\A,1 Year Onsite Warranty,11.6,NO,,128
+169990,ASUS,AMD Ryzen 7 Octa Core Processor,64bitWindows11,32,Gaming,1 Year Onsite Warranty,16,NO,,2048
+35100,ASUS,Intel Core i3 Processor (11th Gen),Windows11,8,N\A,1 Year International Warranty,,NO,,512
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,8,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection,15.6,NO,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+53990,Lenovo,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,3 YEAR BRAND WARRANTY,,NO,,512
+46200,HP,Intel Core i3 Processor (11th Gen),64bitWindows10,8,N\A,1 Year Onsite Warranty,,NO,,512
+37990,HP,AMD Ryzen 3 Quad Core Processor,64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+37990,HP,Intel Core i3 Processor (10th Gen),64bitWindows10,4,N\A,1 Year Onsite Warranty,,NO,,512
+139990,ASUS,AMD Ryzen 9 Octa Core Processor,Windows11,16,N\A,1 Year Onsite Warranty,16,NO,,1024
+70990,Lenovo,Intel Core i5 Processor (13th Gen),Windows11,16,IdeaPad,1 Year Carry-in Warranty,14,NO,,512
+104990,Lenovo,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,Gaming,1 Years Carry in Warranty,15.6,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+84500,HP,AMD Ryzen 5 Hexa Core Processor,64bitWindows10,16,Pavilion,1 Year Onsite Warranty,,NO,,512
+104990,Lenovo,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,Gaming,1 Years Carry in Warranty,15.6,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection,14,NO,,512
+76990,ASUS,AMD Ryzen 7 Octa Core Processor,Windows11,16,Creator,1 Year Onsite Warranty,15.6,NO,,512
+59990,ASUS,Intel Core i5 Processor (12th Gen),Windows11,16,VivoBook,1 Year Onsite Warranty,15.6,NO,,512
+165490,Lenovo,Intel Core i7 Processor (9th Gen),64bitWindows10,16,N\A,3 Year Onsite Warranty,,NO,,1024
+151990,HP,Intel Core i7 Processor (13th Gen),Windows11,16,Gaming,1 Year Onsite Warranty,16.1,NO,,512
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+69990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows11,16,Creator,1 Year Onsite Warranty,15.6,NO,,512
+81990,HP,Intel Core i5 Processor (10th Gen),64bitWindows10,8,Envy,1 Year Onsite Warranty,,YES,,512
+44990,Acer,Intel Core i5 Processor (12th Gen),64bitWindows11,8,Aspire,1 Year International Travelers Warranty,15.6,NO,,512
+51990,Lenovo,Intel Core i5 Processor (12th Gen),Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+117991,Lenovo,Intel Core i7 Processor (11th Gen),64bitWindows10,16,N\A,3 Years Warranty + 1 Year Premium Care + 1 Year ADP,,NO,,1024
+23990,ASUS,Intel Celeron Dual Core Processor,Windows11,4,VivoBook,1 Year Onsite Warranty,15.6,NO,,256
+144990,ASUS,AMD Ryzen 9 Octa Core Processor,64bitWindows11,16,Gaming,1 Year Onsite Warranty,,NO,,1024
+76990,ASUS,AMD Ryzen 7 Octa Core Processor,Windows11,16,Creator,1 Year Onsite Warranty,15.6,NO,,512
+55350,Lenovo,Intel Core i5 Processor (12th Gen),64bitWindows11,16,IdeaPad,2 Year warranty,15.6,NO,,512
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows11,16,IdeaPad,1 Year Carry-in Warranty,14,NO,,512
+172791,Lenovo,AMD Ryzen 7 Octa Core Processor,64bitWindows11,32,Gaming,3 Years Onsite Warranty + 1 Year Accidental Damage Protection + 3 Years Legion Ultimate Support,16,NO,,1024
+52650,DELL,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,,15.6,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+214990,MSI,Intel Core i7 Processor (10th Gen),64bitWindows10,32,Creator,2 Years Carry In Warranty,,NO,,1024
+39889,Lenovo,Intel Core i3 Processor (11th Gen),64bitWindows11,8,IdeaPad,2 Year warranty,,NO,,512
+28590,HP,AMD Ryzen 3 Dual Core Processor,DOS,8,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+52990,Infinix,Intel Core i5 Processor (11th Gen),64bitWindows11,16,N\A,1 Year Onsite Warranty,15.6,NO,,512
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+80990,DELL,Intel Core i5 Processor (13th Gen),Windows11,8,Inspiron,,,YES,,512
+69050,ASUS,AMD Ryzen 5 Hexa Core Processor,64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,1024
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,8,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection,15.6,NO,,512
+57990,HP,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Onsite Warranty,14,NO,,512
+79699,Lenovo,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Onsite Warranty,,NO,,512
+165601,Acer,Intel Core i9 Processor (13th Gen),Windows11,16,Gaming,1 Year International Travelers Warranty (ITW),16,NO,,1024
+95990,DELL,Intel Core i5 Processor,Windows11,16,N\A,1 Year Onsite Warranty,15.6,NO,,512
+37290,Lenovo,Intel Core i3 Processor (11th Gen),Windows11,8,N\A,1 Year Warranty,,NO,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Warranty Term,,NO,,512
+38390,DELL,Processor: Intel i3-1115G4 (Base- 1.7 GHz & Turbo up to 4.10 GHz) 2 Cores,Windows11,8,N\A,,15.6,NO,1024,256
+87990,MSI,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,2 Year Carry-in Warranty,17.3,NO,,512
+37990,HP,AMD Ryzen 3 Quad Core Processor,64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+84990,ASUS,Intel Core i7 Processor (12th Gen),Windows11,16,ZenBook,1 Year Onsite Warranty,,YES,,512
+35990,Infinix,Intel Core i3 Processor (10th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,256
+45990,ASUS,Intel Core i3 Processor (13th Gen),Windows11,8,VivoBook,1 Year Onsite Warranty,14,NO,,512
+229990,APPLE,Apple M2 Pro Processor,Mac,16,MacBook Pro,1 Year Limited Warranty,16,NO,,512
+344990,MSI,Intel Core i9 Processor (13th Gen),Windows11,32,N\A,2 Year Carry-in Warranty,17,NO,,2048
+74990,Lenovo,Intel Core i5 Processor (12th Gen),Windows11,16,ThinkPad,1 Year Onsite Warranty,14,NO,,1024
+173990,DELL,Intel Core i7 Processor (12th Gen),64bitWindows11,16,XPS,,,YES,,1024
+243990,APPLE,Apple M1 Pro Processor,Mac,16,MacBook Pro,1 Year Limited Warranty,,NO,,1024
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+44700,HP,AMD Ryzen 5 Hexa Core Processor,64bitWindows10,8,N\A,1 Year Onsite Warranty,,NO,,512
+58999,HP,Intel Core i5 Processor (11th Gen),64bitWindows11,8,Pavilion,1 Year onsite Warranty,,NO,,512
+34990,Infinix,Intel Core i5 Processor (11th Gen),64bitWindows11,16,N\A,1 year Onsite Warranty,,NO,,512
+88990,MSI,Intel Core i7 Processor (12th Gen),Windows11,16,N\A,2 Year Carry-in Warranty,15.6,NO,,512
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+64990,MSI,Intel Core i5 Processor (11th Gen),64bitWindows10,16,N\A,1 Year On-Site Warranty,,NO,,512
+44990,Acer,AMD Ryzen 5 Hexa Core Processor,Windows11,16,N\A,1 Year Onsite Warranty,14,NO,,512
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,8,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection,15.6,NO,,512
+57990,HP,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Onsite Warranty,14,NO,,512
+96990,ASUS,Intel Core i5 Processor (12th Gen),Windows11,16,Gaming,1 Year Onsite Warranty,,YES,,512
+329990,ASUS,Intel Core i7 Processor (12th Gen),64bitWindows11,16,ZenBook,1 Year Onsite Warranty,17.3,YES,,1024
+62190,HP,AMD Ryzen 5 Hexa Core Processor,64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+49990,ASUS,Intel Core i3 Processor (12th Gen),64bitWindows11,8,VivoBook,1 Year Onsite Warranty,14,YES,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+96990,ASUS,Intel Core i5 Processor (12th Gen),Windows11,16,Gaming,1 Year Onsite Warranty,,YES,,512
+88990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,IdeaPad,1 Year Carry-in Warranty,14,NO,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+59990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows11,8,Creator,1 Year Onsite Warranty,15.6,NO,,512
+72990,ASUS,AMD Ryzen 5 Processor,Windows11,16,N\A,1 Year Warranty,,NO,,512
+34990,Infinix,Intel Core i5 Processor (11th Gen),64bitWindows11,16,N\A,1 year Onsite Warranty,,NO,,512
+56690,DELL,Intel Core i5 Processor (11th Gen),64bitWindows11,8,Inspiron,1 Year Onsite Warranty,,NO,,256
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+74990,ASUS,Intel Core i5 Processor (12th Gen),Windows11,16,ZenBook,1 Year Onsite Warranty,14,YES,,512
+176990,ASUS,AMD Ryzen 9 Octa Core Processor,64bitWindows11,32,Gaming,1 Year Onsite Warranty,,NO,,1024
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+105990,ASUS,Intel Core i7 Processor (13th Gen),Windows11,16,VivoBook,1 Year Onsite Warranty,15.6,NO,,512
+137990,APPLE,Apple M2 Processor,Mac,8,MacBook Air,,13.6,NO,,512
+70990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,Pavilion,1 Year Onsite Warranty,,NO,,512
+154990,ASUS,AMD Ryzen 9 Octa Core Processor,Windows10,16,Gaming,1 Year Onsite Warranty,,NO,,1024
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,16,N\A,1 Year Carry-in Warranty,14,NO,,512
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection,14,NO,,512
+67990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows11,16,Creator,1 Year Onsite Warranty,15.6,NO,,1024
+48990,Lenovo,Intel Core i5 Processor (11th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty + 1 Year Accidental Damage Protection Add On,,NO,,512
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows11,16,IdeaPad,1 Year Carry-in Warranty,14,NO,,512
+86990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,IdeaPad,1 Year Carry-in Warranty,16,NO,,512
+84990,DELL,Intel Core i7 Processor (13th Gen),64bitWindows11,16,Inspiron,,14.1,NO,,1024
+77990,HP,AMD Ryzen 7 Octa Core Processor,64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+59990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows11,8,Creator,1 Year Onsite Warranty,15.6,NO,,512
+52798,HP,AMD Ryzen 5 Hexa Core Processor,64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+49990,MSI,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,2 Year Carry-in Warranty,15.6,NO,,512
+109990,Acer,Intel Core i7 Processor (13th Gen),Windows11,16,Gaming,1 Year International Travelers Warranty (ITW),16,NO,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+129039,HP,Intel Core i7 Processor (12th Gen),64bitWindows11,16,Spectre,1 Year Onsite Warranty,,NO,,512
+34790,HP,Intel Core i3 Processor (11th Gen),Windows11,8,N\A,,,NO,,512
+80754,HP,Intel Core i5 Processor (12th Gen),Windows11,16,Pavilion,1 Year Onsite Warranty,14,NO,,512
+140131,Lenovo,Intel Core i7 Processor (11th Gen),64bitWindows10,16,N\A,1 Year Onsite Warranty,,NO,,512
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,8,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection,15.6,NO,,512
+57990,HP,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Onsite Warranty,14,NO,,512
+450000,MSI,Intel Core i9 Processor (12th Gen),64bitWindows11,64,N\A,2 Year Warranty,,NO,,2048
+47990,Acer,Intel Core i5 Processor (12th Gen),Windows11,8,Aspire,1 Year International Travelers Warranty (ITW),15.6,NO,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+69490,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,16,Pavilion,1 Year Onsite Warranty,,NO,,512
+76990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows11,16,ZenBook,1 Year Onsite Warranty,14,NO,,512
+87990,MSI,Intel Core i7 Processor (12th Gen),Windows11,16,N\A,2 Year Carry-in Warranty,15.6,NO,,1024
+209990,ASUS,Intel Core i9 Processor (13th Gen),Windows11,16,Gaming,1 Year Onsite Warranty,13.4,NO,,1024
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+63500,MSI,Intel Core i5 Processor (11th Gen),64bitWindows11,16,N\A,,,NO,,512
+85990,MSI,Intel Core i7 Processor (12th Gen),Windows11,8,N\A,2 Year On-Site & Carry-In Warranty,15.6,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+209990,ASUS,Intel Core i9 Processor (13th Gen),Windows11,16,Gaming,1 Year Onsite Warranty,13.4,NO,,1024
+74649,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,16,N\A,1 Year Onsite Warranty,14,YES,,512
+144990,ASUS,AMD Ryzen 9 Octa Core Processor,64bitWindows11,16,Gaming,1 Year Onsite Warranty,,NO,,1024
+112390,DELL,Intel Core i7 Processor (12th Gen),64bitWindows11,16,N\A,,,NO,,512
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+40690,DELL,Intel Core i3 Processor (10th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+399990,ASUS,Intel Core i9 Processor (12th Gen),64bitWindows11,32,Gaming,1 Year Onsite Warranty,,NO,,4096
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,16,N\A,1 Year Carry-in Warranty,14,NO,,512
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection,14,NO,,512
+69350,Lenovo,Intel Core i5 Processor (13th Gen),Windows11,16,N\A,1-year warranty,,NO,,512
+41990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows11,8,IdeaPad,,,NO,,512
+72499,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,16,Pavilion,1 Year Onsite Warranty,15.6,NO,,512
+20490,Acer,Intel Pentium Silver Processor,64bitWindows11,4,Aspire,1 Year International Travelers Warranty (ITW),,NO,,256
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows11,16,IdeaPad,1 Year Carry-in Warranty,14,NO,,512
+86990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,IdeaPad,1 Year Carry-in Warranty,16,NO,,512
+63990,DELL,Intel Core i5 Processor (13th Gen),Windows11,8,Inspiron,1-year warranty,,NO,,1024
+222291,ASUS,Intel Core i9 Processor (12th Gen),64bitWindows11,32,Gaming,1 Year Onsite Warranty,16,NO,,1024
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+284990,ASUS,Intel Core i9 Processor (13th Gen),Windows11,32,Gaming,1 Year Onsite Warranty,16,NO,,1024
+85000,ASUS,Intel Core i5 Processor (13th Gen),Windows11,16,Creator,1 Year Onsite Warranty,14,NO,,512
+126000,HP,Intel Core i5 Processor (10th Gen),64bitWindows10,8,N\A,1 Year Onsite Warranty,,YES,,512
+99500,ASUS,Intel Core i5 Processor (13th Gen),Windows11,16,ZenBook,1 Year Onsite Warranty,14,YES,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+59990,MSI,Intel Core i5 Processor (12th Gen),Windows11,8,N\A,2 Year Carry-in Warranty,15.6,NO,,512
+344990,MSI,Intel Core i9 Processor (13th Gen),Windows11,32,N\A,2 Year Carry-in Warranty,17,NO,,2048
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+197990,ASUS,Intel Core i9 Processor (8th Gen),64bitWindows10,16,ZenBook,1 Year Onsite Warranty,,YES,,1024
+20990,Acer,Intel Celeron Dual Core Processor,Chrome,4,N\A,1 Year Onsite Warranty,14,NO,,
+36990,DELL,AMD Ryzen 3 Dual Core Processor,64bitWindows10,8,Inspiron,1 Year Onsite Warranty,,NO,1024,
+76500,HP,AMD Ryzen 5 Hexa Core Processor,64bitWindows11,8,Pavilion,1 Year Onsite Warranty,,NO,,512
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,16,N\A,1 Year Carry-in Warranty,14,NO,,512
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection,14,NO,,512
+96990,MSI,Intel Core i7 Processor (12th Gen),Windows11,16,N\A,2 Year Carry-in Warranty,15.6,NO,,1024
+64990,ASUS,Intel Core i5 Processor (13th Gen),Windows11,16,VivoBook,1 Year Onsite Warranty,16,NO,,512
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows11,16,IdeaPad,1 Year Carry-in Warranty,14,NO,,512
+86990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,IdeaPad,1 Year Carry-in Warranty,16,NO,,512
+134990,Lenovo,Intel Core i7 Processor (12th Gen),Windows11,16,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection,14.5,YES,,1024
+35990,DELL,Intel Core i3 Processor (11th Gen),64bitWindows10,8,Inspiron,1 Year Onsite Warranty,,NO,,256
+149990,GIGABYTE,Intel Core i7 Processor (12th Gen),64bitWindows11,16,AERO,2 Year Carry-in Warranty,,NO,,1024
+79990,ASUS,Intel Core i5 Processor (12th Gen),Windows11,16,Creator,1 Year Onsite Warranty,16,NO,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+145790,APPLE,Apple M2 Processor,Mac,8,MacBook Air,1 Year Limited Warranty,15.3,NO,,512
+234990,ASUS,AMD Ryzen 9 Octa Core Processor,64bitWindows10,32,Gaming,1 Year Onsite Warranty,,YES,,1024
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+109990,HP,AMD Ryzen 7 Octa Core Processor,Windows11,16,Gaming,1 Year Onsite Warranty,16.1,NO,,1024
+130990,MSI,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,2 Year Carry-in Warranty,15.6,NO,,1024
+82850,Lenovo,AMD Ryzen 7 Octa Core Processor (5th Gen),64bitWindows10,16,N\A,3 Years Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,,YES,,512
+41490,DELL,AMD Ryzen 5 Quad Core Processor,64bitWindows11,8,Inspiron,1 Year Onsite Warranty,,NO,,512
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+154990,MSI,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,2 Year Carry-in Warranty,17.3,NO,,1024
+53490,HP,Intel Core i5 Processor (11th Gen),DOS,8,N\A,1 Year Warranty,,NO,,512
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,16,N\A,1 Year Carry-in Warranty,14,NO,,512
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection,14,NO,,512
+179990,SAMSUNG,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16,YES,,1024
+53990,DELL,Intel Core i5 Processor (12th Gen),Windows11,8,N\A,,,NO,,512
+37490,DELL,Intel Core i3 Processor (10th Gen),64bitWindows10,4,Inspiron,1 Year Onsite Warranty,,NO,,256
+31990,Infinix,Intel Core i3 Processor (11th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows11,16,IdeaPad,1 Year Carry-in Warranty,14,NO,,512
+86990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,IdeaPad,1 Year Carry-in Warranty,16,NO,,512
+79990,MSI,Intel Core i7 Processor (10th Gen),64bitWindows10,8,N\A,2 Year On-Site Warranty,,NO,1024,256
+145790,APPLE,Apple M2 Processor,Mac,8,MacBook Air,1 Year Limited Warranty,15.3,NO,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+65990,ASUS,AMD Ryzen 5 Hexa Core Processor (5th Gen),64bitWindows10,8,ZenBook,1 Year Onsite Warranty,,NO,,512
+66989,Lenovo,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,IdeaPad,1 Year Onsite Warranty,,NO,,512
+184490,HP,Intel Core i7 Processor (13th Gen),64bitWindows11,32,Spectre,1 Year Onsite Warranty,16,YES,,1024
+75990,ASUS,Intel Core i5 Processor (13th Gen),Windows11,16,N\A,1 Year Domestic Warranty,,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+62483,Acer,Intel Core i5 Processor (11th Gen),64bitWindows10,16,N\A,1 Year International Travelers Warranty (ITW),,NO,1024,256
+38990,ASUS,AMD Ryzen 5 Quad Core Processor,Windows11,8,VivoBook,1 Year Onsite Warranty,15.6,NO,,512
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+42990,Acer,AMD Ryzen 5 Hexa Core Processor,64bitWindows10,8,Swift,1 Year International Travelers Warranty (ITW),,NO,,512
+45965,Lenovo,Intel Core i3 Processor (12th Gen),64bitWindows11,8,IdeaPad,2 Year Onsite Warranty,,NO,,512
+33200,ASUS,Intel Core i3 Processor (11th Gen),Windows11,8,N\A,1 Year International Warranty,,NO,,512
+112990,ASUS,Intel Core i7 Processor (13th Gen),Windows11,16,ZenBook,1 Year Onsite Warranty,14,NO,,512
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,16,N\A,1 Year Carry-in Warranty,14,NO,,512
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection,14,NO,,512
+67490,HP,Intel Core i5 Processor (11th Gen),64bitWindows11,8,Pavilion,1 Year onsite warranty,15.6,NO,,512
+18990,ASUS,Intel Celeron Dual Core Processor,Chrome,4,N\A,1 Year Onsite Warranty,14,NO,,
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows11,16,IdeaPad,1 Year Carry-in Warranty,14,NO,,512
+86990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,IdeaPad,1 Year Carry-in Warranty,16,NO,,512
+83600,Lenovo,Intel Core i5 Processor (11th Gen),64bitWindows10,8,N\A,,,NO,,512
+76990,Acer,AMD Ryzen 7 Octa Core Processor,64bitWindows10,8,N\A,1 Year International Travelers Warranty (ITW),,NO,1024,256
+137990,APPLE,Apple M2 Processor,Mac,8,MacBook Air,,13.6,NO,,512
+150748,Lenovo,AMD Ryzen 7 Octa Core Processor,Windows11,32,Gaming,3 Years Onsite Warranty + 1 Year Accidental Damage Protection + 3 Years Legion Ultimate Support,16,NO,,1024
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+94990,ASUS,Intel Core i7 Processor (12th Gen),Windows11,16,Creator,1 Year Onsite Warranty,16,NO,,512
+27990,Infinix,Intel Celeron Quad Core Processor,64bitWindows11,4,InBook X1,1 Year Onsite Warranty,,NO,,128
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+78990,HP,AMD Ryzen 7 Octa Core Processor,Windows11,16,Pavilion,1 Year Onsite Warranty,13.3,NO,,1024
+43990,ASUS,AMD Ryzen 5 Quad Core Processor,Windows11,8,VivoBook,1 Year Onsite Warranty,15.6,NO,,512
+72999,HP,Intel Core i5 Processor (13th Gen),Windows11,16,Pavilion,1 Year Onsite Warranty,15.6,NO,,512
+52990,ASUS,Intel Core i5 Processor (11th Gen),64bitWindows10,16,VivoBook,1 Year Onsite Warranty,,NO,1024,256
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+99890,Lenovo,Intel Core i7 Processor (12th Gen),64bitWindows11,16,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidental Damage Protection,16,NO,,512
+364990,ASUS,Intel Core i9 Processor (13th Gen),Windows11,32,Gaming,1 Year Onsite Warranty,16,NO,,2048
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,16,N\A,1 Year Carry-in Warranty,14,NO,,512
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection,14,NO,,512
+64990,Lenovo,Intel Core i5 Processor (10th Gen),64bitWindows10,8,N\A,3 Years Warranty + 1 Year Premium Care + 1 Year ADP,,NO,,512
+44299,HP,Intel Core i3 Processor (11th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+209890,Lenovo,Intel Core i9 Processor (13th Gen),Windows11,16,Gaming,1 Year Onsite Warranty,,NO,,1024
+77490,DELL,Processor: Intel i5-1235U (Base- 3.30 GHz & Turbo up to 4.40 GHz) 10 Cores,64bitWindows11,16,Inspiron,,,YES,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+216890,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,32,Gaming,1 Year Onsite Warranty,,NO,,1024
+62990,Lenovo,AMD Ryzen 5 Hexa Core Processor,64bitWindows11,16,IdeaPad,1 Year Onsite�Warranty�+ 1 Year Premium Care + 1 Year Accidental Damage Protection,,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+52990,DELL,Intel Core i5 Processor (11th Gen),64bitWindows10,8,N\A,1 Year Onsite Warranty,,NO,,512
+236990,ASUS,AMD Ryzen 9 Octa Core Processor,64bitWindows10,32,Gaming,1 Year Onsite Warranty,13.4,YES,,1024
+244890,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,32,Gaming,1 Year Onsite Warranty,,NO,,1024
+122990,SAMSUNG,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,1 Year Onsite Warranty,15.6,YES,,512
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+114990,Acer,Intel Core i7 Processor (11th Gen),Windows11,16,Swift,1 Year Onsite Warranty,16.1,NO,,1024
+59990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows11,8,VivoBook,1 Year Onsite Warranty,16,NO,,1024
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,16,N\A,1 Year Carry-in Warranty,14,NO,,512
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection,14,NO,,512
+41990,Acer,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,14,NO,,512
+108990,DELL,Intel Core i5 Processor (11th Gen),64bitWindows10,16,XPS,,13.3,NO,,512
+68990,HP,Intel Core i5 Processor (13th Gen),Windows11,16,N\A,1 Year Onsite Warranty,15.6,NO,,512
+34990,Acer,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,14,NO,,512
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows11,16,IdeaPad,1 Year Carry-in Warranty,14,NO,,512
+86990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,IdeaPad,1 Year Carry-in Warranty,16,NO,,512
+64600,HP,AMD Ryzen 5 Hexa Core Processor,64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+62990,HP,Intel Core i5 Processor (13th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+67990,ASUS,Intel Core i7 Processor (8th Gen),64bitWindows10,8,VivoBook,1 Year Limited International Hardware Warranty,,NO,1024,256
+52990,HP,AMD Ryzen 5 Quad Core Processor,Windows11,16,N\A,1 Year Onsite Warranty,14,NO,,512
+56976,Lenovo,Intel Core i5 Processor (10th Gen),64bitWindows10,8,IdeaPad,1 Year Onsite�Warranty�+ 1 Year Premium Care + 1 Year Accidental Damage Protection,,NO,1024,256
+68900,ASUS,Intel Core i5 Processor (11th Gen),Windows11Home,16,N\A,1 Year Warranty,,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+58500,Acer,Intel Core i5 Processor (11th Gen),64bitWindows11,8,Aspire,1 Year International Travelers Warranty (ITW),,NO,,512
+71990,ASUS,Intel Core i5 Processor (13th Gen),Windows11,16,VivoBook,1 Year Onsite Warranty,15.6,NO,,512
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+62249,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,Pavilion,1 Year Onsite Warranty,14,NO,,512
+36990,DELL,AMD Ryzen 3 Dual Core Processor,64bitWindows10,8,N\A,1 Year Onsite Warranty,,NO,,256
+65500,ASUS,AMD Ryzen 5 Processor,Windows11Home,16,N\A,1 Year Warranty,,YES,,1024
+38490,DELL,Intel Core i3 Processor (11th Gen),64bitWindows11,8,N\A,,14,NO,,512
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,16,N\A,1 Year Carry-in Warranty,14,NO,,512
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection,14,NO,,512
+71990,MSI,Intel Core i7 Processor (10th Gen),64bitWindows10,16,N\A,1 Year Carry In Warranty,,NO,,512
+125990,HP,Intel Core i7 Processor (11th Gen),64bitWindows11,16,Gaming,1 Year Onsite Warranty,16.1,NO,,1024
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows11,16,IdeaPad,1 Year Carry-in Warranty,14,NO,,512
+86990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,IdeaPad,1 Year Carry-in Warranty,16,NO,,512
+59990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows11,16,VivoBook,1 Year Onsite Warranty,16,NO,,512
+85990,ASUS,Intel Core i5 Processor (13th Gen),Windows11,16,VivoBook,1 Year Onsite Warranty,15.6,NO,,512
+193990,GIGABYTE,Intel Core i7 Processor (12th Gen),64bitWindows11,16,AERO,2 Year Carry-in Warranty,,NO,,1024
+29990,Infinix,Intel Core i3 Processor (12th Gen),Windows11,8,N\A,1 Year Onsite Warranty,14,NO,,512
+93590,Lenovo,AMD Ryzen 7 Octa Core Processor,Windows11,16,IdeaPad,1 Year Onsite Premium Support with 1 Year Onsite Warranty,14,NO,,512
+27990,Lenovo,Intel Celeron Dual Core Processor,64bitWindows11,8,IdeaPad,2 Years On-Site Warranty,15.6,NO,,256
+171990,ASUS,AMD Ryzen 7 Octa Core Processor,Windows11,16,Gaming,1 Year Onsite Warranty,16,YES,,1024
+74990,ASUS,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,VivoBook,1 Year Onsite Warranty,,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+41999,Acer,AMD Ryzen 3 Dual Core Processor,64bitWindows11,4,Aspire,1 Year International Travelers Warranty (ITW),,NO,,256
+55990,Acer,AMD Ryzen 7 Octa Core Processor,64bitWindows10,8,Aspire,1 Year International Travelers Warranty (ITW),,NO,,512
+194990,Acer,Intel Core i7 Processor (13th Gen),Windows11,32,Gaming,1 Year Onsite Warranty,16,NO,,1024
+210490,ASUS,Intel Core i9 Processor (12th Gen),64bitWindows11,32,Gaming,1 Year Onsite Warranty,,NO,,1024
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+41490,DELL,Processor: R3-5425U (2.70 GHz up to 4.1 GHz),64bitWindows11,8,N\A,,14.0,NO,,512
+189990,ASUS,Intel Core i9 Processor (12th Gen),64bitWindows11,32,Gaming,1 Year Onsite Warranty,,NO,,1024
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,8,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection,15.6,NO,,512
+57990,HP,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Onsite Warranty,14,NO,,512
+79881,Lenovo,Intel Core i5 Processor (11th Gen),Windows10,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+87550,ASUS,AMD Ryzen 7 Octa Core Processor,64bitWindows11,8,Gaming,1 Year Onsite Warranty,15.6,NO,,512
+30999,HP,AMD Athlon Dual Core Processor,64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+88990,ASUS,Intel Core i7 Processor (12th Gen),Windows11,16,Creator,1 Year Onsite Warranty,16,NO,,1024
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+194990,Acer,Intel Core i7 Processor (13th Gen),Windows11,32,Gaming,1 Year Onsite Warranty,16,NO,,1024
+87550,ASUS,AMD Ryzen 7 Octa Core Processor,64bitWindows11,8,Gaming,1 Year Onsite Warranty,15.6,NO,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+69490,Lenovo,Intel Core i5 Processor (10th Gen),64bitWindows10,8,IdeaPad,1 Year Warranty + 1 Year Premium Care + 1 Year ADP,,NO,1024,256
+30999,HP,AMD Athlon Dual Core Processor,64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+62550,ASUS,Intel Core i5 Processor (12th Gen),64bitWindows11,16,VivoBook,1 Year Onsite Warranty,14,YES,,512
+53490,DELL,Processor: Ryzen R5-5625U (Base- 2.30 GHz & Turbo up to 4.30 GHz) 6 Cores,64bitWindows11,8,Inspiron,,15.6,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+78990,Lenovo,Intel Core i5 Processor (12th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+56490,MSI,Intel Core i5 Processor (10th Gen),64bitWindows10,8,N\A,2 Year On-Site Warranty,,NO,,512
+42990,DELL,AMD Ryzen 5 Quad Core Processor,64bitWindows10,8,N\A,1 Year Onsite Warranty,,NO,,512
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+36990,Lenovo,Intel Core i3 Processor (10th Gen),Windows10,4,IdeaPad,1 Year Onsite Warranty,,NO,,256
+131990,ASUS,AMD Ryzen 9 Octa Core Processor,Windows11,16,N\A,1 Year Onsite Warranty,15.6,NO,,1024
+88990,ASUS,Intel Core i7 Processor (12th Gen),Windows11,16,Creator,1 Year Onsite Warranty,16,NO,,1024
+79990,ASUS,Intel Core i5 Processor (13th Gen),Windows11,16,N\A,1 year Domestic Warranty,,NO,,1024
+43990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,16,N\A,1 Year Carry-in Warranty,14,NO,,512
+69990,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,3 Years Onsite Warranty + 3 Years Premium Care + 1 Year Accidental Damage Protection,14,NO,,512
+185990,MSI,Intel Core i7 Processor (13th Gen),Windows11,32,N\A,2 Year Carry-in Warranty,17.3,NO,,1024
+39490,Lenovo,Intel Core i3 Processor (11th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+60990,Lenovo,AMD Ryzen 5 Hexa Core Processor,Windows11,16,IdeaPad,1 Year Carry-in Warranty,14,NO,,512
+86990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,IdeaPad,1 Year Carry-in Warranty,16,NO,,512
+74990,Acer,AMD Ryzen 5 Hexa Core Processor,64bitWindows11,8,N\A,1 Year International Travelers Warranty,15.6,NO,,512
+50090,DELL,AMD Ryzen 5 Quad Core Processor,64bitWindows11,8,Inspiron,1 Year Onsite Warranty,15.6,NO,1024,256
+16990,CHUWI,Intel Celeron Dual Core Processor (10th Gen),64bitWindows11,4,N\A,1 Year Onsite Warranty,,NO,,128
+73640,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+69990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows11,16,Creator,1 Year Onsite Warranty,15.6,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+85690,HP,Intel Core i7 Processor (12th Gen),64bitWindows11,16,N\A,1 Year Onsite Warranty,,NO,,512
+37990,Acer,Intel Core i3 Processor (11th Gen),64bitWindows10,4,Aspire,1 Year International Travelers Warranty (ITW),,NO,,256
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+202490,ALIENWARE,Intel Core i7 Processor (10th Gen),64bitWindows10,16,Gaming,1 Year Complete Cover Warranty,,NO,,1024
+139990,ASUS,AMD Ryzen 9 Octa Core Processor,Windows10,16,Gaming,1 Year Onsite Warranty,14,NO,,1024
+60990,MSI,Intel Core i7 Processor (12th Gen),Windows11,8,N\A,1 Year Carry-in warranty,14,NO,,512
+169990,ASUS,Intel Core i9 Processor (13th Gen),Windows11,16,Gaming,1 Year Onsite Warranty,16,NO,,1024
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,8,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection,15.6,NO,,512
+40990,HP,MediaTek Kompanio 1200 Processor,64bitChrome,8,N\A,1 Year Onsite Warranty,13.3,NO,,256
+92990,ASUS,Intel Core i5 Processor (13th Gen),Windows11,16,ZenBook,1 Year Onsite Warranty,14,NO,,512
+57990,HP,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Onsite Warranty,14,NO,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+85000,ASUS,Intel Core i5 Processor (12th Gen),Windows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+99990,ASUS,Intel Core i7 Processor (12th Gen),Windows11,16,Creator,1 Year Onsite Warranty,16,NO,,512
+284990,MSI,Intel Core i9 Processor (13th Gen),Windows11,32,N\A,2 Year Carry-in Warranty,16,NO,,1024
+45990,DELL,Intel Core i3 Processor (11th Gen),Windows11,8,N\A,,15.6,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+51990,ASUS,AMD Ryzen 5 Hexa Core Processor,Windows11,16,VivoBook,1 Year Onsite Warranty,16,NO,,512
+52990,Infinix,Intel Core i7 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,,NO,,1024
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+20990,ASUS,Intel Celeron Dual Core Processor,Chrome,4,N\A,1 Year Onsite Warranty,14,YES,,
+49990,Acer,AMD Ryzen 5 Hexa Core Processor,64bitWindows11,8,Swift,1 Year International Travelers Warranty,14,NO,,512
+148105,Lenovo,Intel Core i7 Processor (11th Gen),64bitWindows10,16,ThinkPad,,,NO,,512
+43990,ASUS,AMD Ryzen 5 Quad Core Processor,Windows11,16,N\A,1 Year Warranty,,NO,,512
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,8,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection,15.6,NO,,512
+57990,HP,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Onsite Warranty,14,NO,,512
+61990,DELL,Intel Core i5 Processor (11th Gen),Linux/Ubuntu,8,N\A,,,NO,,512
+135990,MSI,Intel Core i7 Processor (11th Gen),64bitWindows10,16,N\A,2 Years Carry In Warranty,,YES,,1024
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Warranty Term,,NO,,512
+39990,ASUS,AMD Ryzen 3 Quad Core Processor,64bitWindows11,8,VivoBook,1 Year Onsite Warranty,,NO,,512
+165990,SAMSUNG,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16,NO,,1024
+79800,HP,Intel Core i5 Processor (10th Gen),64bitWindows10,8,N\A,1 Year Onsite Warranty,,NO,,512
+138990,HP,Intel Core i7 Processor (13th Gen),64bitWindows11,16,Spectre,1 Year Onsite Warranty,13.5,YES,,1024
+37990,HP,AMD Ryzen 3 Quad Core Processor,64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+89990,ASUS,Intel Core i5 Processor (13th Gen),Windows11,16,Creator,1 Year Onsite Warranty,14,NO,,512
+55990,HP,AMD Ryzen 5 Hexa Core Processor (5th Gen),Windows11,8,N\A,1-year warranty,,NO,,512
+57990,HP,Intel Core i5 Processor (11th Gen),Windows11,16,N\A,1 Year Onsite Warranty,16.1,NO,,512
+58990,HP,Intel Core i5 Processor (11th Gen),Windows11,8,N\A,1 Year Onsite Warranty,16.1,NO,,512
+59990,MSI,AMD Ryzen 7 Octa Core Processor,Windows11,16,N\A,1 Year Carry-in warranty,14,NO,,512
+109990,MSI,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,2 Year Carry-in Warranty,14,NO,,1024
+104990,Lenovo,Intel Core i7 Processor (7th Gen),64bitWindows10,16,Gaming,1 Year Onsite Warranty,,NO,1024,128
+47499,HP,AMD Ryzen 5 Quad Core Processor,64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+32990,HP,AMD Ryzen 3 Dual Core Processor,Windows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+63990,HP,Intel Core i5 Processor (12th Gen),64bitWindows11,8,N\A,1 Year Onsite Warranty,15.6,NO,,512
+129990,Acer,Intel Core i7 Processor (12th Gen),64bitWindows11,16,N\A,1 Year International Travelers Warranty (ITW),,YES,,1024
+71990,ASUS,Intel Core i5 Processor (10th Gen),64bitWindows10,8,N\A,1 Year Onsite Warranty,,NO,,512
+55490,Lenovo,Intel Core i5 Processor (11th Gen),Windows11,8,IdeaPad,1 Year Onsite Warranty + 1 Year Premium Care + 1 Year Accidentaly Damage Protection,15.6,NO,,512
+57990,HP,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Onsite Warranty,14,NO,,512
+64990,Acer,Intel Core i5 Processor (8th Gen),64bitWindows10,8,Swift,1 Year International Travelers Warranty (ITW),,NO,,512
+93860,HP,Intel Core i7 Processor (11th Gen),64bitWindows11,16,Envy,1 Year Onsite Warranty,,YES,,512
+131990,DELL,Intel Core i7 Processor,Windows11,16,N\A,1 Year Onsite Warranty,15.6,NO,,512
+80490,HP,Intel Core i5 Processor (13th Gen),Windows11,16,Pavilion,1 Year Onsite Warranty,14,NO,,512
+40990,MSI,AMD Ryzen 5 Hexa Core Processor,Windows11,8,N\A,1 Year Carry-in Warranty,14,NO,,512
+114990,Lenovo,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,1 Year Carry-in Warranty,15.6,NO,,512
+109990,DELL,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,1-year Warranty,,YES,,512
+139990,DELL,Intel Core i5 Processor (12th Gen),Windows11,16,XPS,,13,YES,,512
+37990,HP,AMD Ryzen 3 Quad Core Processor,64bitWindows11,8,N\A,1 Year Onsite Warranty,,NO,,512
+59990,MSI,AMD Ryzen 7 Octa Core Processor,64bitWindows11,16,N\A,1 Year Warranty Term,,NO,,512
+133990,Lenovo,Intel Core i7 Processor (12th Gen),Windows11,16,N\A,,14,NO,,512
+169990,MSI,Intel Core i7 Processor (13th Gen),Windows11,16,N\A,2 Year Carry-in Warranty,16,NO,,1024
