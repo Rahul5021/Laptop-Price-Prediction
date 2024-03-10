@@ -1,4 +1,4 @@
-# Laptop Price Predictor
+# Laptop Price Prediction
 
 This Streamlit app predicts the price of laptops based on various features. The data for this project was collected from Flipkart using web scraping techniques in September 2023. The collected data underwent necessary preprocessing, exploratory data analysis (EDA), and filtering to prepare it for model training and application development.
 
